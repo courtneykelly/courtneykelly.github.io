@@ -1,0 +1,10 @@
+---
+title: giolitti
+date: 2015
+bycountry: ["italy"]
+bycity: ["rome"]
+byyear: ["2015"]
+background_image: '../../background/giolitti.jpeg'
+---
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.616600623534!2d12.477184729776889!3d41.90110186451176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60519cfa737b%3A0x38610a40a28f8107!2sGiolitti!5e0!3m2!1sen!2sus!4v1702064972227!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
