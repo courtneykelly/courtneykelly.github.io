@@ -1,0 +1,19 @@
+<div class="menu">
+    {{ $currentPagePath := trim .RelPermalink "/" }}
+    {{with .Site.Params.menu}}
+        <!-- Menu -->
+        {{range .}}
+        {{if .active}}
+            {{ $menuPath := trim .path "/" }}
+            {{ if ne $currentPagePath $menuPath }}
+                <div class="item">
+                    <a href={{.path}}>
+                        <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 655 512"><style>svg{fill:#776f62}</style><path d={{.svg}}/></svg>
+                        {{.en}}
+                    </a>
+                </div>    
+            {{ end }}
+        {{end}}
+        {{end}}
+    {{end}}
+</div>

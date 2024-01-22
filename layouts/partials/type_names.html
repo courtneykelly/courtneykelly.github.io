@@ -1,0 +1,9 @@
+{{ if .IsHome}} 
+{{ else if eq .Page.Type "bytrip"}} Trips
+{{ else if eq .Page.Type "bycity"}} Cities
+{{ else if eq .Page.Type "byneighborhood"}} Neighborhoods
+{{ else if eq .Page.Type "byoccasion"}} Occasions
+{{ else if eq .Page.Type "byvibe"}} Vibes
+{{ else if eq .Page.Type "bestof"}} Lists
+{{ else if eq .Page.Type "whatsnext"}} Lists   
+{{ end }}

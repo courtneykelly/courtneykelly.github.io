@@ -1,0 +1,23 @@
+<div class="container-home">
+    <div class="content-md">
+         <div class="split">
+             <div>
+                 <figure>
+                     <img class="pic" src="../../search.jpeg">
+                     <figcaption>search & destroy, saint mark's place, nyc</figcaption>
+                 </figure>
+             </div>
+             <div class="text">
+                 {{.Content}}
+             </div>
+         </div>            
+    </div>
+ </div>
+
+{{- partialCached "partials/all-tags.html" . -}}
+
+<div class="container-main container-list">
+    <div id="search-list">
+        {{ partialCached "partials/generate-key-combinations.html" . }}
+    </div>
+</div>
