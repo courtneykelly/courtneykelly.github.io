@@ -1,0 +1,26 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="description" content="{{ .Title }} - {{ .Permalink }}">
+    <meta name="author" content="{{ .Site.Params.Author }} - {{ .Site.BaseURL }}">
+    <meta name="msvalidate.01" content="B46311949B856F2A7015F366FB3CE878" />
+
+    <!-- Collect Analytics -->
+    {{ template "_internal/google_analytics.html" . }}
+
+    <title>{{ .Title }}</title>
+    <!-- <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="icon" type="image/png" href="/favicon.ico"> -->
+    <link type="image/png" sizes="16x16" rel="icon" href="/icons8-restaurant-ios-17-16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/icons8-restaurant-ios-17-32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/icons8-restaurant-ios-17-96.png">
+
+    {{ $style := resources.Get "style.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ $built := resources.Get "main.js" | js.Build "main.js" }}
+    <script type="text/javascript" src="{{ $built.RelPermalink }}" defer></script>
+    <!-- <script type="module" src="/main.js"></script> -->
+</head>

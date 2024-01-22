@@ -1,0 +1,81 @@
+.container-tags {
+    font-family: $font-family--title;
+    //color: #adb5bd;
+    color: #6e6f71;
+    font-size: .16rem;
+    font-weight: 500;
+    // padding: 8px 16px;
+    display: block;
+
+    div {
+        padding-bottom: 1px;
+    }
+
+    .tag-group {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2px 8px;
+        // padding-top: 2px;
+        padding-bottom: 3px;
+    }
+
+    .tag {
+        font-family: $font-family--title;
+        font-size: .14rem;
+        font-weight: 500;
+        box-sizing: border-box;
+        border: 1px solid #f45c1c;
+        background-color: #ffffff;
+        border-radius: 4px;
+        padding: 0 8px;
+        color: #f45c1c;
+    }
+
+    .tag:hover {
+        text-decoration: none;
+        background-color: #f45c1c;
+        color: #ffffff;
+    }
+
+    .nyc-tag {
+        font-family: $font-family--title;
+        font-size: .14rem;
+        font-weight: 500;
+        box-sizing: border-box;
+        border: 1px solid #f45c1c;
+        color: #ffffff;
+        border-radius: 4px;
+        padding: 0 8px;
+        background-color: #f45c1c;
+    }
+}
+
+.container-filter {
+    font-family: $font-family--title;
+    display: flex;
+    padding: 8px 0px 0px 0px;
+    // border-bottom: 1px solid #eee;
+
+    .filter-icon {
+        fill:#f45c1c;
+        background: $gray-white-300;
+    }
+
+    .filter-btn {
+        display: flex;
+        align-items: center;
+        font-size: 0.16rem;
+        // font-weight: 500;
+        background: $gray-white-300;
+        //color: #adb5bd;
+        color: #6e6f71;
+        padding: 4px 8px;
+        border: 1px solid $gray-white-300;
+        border-radius: 4px;
+    }
+
+    .filter-btn:hover {
+        border: 1px solid #adb5bd;
+    }
+}

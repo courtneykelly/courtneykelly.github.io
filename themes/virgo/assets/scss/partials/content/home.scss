@@ -1,0 +1,229 @@
+.container-home {
+    $min-height: 140px;
+    $min-width: 240px;
+    $item-height: 325px;
+    $item-width: 485px;
+
+    .menu {
+        font-family: $font-family--title;
+        // font-size: .45rem;
+        font-size: .5rem;
+        font-weight: 400;
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        box-sizing: border-box;     
+
+            .item {
+                // margin-top: 32px;
+                padding: 16px;
+
+                a {
+                    color: #fff;
+                    text-shadow:
+                        2px 2px 5px #222121,
+                        0.01em 0 black,
+                        0 0.01em black;
+                    text-align: center;
+                    text-size-adjust: auto;
+
+                    padding-bottom: 32px;
+                    padding-top: 32px;
+                    // margin-right: 32px;
+                    box-sizing: border-box;
+                    box-shadow: 3px 3px 5px #eee;
+                    border: 1px solid transparent;
+
+                    min-height: $min-height;
+                    min-width: $min-width;
+                    height: $item-height;
+                    width: $item-width;
+
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-content: center;
+                    justify-content: center;
+                    align-items: center;
+                    overflow: hidden;
+
+                    padding: 6px 4px;
+
+                    // Background image
+                    background-size: cover; 
+                    background-repeat: no-repeat; 
+                    background-position: center; 
+                    position: relative;
+        
+                    svg {
+                        fill: #fff;
+                        filter: drop-shadow(3px 5px 2px #222121);
+                        padding-right: 5px;
+
+                    }
+
+                    &:hover {
+                        text-decoration: none;
+                        color: $gray-400;
+                        border: 1px solid $gray-400;
+                        svg {
+                            fill: $gray-400;
+                        }
+                    }
+
+                    // Resize font as screen shrinks.
+                    @media screen and (max-width: 600px) {
+                        height: 315px;
+                        width: 470px;
+                    }
+                    @media screen and (max-width: 575px) {
+                        height: 305px;
+                        width: 455px;
+                    }
+                    @media screen and (max-width: 550px) {
+                        height: 295px;
+                        width: 440px;
+                        font-size: .45rem;
+                    }
+                    @media screen and (max-width: 525px) {
+                        height: 285px;
+                        width: 425px;
+                    }
+                    @media screen and (max-width: 500px) {
+                        height: 275px;
+                        width: 410px;
+                        font-size: .4rem;
+                    }
+                    @media screen and (max-width: 450px) {
+                        height: 260px;
+                        width: 388px;
+                    }
+                    @media screen and (max-width: 425px) {
+                        height: 250px;
+                        width: 373px;
+                    }
+                    @media screen and (max-width: 400px) {
+                        height: 220px;
+                        width: 328px;
+                        font-size: .35rem;
+                    }
+                    @media screen and (max-width: 475px) {
+                        height: 210px;
+                        width: 313px;
+                        font-size: .3rem;
+                    }
+                    @media screen and (max-width: 350px) {
+                        height: 195px;
+                        width: 291px;
+                        font-size: .25rem;
+                    }
+                    @media screen and (max-width: 300px) {
+                        height: 160px;
+                        width: 240px;
+                        font-size: .25rem;
+                    }
+                }
+            }
+    }
+
+    // style of `content/_index.md`
+    // some customizations of content of md
+    .content-md {
+        font-family: $font-family--cabin;
+        font-size: $font-family--text;;
+        padding-top: 24px;
+
+        p,
+        li,
+        td {
+            & > code {
+                color: $code-inline-color;
+            }
+        }
+
+        .highlight {
+
+            margin: 16px 0;
+            border-top: 2px solid $highlight-color;
+            border-bottom: 2px solid $highlight-color;
+            padding: 2px 0;
+            font-size: 0.14rem;
+            overflow: hidden;
+            &:hover {
+                overflow: auto;
+            }
+    
+            pre {
+                padding-top: 0;
+            }
+        }
+    
+        pre {
+            font-size: 0.14rem;
+            border-top: 1px solid $highlight-color;
+            border-bottom: 1px solid $highlight-color;
+    
+            padding: 12px;
+            overflow: hidden;
+    
+            &:hover {
+                overflow: auto;
+            }
+    
+            .lang {
+                cursor: pointer;
+                margin-bottom: 16px;
+                padding: 4px 0px;
+                border-bottom: 1px dashed $gray-500;
+            }
+        }
+    
+        em {
+            font-style: italic;
+        }
+    }
+
+    .content {
+        font-size: $font-family--text;
+        text-align: center;
+        .desc {
+            img {
+                max-width: 100%;
+            }
+
+            .words {
+                box-sizing: border-box;
+                font-size: .18rem;
+                color: $gray-500;
+                max-width: 600px;
+                padding: 48px 32px;
+                border-radius: 10px;
+                margin: 120px 0 160px;
+                background: $gray-white-400;
+            }
+        }
+    }
+
+    /* Split the screen in half */
+    .split {
+        font-family: $font-family--handwriting;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        .pic {
+            max-height: 550px;
+            height: auto;
+        }
+
+        .text {
+            flex-wrap: nowrap;
+            max-width: 600px;
+        }
+    }
+    
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{- partial "head.html" . -}}
+    <body class="{{ with .Site.Params.hasActiveAnimate }}active-animate{{ end }} {{ with .Site.Params.hasActiveCool }}cool{{ end }}">
+        <div id="header">
+            {{- partial "header.html" . -}}
+        </div>
+        <div id="content">
+            {{- block "main" . }}{{- end }}
+        </div>
+        <div id="footer">
+            {{- partialCached "footer.html" . -}}
+        </div>
+    </body>
+</html>

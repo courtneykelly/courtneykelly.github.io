@@ -1,0 +1,21 @@
+import greet from "js/init/greet";
+import initEventBinding from "js/init/eventBinding";
+import initCodeBlock from "js/init/initCodeBlock";
+import initNavLink from "js/init/initNavLink";
+import initMouseClickAnimate from "js/init/initMouseClickAnimate";
+import enhanceOrgMode from './js/init/enhanceOrgMode';
+import enhanceMarkdown from './js/init/enhanceMarkdown';
+import initTagBinding from './js/init/initTagBinding';
+import initApplyFiltersBinding from "./js/init/initApplyFiltersBinding";
+import initLocalStorage from "js/init/initLocalStorage";
+
+greet();
+enhanceOrgMode();
+initNavLink();
+initCodeBlock();
+enhanceMarkdown();
+// initMouseClickAnimate();
+initLocalStorage();
+initEventBinding();
+initTagBinding();
+initApplyFiltersBinding();

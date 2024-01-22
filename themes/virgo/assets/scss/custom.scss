@@ -1,0 +1,261 @@
+html {
+    font-size: 100px;
+    scroll-behavior: auto;
+    // filter: grayscale(100%);
+}
+
+body {
+    color: $gray-800;
+    font-family: $font-family--text;
+    font-size: 0.16rem;
+    line-height: 1.5;
+}
+
+li::marker {
+    color: #ccc;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-family--title;
+    background: $headline-bg-color;
+    padding: 16px 0;
+
+    a {
+        display: inline-block;
+        margin: 4px;
+        font-size: 0.14rem;
+    }
+
+    code {
+        font-family: $font-family--code;
+    }
+}
+
+h1 {
+    font-size: 0.50rem;
+
+    @media screen and (max-width: 500px) {
+        font-size: .45rem;
+    }
+    @media screen and (max-width: 490px) {
+        font-size: .44rem;
+    }
+    @media screen and (max-width: 480px) {
+        font-size: .43rem;
+    }
+    @media screen and (max-width: 470px) {
+        font-size: .42rem;
+    }
+    @media screen and (max-width: 460px) {
+        font-size: .41rem;
+    }
+    @media screen and (max-width: 450px) {
+        font-size: .4rem;
+    }
+    @media screen and (max-width: 440px) {
+        font-size: .39rem;
+    }
+    @media screen and (max-width: 430px) {
+        font-size: .38rem;
+    }
+    @media screen and (max-width: 420px) {
+        font-size: .37rem;
+    }
+    @media screen and (max-width: 410px) {
+        font-size: .36rem;
+    }
+    @media screen and (max-width: 400px) {
+        font-size: .35rem;
+    }
+    @media screen and (max-width: 390px) {
+        font-size: .34rem;
+    }
+    @media screen and (max-width: 380px) {
+        font-size: .33rem;
+    }
+    @media screen and (max-width: 370px) {
+        font-size: .32rem;
+    }
+    @media screen and (max-width: 360px) {
+        font-size: .31rem;
+    }
+    @media screen and (max-width: 350px) {
+        font-size: .3rem;
+    }
+}
+
+h2 {
+    font-size: 0.28rem;
+}
+
+h3 {
+    font-size: 0.24rem;
+}
+
+h4 {
+    font-size: 0.2rem;
+}
+
+h5 {
+    font-size: 0.2rem;
+}
+
+h6 {
+    font-size: 0.2rem;
+}
+
+img {
+    max-width: 100%;
+    border: 1px solid $img-border-color;
+}
+
+a {
+    color: $link-color;
+
+    &:hover {
+        text-decoration: underline;
+        color: $link-hover-color;
+    }
+}
+
+p {
+    margin: 16px 0;
+}
+
+hr {
+    margin: 0.24rem 0;
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: $gray-white-500;
+}
+
+table {
+    margin: 0.24rem 0;
+
+    thead tr {
+        border-top: 2px solid $table-color;
+    }
+
+    tbody {
+        border-top: 2px solid $table-color;
+
+        tr {
+            border-bottom: 1px solid $table-color;
+
+            &:last-child {
+                border-bottom: 2px solid $table-color;
+            }
+        }
+    }
+
+    th,
+    td {
+        padding: 3px 6px;
+        border-right: 1px solid $table-color;
+
+        &:first-child {
+            border-left: $white-000;
+        }
+
+        &:last-child {
+            border-right: $white-000;
+        }
+    }
+}
+
+blockquote {
+    padding-left: 16px;
+    border-left: 1px solid $gray-500; //$blockquote-color;
+    color: $blockquote-color;
+}
+
+.oh-essay,
+.summary,
+blockquote,
+p,
+td,
+li {
+    code {
+        font-size: 0.14rem;
+        font-family: $font-family--code;
+        color: $code-inline-color;
+    }
+}
+
+pre,
+pre code {
+    font-family: $font-family--code;
+}
+
+ul,
+ol {
+    list-style-position: outside;
+    padding-left: 20px;
+    margin-bottom: 16px;
+
+    li p {
+        margin: 0;
+    }
+}
+
+ol {
+    // padding-left: 28px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+u,
+em,
+.oh-hl,
+.oh-essay {
+    code {
+        color: $code-inline-color;
+    }
+}
+
+.oh-essay {
+    position: relative;
+    margin: 16px auto;
+    padding-left: 16px;
+    border-left: 1px dashed $essay-color;
+    font-size: 0.15rem;
+    color: $essay-color;
+
+    &:before {
+        content: '🗨️'; //'💭'; //'💬'; //'🗨️';
+        position: absolute;
+        left: -32px;// -8px; // -32px;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.oh-hl {
+    background: #fef9e7;
+    padding: 0 4px;
+    border-radius: 4px;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 4px 4px;
+
+    &:hover {
+        text-decoration: none;
+        border: 1px solid $gray-500;
+    }
+}

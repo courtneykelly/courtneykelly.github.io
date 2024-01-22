@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ $IsHello := eq .Title "About"}}
+{{ $IsSearch := eq .Title "Search"}}
+{{ $IsDearReader := eq .Title "dearest gentle reader" }}
+
+<!-- Dear Reader -->
+{{ if $IsDearReader }}
+    {{ partialCached "partials/_about.html" . }}
+
+<!-- Hello -->
+{{ else if $IsHello }}
+
+    {{ partialCached "partials/_hello.html" . }}
+
+<!-- Search -->
+{{ else if $IsSearch }}
+
+    {{- partialCached "partials/_search.html" . -}}
+
+<!-- Normal List -->
+{{ else }}
+<div class="container-main container-list">
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    <div class="list {{if .Site.Params.isSingleColumnOfPostList}}list-single-col{{end}}">
+    {{ range .Paginator.Pages }}
+        <div class="item">
+            <a href="{{.Permalink}}" style="background-image: url({{ .Params.background_image }});">
+                <span> {{ lower .Title}} </span>
+            </a>
+        
+        </div>
+    {{ end }}
+    </div>
+
+    <div class="container-pagination">
+    {{ template "_internal/pagination.html" . }}
+    </div>
+</div>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,173 @@
+.container-page {
+    position: relative;
+    font-size: 0.16rem;
+
+    .desc {
+        color: $gray-500;
+        padding-bottom: 5px;
+        font-size: 0.14rem;
+    }
+
+    .toc {
+        position: fixed;
+        border-left: 1px solid $gray-300;
+        width: 260px;
+        max-height: 566px;
+        top: 176px;
+        right: 16px;
+        font-size: 0.14rem;
+        overflow: scroll;
+
+        &::-webkit-scrollbar {
+            width: 2px;
+        }
+        &::-webkit-scrollbar-thumb {
+            background-color: $gray-300;
+        }
+
+        li {
+            list-style: none;
+            a {
+                color: $gray-600;
+                &:hover {
+                    color: $link-hover-color;
+                }
+            }
+        }
+
+        .toc-link--active {
+            color: #d14;
+        }
+
+        .page-operation {
+            display: flex;
+            position: fixed;
+            top: 136px;
+            right: 144px;
+            a {
+                img {
+                    padding: 2px;
+                    width: 24px;
+                }
+            }
+        }
+
+        #TableOfContents {
+            ul,
+            ol {
+                margin-bottom: 4px;
+            }
+
+            li a:not(:first-child){
+                color: $gray-300;
+                font-size: .01rem;
+            }
+        }
+    }
+
+    .content {
+        padding-top: 16px;
+        font-family: $font-family--text;
+        
+        p,
+        li,
+        td {
+            & > code {
+                color: $code-inline-color;
+            }
+        }
+
+        iframe {
+            margin: auto;
+            display: block;
+
+            @media only screen and (max-width: 600px) {
+                width: auto;
+                height: auto;
+            }
+        }
+
+        /* Split the screen and resize */
+        .split {
+            display: grid;
+            place-items: center;
+            align-items: start;
+            grid-template-columns: repeat(3, 1fr);
+
+            // Screens smaller than 1600px - 2 columns.
+            @media only screen and (max-width: 1600px) {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            // Screens smaller than 1200px - 1 columns.
+            @media only screen and (max-width: 1200px)  {
+                grid-template-columns: auto;
+            }
+
+            figure img {
+                // Screens smaller than 600px - shrink image with screen size.
+                @media only screen and (max-width: 600px) {
+                    height: auto;
+                    max-height: 550px;
+                    max-width: 100%;
+                }
+            }
+
+            figure figcaption {
+                font-size: .12rem;
+            }
+        }
+    }
+
+    .content-card {
+        h3 {
+            color: $gray-500;
+            font-size: 0.18rem;
+        }
+
+        h4 {
+            color: $gray-500;
+            font-size: 0.16rem;
+        }
+    }
+
+    .highlight {
+        margin: 16px 0;
+        border-top: 1px solid $highlight-color;
+        // border-bottom: 2px solid $highlight-color;
+        padding: 2px 0;
+        font-size: 0.14rem;
+        overflow: hidden;
+        &:hover {
+            overflow: auto;
+        }
+
+        pre {
+            padding-top: 0;
+        }
+    }
+
+    pre {
+        font-size: 0.14rem;
+        border-top: 1px solid $highlight-color;
+        border-bottom: 1px solid $highlight-color;
+
+        padding: 12px 0;
+        overflow: hidden;
+
+        &:hover {
+            overflow: auto;
+        }
+
+        .lang {
+            cursor: pointer;
+            margin-bottom: 16px;
+            padding: 4px 0px;
+            border-bottom: 1px dashed $gray-200;
+        }
+    }
+
+    em {
+        font-style: italic;
+    }
+}
