@@ -1,18 +1,3 @@
-<div class="container-ctgtag">
-	<div class="taxonomy">
-		<!-- 📂 🔖 🏷️-->
-		<div class="ctg">
-			<!-- <img src="/imgs/icons/ctg.svg" width="16" /> -->
-			{{ range .Params.categories }}
-			<a href="/categories/{{ . | urlize }}">{{ . }}</a>
-			{{ end }}
-		</div>
-		<div class="tag">
-			<!-- {{ with .Params.tags }} <img src="/imgs/icons/tag.svg" width="16" /> {{ end }} -->
-			{{ with .Params.tags }} - {{ end }}
-			{{ range .Params.tags }}
-			<a href="/tags/{{ . | urlize }}">{{ . }}</a>
-			{{ end }}
-		</div>
-	</div>
-</div>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d4a9d0602da6a83f5260c17b380352dedf3d2c57885a1fa62c1b8c58131efb8
+size 532

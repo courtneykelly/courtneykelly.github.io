@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-    {{- partial "head.html" . -}}
-    <body class="{{ with .Site.Params.hasActiveAnimate }}active-animate{{ end }} {{ with .Site.Params.hasActiveCool }}cool{{ end }}">
-        <div id="header">
-            {{- partial "header.html" . -}}
-        </div>
-        <div id="content">
-            {{- block "main" . }}{{- end }}
-        </div>
-        <div id="footer">
-            {{- partialCached "footer.html" . -}}
-        </div>
-    </body>
-</html>
+version https://git-lfs.github.com/spec/v1
+oid sha256:328c13cc338ace99d77ba8acb20c4519fd1b50e022cb002e1a48f6954b003a66
+size 483
