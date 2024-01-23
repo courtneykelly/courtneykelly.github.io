@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hell&#39;s kitchen on courtside nyc</title>
+    <link>http://example.org/byneighborhood/hells-kitchen/</link>
+    <description>Recent content in hell&#39;s kitchen on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byneighborhood/hells-kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>queen of sheba</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</guid>
+      <description> thoughts my go to spot when i lived in hell&amp;rsquo;s kitchen. </description>
+    </item>
+    <item>
+      <title>ippudo</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-03-23-ippudo/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-03-23-ippudo/</guid>
+      <description> thoughts two locations one in the east village and another in hell&amp;rsquo;s kitchen save some tables for walk-ins menu highlights karaka spicy bao buns &amp;amp; shisitos </description>
+    </item>
+    <item>
+      <title>bea</title>
+      <link>http://example.org/posts/nyc-restaurants/2019-09-16-bea/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2019-09-16-bea/</guid>
+      <description> thoughts very close to broadway if you&amp;rsquo;re trying to catch a show menu highlights good cocktails </description>
+    </item>
+    <item>
+      <title>emmy squared</title>
+      <link>http://example.org/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
+      <description>menu highlights this is a pizza place, but the burger is phenomenal. it&amp;rsquo;s a double stacked smash patty served on a pretzel bun with waffle fries. i&amp;rsquo;m drooling. </description>
+    </item>
+    <item>
+      <title>aria</title>
+      <link>http://example.org/posts/nyc-restaurants/2019-04-12-aria/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2019-04-12-aria/</guid>
+      <description> thoughts sit at the bar </description>
+    </item>
+    <item>
+      <title>wondee siam</title>
+      <link>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</guid>
+      <description> thoughts go-to spot when i lived in hell&amp;rsquo;s kitchen menu highlights crispy pork </description>
+    </item>
+  </channel>
+</rss>

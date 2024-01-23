@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rooftop sauce on courtside nyc</title>
+    <link>http://example.org/byvibe/rooftop-sauce/</link>
+    <description>Recent content in rooftop sauce on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byvibe/rooftop-sauce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gallow green</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-10-16-gallow-green/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-10-16-gallow-green/</guid>
+      <description> thoughts restaurant on the roof of the mccitrick hotel, where they do sleep no more(a live reenactment of shakespeare&amp;rsquo;s macbeth) very interesting vibe, staff are sometimes also actors in the show, quirky vibes summer only, no outdoor heaters so if it&amp;rsquo;s cold dress warm </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>upper west side on courtside nyc</title>
+    <link>http://example.org/byneighborhood/upper-west-side/</link>
+    <description>Recent content in upper west side on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byneighborhood/upper-west-side/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>leyla</title>
+      <link>http://example.org/posts/nyc-restaurants/2024-01-12-leyla/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2024-01-12-leyla/</guid>
+      <description> thoughts menu highlights </description>
+    </item>
+    <item>
+      <title>chama mama</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-12-08-chama-mama/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-12-08-chama-mama/</guid>
+      <description> menu highlights try the georgian wine! mushrooms sleeper hit </description>
+    </item>
+    <item>
+      <title>emmy squared</title>
+      <link>http://example.org/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
+      <description>menu highlights this is a pizza place, but the burger is phenomenal. it&amp;rsquo;s a double stacked smash patty served on a pretzel bun with waffle fries. i&amp;rsquo;m drooling. </description>
+    </item>
+    <item>
+      <title>jacob&#39;s pickles</title>
+      <link>http://example.org/posts/nyc-restaurants/2018-09-30-jacobs-pickle/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2018-09-30-jacobs-pickle/</guid>
+      <description> thoughts looks expensive, but one sandwich lasted me 3 meals </description>
+    </item>
+  </channel>
+</rss>

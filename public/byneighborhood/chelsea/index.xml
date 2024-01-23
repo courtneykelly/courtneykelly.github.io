@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chelsea on courtside nyc</title>
+    <link>http://example.org/byneighborhood/chelsea/</link>
+    <description>Recent content in chelsea on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byneighborhood/chelsea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>konbon</title>
+      <link>http://example.org/posts/nyc-restaurants/2024-01-07-konbon/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2024-01-07-konbon/</guid>
+      <description> thoughts fantastic menu highlights scallop carpaccio mazemen (not spicy) corn dessert is so realistic i looked at the table next to us trying to cut theirs in half and thought to myself &amp;ldquo;who the fuck cuts corn like that&amp;rdquo; </description>
+    </item>
+    <item>
+      <title>gallow green</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-10-16-gallow-green/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-10-16-gallow-green/</guid>
+      <description> thoughts restaurant on the roof of the mccitrick hotel, where they do sleep no more(a live reenactment of shakespeare&amp;rsquo;s macbeth) very interesting vibe, staff are sometimes also actors in the show, quirky vibes summer only, no outdoor heaters so if it&amp;rsquo;s cold dress warm </description>
+    </item>
+    <item>
+      <title>cote</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-03-07-cote/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-03-07-cote/</guid>
+      <description> thoughts also has a cool bar scene </description>
+    </item>
+    <item>
+      <title>el quijote</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-15-12-el-quijote/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-15-12-el-quijote/</guid>
+      <description> thoughts they have a basement wine cellar you can rent out for a special event or birthday dinner! such a cool space. old and historic, but also trendy and cool. bar scene is lit. also can easily walk through the double doors at the back of the restaurant and head into the lobby bar at hotel chelsea for a post-dinner drink. menu highlights </description>
+    </item>
+    <item>
+      <title>xing fu tang</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</guid>
+      <description>3 locations&#xA;thoughts best boba i&amp;rsquo;ve ever had </description>
+    </item>
+    <item>
+      <title>mel&#39;s</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-08-31-mels/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-08-31-mels/</guid>
+      <description> thoughts great spot to come with a big group or a birthday dinner.&#xA;menu highlights &amp;ldquo;the oil&amp;rdquo; side sauce the ice cream sundaes are gas </description>
+    </item>
+    <item>
+      <title>lobby bar hotel chelsea</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-08-15-lobby-bar-hotel-chelsea/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-08-15-lobby-bar-hotel-chelsea/</guid>
+      <description> thoughts i plan my friend&amp;rsquo;s visits around going to this bar - always hits.&#xA;menu highlights ordering the martini is hysterical. they bring out an empty martini glass, a bottle of gin or vodka frozen in a block of ice, fill it to the rim, and give you the vermouth and garnishes on the side. </description>
+    </item>
+    <item>
+      <title>shukette</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-08-15-shukette/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-08-15-shukette/</guid>
+      <description> thoughts one of my all time favorite restaurants in new york.&#xA;menu highlights get all the breads and dips </description>
+    </item>
+    <item>
+      <title>chama mama</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-12-08-chama-mama/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-12-08-chama-mama/</guid>
+      <description> menu highlights try the georgian wine! mushrooms sleeper hit </description>
+    </item>
+  </channel>
+</rss>

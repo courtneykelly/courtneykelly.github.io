@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clean • modern on courtside nyc</title>
+    <link>http://example.org/byvibe/clean-modern/</link>
+    <description>Recent content in clean • modern on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byvibe/clean-modern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>domo domo</title>
+      <link>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
+      <description> thoughts when the sushi craving hits and needs to be resolved asap but there&amp;rsquo;s cheaper + better omakase </description>
+    </item>
+    <item>
+      <title>figure eight</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</guid>
+      <description> menu highlights long beans sun chokes corn jalepeño bolobao </description>
+    </item>
+    <item>
+      <title>tonchin</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-11-25-tonchin/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-11-25-tonchin/</guid>
+      <description> menu highlights known for their &amp;ldquo;pizza&amp;rdquo; ramen, i had to try it. it did taste like a pizza, but next time im just going to get the classic spicy tonkotsu </description>
+    </item>
+    <item>
+      <title>principe</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-07-14-principe/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-07-14-principe/</guid>
+      <description> thoughts great bar scene, asked for an americano and i didn&amp;rsquo;t have to explain not the coffee menu highlights key lime pie ice cream sandwich </description>
+    </item>
+    <item>
+      <title>thirteen water</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</guid>
+      <description>thoughts excellent</description>
+    </item>
+    <item>
+      <title>librae bakery</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-06-04-librae-bakery/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-06-04-librae-bakery/</guid>
+      <description> thoughts line does not move quick, but it&amp;rsquo;s worth it&#xA;menu highlights everything is good, but my go to is the labneh &amp;amp; za&amp;rsquo;atar bun </description>
+    </item>
+    <item>
+      <title>seoul salon</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-05-02-seoul-salon/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-05-02-seoul-salon/</guid>
+      <description> thoughts walk-in bar seating&#xA;menu highlights pancake fried chicken </description>
+    </item>
+  </channel>
+</rss>

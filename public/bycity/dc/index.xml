@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>washington dc on courtside nyc</title>
+    <link>http://example.org/bycity/dc/</link>
+    <description>Recent content in washington dc on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/bycity/dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>daru</title>
+      <link>http://example.org/posts/trips/dc/2022-04-16-daru/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2022-04-16-daru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>martha dear</title>
+      <link>http://example.org/posts/trips/dc/2022-04-15-martha-dear/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2022-04-15-martha-dear/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>thompson italian</title>
+      <link>http://example.org/posts/trips/dc/2022-04-14-thompson-italian/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2022-04-14-thompson-italian/</guid>
+      <description>locations 2 locations </description>
+    </item>
+    <item>
+      <title>caruso&#39;s grocery</title>
+      <link>http://example.org/posts/trips/dc/2021-11-27-carusos-grocery/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2021-11-27-carusos-grocery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>le diplomate</title>
+      <link>http://example.org/posts/trips/dc/2021-11-24-le-diplomate/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2021-11-24-le-diplomate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2 amys</title>
+      <link>http://example.org/posts/trips/dc/2020-02-16-2-amys/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2020-02-16-2-amys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>florida avenue grill</title>
+      <link>http://example.org/posts/trips/dc/2019-09-22-florida-avenue-grill/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2019-09-22-florida-avenue-grill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tail up goat</title>
+      <link>http://example.org/posts/trips/dc/2019-09-22-tail-up-goat/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2019-09-22-tail-up-goat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>chercher&#39;s ethiopian</title>
+      <link>http://example.org/posts/trips/dc/2019-09-20-cercher-ethiopian/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/dc/2019-09-20-cercher-ethiopian/</guid>
+      <description>locations 3 locations </description>
+    </item>
+  </channel>
+</rss>

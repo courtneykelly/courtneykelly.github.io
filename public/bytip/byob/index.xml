@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>byob on courtside nyc</title>
+    <link>http://example.org/bytip/byob/</link>
+    <description>Recent content in byob on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/bytip/byob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jiang&#39;s kitchen</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</guid>
+      <description> thoughts halal - uyghur chinese restaurant northwestern chinese food (xinjiang region) menu highlights fried noodle w/ spicy minced beef hot and sour cucumber </description>
+    </item>
+    <item>
+      <title>wondee siam</title>
+      <link>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</guid>
+      <description> thoughts go-to spot when i lived in hell&amp;rsquo;s kitchen menu highlights crispy pork </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>by country on courtside nyc</title>
+    <link>http://example.org/bycountry/</link>
+    <description>Recent content in by country on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/bycountry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>united states of america</title>
+      <link>http://example.org/bycountry/usa/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/bycountry/usa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>united kingdom</title>
+      <link>http://example.org/bycountry/united-kingdom/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/bycountry/united-kingdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mexico</title>
+      <link>http://example.org/bycountry/mexico/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/bycountry/mexico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>greece</title>
+      <link>http://example.org/bycountry/greece/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>http://example.org/bycountry/greece/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spain</title>
+      <link>http://example.org/bycountry/spain/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
+      <guid>http://example.org/bycountry/spain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>italy</title>
+      <link>http://example.org/bycountry/italy/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
+      <guid>http://example.org/bycountry/italy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

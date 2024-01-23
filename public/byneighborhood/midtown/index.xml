@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>midtown on courtside nyc</title>
+    <link>http://example.org/byneighborhood/midtown/</link>
+    <description>Recent content in midtown on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byneighborhood/midtown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nonna dora&#39;s</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-03-03-nonna-doras/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-03-03-nonna-doras/</guid>
+      <description> thoughts in a city with an italian restaurant on every block, this place soars above the average food was amazing and the staff were so so kind! menu highlights meatballs they have a negroni menu </description>
+    </item>
+    <item>
+      <title>ruby&#39;s cafe</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-06-11-rubys/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-06-11-rubys/</guid>
+      <description>4 locations&#xA;thoughts when you&amp;rsquo;re craving a healthy bowl that&amp;rsquo;s not sweetgreen or cava </description>
+    </item>
+    <item>
+      <title>wolfgang&#39;s</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-06-08-wolfgangs/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-06-08-wolfgangs/</guid>
+      <description> thoughts four locations in midtown, one in tribeca </description>
+    </item>
+    <item>
+      <title>rosemarys</title>
+      <link>http://example.org/posts/nyc-restaurants/2019-09-24-rosemarys/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2019-09-24-rosemarys/</guid>
+      <description> west village location east village location midtown location thoughts nothing special, but v reliable menu highlights restuarant week deal is always good </description>
+    </item>
+  </channel>
+</rss>

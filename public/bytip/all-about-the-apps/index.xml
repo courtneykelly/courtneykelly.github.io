@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>all about the apps on courtside nyc</title>
+    <link>http://example.org/bytip/all-about-the-apps/</link>
+    <description>Recent content in all about the apps on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/bytip/all-about-the-apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>leyla</title>
+      <link>http://example.org/posts/nyc-restaurants/2024-01-12-leyla/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2024-01-12-leyla/</guid>
+      <description> thoughts menu highlights </description>
+    </item>
+    <item>
+      <title>figure eight</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</guid>
+      <description> menu highlights long beans sun chokes corn jalepeño bolobao </description>
+    </item>
+    <item>
+      <title>silver apricot</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-04-26-silver-apricot/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-04-26-silver-apricot/</guid>
+      <description> menu highlights scallion puffs </description>
+    </item>
+    <item>
+      <title>rosella</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-04-23-rosella/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-04-23-rosella/</guid>
+      <description> thoughts tough reservation, but saw several people walk in right when it opened, so great for walk-in early dinner menu highlights dragonfly house salad we also got something with apples that was insance, but i think that dish might be seasonal </description>
+    </item>
+    <item>
+      <title>ariari</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</guid>
+      <description> thoughts inspired by the port city of busan korean comfort food that&amp;rsquo;s seafood heavy menu highlights yook-hoe - beef tartare fried softshell crab </description>
+    </item>
+    <item>
+      <title>yellow rose</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-03-16-yellow-rose/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-03-16-yellow-rose/</guid>
+      <description> thoughts the tacos are delicious, but the apps are the real star of the show menu highlights lonestar beer queso is a must sheet cake </description>
+    </item>
+    <item>
+      <title>shukette</title>
+      <link>http://example.org/posts/nyc-restaurants/2022-08-15-shukette/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2022-08-15-shukette/</guid>
+      <description> thoughts one of my all time favorite restaurants in new york.&#xA;menu highlights get all the breads and dips </description>
+    </item>
+    <item>
+      <title>semma</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-11-13-semma/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-11-13-semma/</guid>
+      <description> thoughts the best restaurant in new york. such a tough res, but i think bar seating might be first come first serve. they only book through resy and allow max number of 6 people per table. menu highlights can&amp;rsquo;t go wrong. you could blindly point at the menu and end up with the best meal of your life. pre-ordering the dungeness crab is so worth it. </description>
+    </item>
+    <item>
+      <title>thursday kitchen</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-09-15-thursday-kitchen/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-09-15-thursday-kitchen/</guid>
+      <description> thoughts glowing capri sun cocktails are a little corny, but still kinda fun. </description>
+    </item>
+    <item>
+      <title>shuka</title>
+      <link>http://example.org/posts/nyc-restaurants/2021-05-22-shuka/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2021-05-22-shuka/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

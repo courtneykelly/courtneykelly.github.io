@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>greenpoint on courtside nyc</title>
+    <link>http://example.org/byneighborhood/greenpoint/</link>
+    <description>Recent content in greenpoint on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/byneighborhood/greenpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bakerie</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</guid>
+      <description> menu highlights sandwiches looked gas </description>
+    </item>
+    <item>
+      <title>taqueria ramirez</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-11-26-taqueria-ramirez/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-11-26-taqueria-ramirez/</guid>
+      <description> thoughts there will be a line because it is that good menu highlights can&amp;rsquo;t go wrong, but al pastor was my favorite </description>
+    </item>
+    <item>
+      <title>radio bakery</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-11-23-radio/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-11-23-radio/</guid>
+      <description> thoughts get there early, they sell out of a lot of the good stuff menu highlights changes all the time, but impossible to go wrong pie </description>
+    </item>
+    <item>
+      <title>el pinguino</title>
+      <link>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</guid>
+      <description> thoughts fully converted me to a tin fish stan curry tuna mini hotdogs </description>
+    </item>
+  </channel>
+</rss>

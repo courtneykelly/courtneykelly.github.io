@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>london 🇬🇧 on courtside nyc</title>
+    <link>http://example.org/bycity/london/</link>
+    <description>Recent content in london 🇬🇧 on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/bycity/london/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>darjeeling express</title>
+      <link>http://example.org/posts/trips/london/2023-08-19-darjeeling-express/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-19-darjeeling-express/</guid>
+      <description> thoughts truly amazing a la carte for lunch, tasting for dinner </description>
+    </item>
+    <item>
+      <title>pear tree cafe</title>
+      <link>http://example.org/posts/trips/london/2023-08-19-pear-tree-cafe/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-19-pear-tree-cafe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>anchor bankside</title>
+      <link>http://example.org/posts/trips/london/2023-08-18-anchor-bankside/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-18-anchor-bankside/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bao</title>
+      <link>http://example.org/posts/trips/london/2023-08-18-bao-borough/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-18-bao-borough/</guid>
+      <description>locations soho marylebone borough king&amp;rsquo;s cross shoreditch battersea </description>
+    </item>
+    <item>
+      <title>soif</title>
+      <link>http://example.org/posts/trips/london/2023-08-15-soif/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-15-soif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>newcomer wines dalston</title>
+      <link>http://example.org/posts/trips/london/2023-08-10-newcomer-wines-dalston/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2023-08-10-newcomer-wines-dalston/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dishoom</title>
+      <link>http://example.org/posts/trips/london/2022-09-04-dishoom/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2022-09-04-dishoom/</guid>
+      <description>london locations carneby covent garden king&amp;rsquo;s cross kensington shoreditch canary wharf battersea edinburgh location edinburgh thoughts top contender for last meal </description>
+    </item>
+    <item>
+      <title>lady of the grapes</title>
+      <link>http://example.org/posts/trips/london/2022-09-07-lady-of-the-grapes/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2022-09-07-lady-of-the-grapes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gordon&#39;s wine bar</title>
+      <link>http://example.org/posts/trips/london/2022-09-05-gordons-wine-bar/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2022-09-05-gordons-wine-bar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>apple butter cafe</title>
+      <link>http://example.org/posts/trips/london/2022-09-04-apple-butter-cafe/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2022-09-04-apple-butter-cafe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>the stag belsize park</title>
+      <link>http://example.org/posts/trips/london/2022-09-03-the-stag/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2022-09-03-the-stag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>churchill arms</title>
+      <link>http://example.org/posts/trips/london/2013-06-24-churchill-arms/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/trips/london/2013-06-24-churchill-arms/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

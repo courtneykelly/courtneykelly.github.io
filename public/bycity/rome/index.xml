@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rome 🇮🇹 on courtside nyc</title>
+    <link>http://example.org/bycity/rome/</link>
+    <description>Recent content in rome 🇮🇹 on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Dec 1969 19:33:35 -0500</lastBuildDate>
+    <atom:link href="http://example.org/bycity/rome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>de caesare</title>
+      <link>http://example.org/posts/trips/italy/2015-de-caesare/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      <guid>http://example.org/posts/trips/italy/2015-de-caesare/</guid>
+      <description> menu highlights pesto meatballs </description>
+    </item>
+    <item>
+      <title>flavio al velavevodetto</title>
+      <link>http://example.org/posts/trips/italy/2015-flavio-al-velavevodetto/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      <guid>http://example.org/posts/trips/italy/2015-flavio-al-velavevodetto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>giolitti</title>
+      <link>http://example.org/posts/trips/italy/2015-giolitti/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      <guid>http://example.org/posts/trips/italy/2015-giolitti/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pizzeria dar poeta</title>
+      <link>http://example.org/posts/trips/italy/2015-dar-poeta/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      <guid>http://example.org/posts/trips/italy/2015-dar-poeta/</guid>
+      <description> menu highlights veal </description>
+    </item>
+    <item>
+      <title>risorante nino</title>
+      <link>http://example.org/posts/trips/italy/2015-nino/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
+      <guid>http://example.org/posts/trips/italy/2015-nino/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
