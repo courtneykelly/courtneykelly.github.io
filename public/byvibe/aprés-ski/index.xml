@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aprés ski on courtside nyc</title>
-    <link>http://example.org/byvibe/apr%C3%A9s-ski/</link>
+    <link>/byvibe/apr%C3%A9s-ski/</link>
     <description>Recent content in aprés ski on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byvibe/apr%C3%A9s-ski/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byvibe/apr%C3%A9s-ski/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>felix</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-09-felix/</link>
+      <link>/posts/nyc-restaurants/2023-12-09-felix/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-09-felix/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-09-felix/</guid>
       <description> thoughts res was at 1:00pm, didn&amp;rsquo;t leave until 6:30 chaotic, lit, dancing on tables menu highlights go for the magnum bottles </description>
     </item>
     <item>
       <title>jolene</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</link>
+      <link>/posts/nyc-restaurants/2023-10-22-jolene/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</guid>
+      <guid>/posts/nyc-restaurants/2023-10-22-jolene/</guid>
       <description> thoughts truly some of the kindest staff </description>
     </item>
     <item>
       <title>12 chairs cafe</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</link>
+      <link>/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</guid>
+      <guid>/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</guid>
       <description> thoughts the tables are extremely tight. you will be on top of each other, but vibes couldn&amp;rsquo;t be fresher. it&amp;rsquo;s always packed. brunch is lit - especially if the sun is out, the hoes will be hoeing and the brunch will be brunching. menu highlights low-key the schnitzel slaps arayes </description>
     </item>
     <item>
       <title>st. tropez</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-01-13-st-tropez/</link>
+      <link>/posts/nyc-restaurants/2022-01-13-st-tropez/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-01-13-st-tropez/</guid>
+      <guid>/posts/nyc-restaurants/2022-01-13-st-tropez/</guid>
       <description>west village location soho location&#xA;thoughts came here for birthday dinner waiter so so fun &amp;amp; brought us shots (didn&amp;rsquo;t know what a gin gimlet was though so maybe stick to wine) </description>
     </item>
     <item>
       <title>freeman&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</link>
+      <link>/posts/nyc-restaurants/2021-11-21-freemans/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</guid>
+      <guid>/posts/nyc-restaurants/2021-11-21-freemans/</guid>
       <description> thoughts they have not one but two different back rooms to host your birthday brunch parents love this place rustic, farm house, ski lodge chic menu highlights spinach artichoke dip </description>
     </item>
     <item>
       <title>pardon my french</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-04-27-pardon-my-french/</link>
+      <link>/posts/nyc-restaurants/2021-04-27-pardon-my-french/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-04-27-pardon-my-french/</guid>
+      <guid>/posts/nyc-restaurants/2021-04-27-pardon-my-french/</guid>
       <description> </description>
     </item>
   </channel>

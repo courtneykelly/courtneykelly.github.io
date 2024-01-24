@@ -2,1259 +2,1259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/bycity/new-york/</loc>
+    <loc>/bycity/new-york/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/london/</loc>
+    <loc>/bycity/london/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/cdmx/</loc>
+    <loc>/bycity/cdmx/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/dc/</loc>
+    <loc>/bycity/dc/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/philly/</loc>
+    <loc>/bycity/philly/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/edinburgh/</loc>
+    <loc>/bycity/edinburgh/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/barcelona/</loc>
+    <loc>/bycity/barcelona/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/cangas-de-onis/</loc>
+    <loc>/bycity/cangas-de-onis/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/oviedo/</loc>
+    <loc>/bycity/oviedo/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/san-sebastian/</loc>
+    <loc>/bycity/san-sebastian/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/santander/</loc>
+    <loc>/bycity/santander/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/kos/</loc>
+    <loc>/bycity/kos/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/rhodes/</loc>
+    <loc>/bycity/rhodes/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/florence/</loc>
+    <loc>/bycity/florence/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/rome/</loc>
+    <loc>/bycity/rome/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/boujee-pretend-youre-rich/</loc>
+    <loc>/byvibe/boujee-pretend-youre-rich/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycity/</loc>
+    <loc>/bycity/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/</loc>
+    <loc>/bycountry/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/</loc>
+    <loc>/byneighborhood/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/</loc>
+    <loc>/byoccasion/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/</loc>
+    <loc>/byvibe/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/</loc>
+    <loc>/byyear/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/grown-sexy/</loc>
+    <loc>/byattire/grown-sexy/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/</loc>
+    <loc>/byattire/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/impress-visitors/</loc>
+    <loc>/byoccasion/impress-visitors/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/its-giving-romance/</loc>
+    <loc>/byvibe/its-giving-romance/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/noho/</loc>
+    <loc>/byneighborhood/noho/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/old-money/</loc>
+    <loc>/byattire/old-money/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/</loc>
+    <loc>/bytip/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/small-group/</loc>
+    <loc>/byoccasion/small-group/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/special-occasion/</loc>
+    <loc>/byoccasion/special-occasion/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-19-nines/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-19-nines/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/tough-reservation-plan-ahead/</loc>
+    <loc>/bytip/tough-reservation-plan-ahead/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/usa/</loc>
+    <loc>/bycountry/usa/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/east-village/</loc>
+    <loc>/byneighborhood/east-village/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/family-style/</loc>
+    <loc>/byvibe/family-style/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/friendly-staff-welcoming/</loc>
+    <loc>/byvibe/friendly-staff-welcoming/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/good-for-takeout/</loc>
+    <loc>/bytip/good-for-takeout/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/no-one-cares/</loc>
+    <loc>/byattire/no-one-cares/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-18-veeray/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-18-veeray/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/walk-in-last-minute/</loc>
+    <loc>/byoccasion/walk-in-last-minute/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/brunch/</loc>
+    <loc>/byoccasion/brunch/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/diner/</loc>
+    <loc>/byvibe/diner/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/fun-different/</loc>
+    <loc>/byvibe/fun-different/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-14-golden-diner/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-14-golden-diner/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/lower-east-side/</loc>
+    <loc>/byneighborhood/lower-east-side/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/phone-eats-first/</loc>
+    <loc>/byvibe/phone-eats-first/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/unassuming/</loc>
+    <loc>/byvibe/unassuming/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/bar-seating-solo-dining/</loc>
+    <loc>/byoccasion/bar-seating-solo-dining/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/people-watching/</loc>
+    <loc>/byoccasion/people-watching/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-13-revelie/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-13-revelie/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/soho/</loc>
+    <loc>/byneighborhood/soho/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/all-about-the-apps/</loc>
+    <loc>/bytip/all-about-the-apps/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/comfy-casual/</loc>
+    <loc>/byattire/comfy-casual/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-12-leyla/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-12-leyla/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/the-more-the-merrier/</loc>
+    <loc>/bytip/the-more-the-merrier/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/upper-west-side/</loc>
+    <loc>/byneighborhood/upper-west-side/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/veggie-friendly/</loc>
+    <loc>/bytip/veggie-friendly/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/clean-modern/</loc>
+    <loc>/byvibe/clean-modern/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/date-night/</loc>
+    <loc>/byoccasion/date-night/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-11-domo-domo/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/low-key/</loc>
+    <loc>/byvibe/low-key/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/omakase/</loc>
+    <loc>/byoccasion/omakase/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/seafood-heavy/</loc>
+    <loc>/bytip/seafood-heavy/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/west-village/</loc>
+    <loc>/byneighborhood/west-village/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/chelsea/</loc>
+    <loc>/byneighborhood/chelsea/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/cool-casual/</loc>
+    <loc>/byattire/cool-casual/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2024-01-07-konbon/</loc>
+    <loc>/posts/nyc-restaurants/2024-01-07-konbon/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/parents-in-town/</loc>
+    <loc>/byoccasion/parents-in-town/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/trendy-see-and-be-seen/</loc>
+    <loc>/byvibe/trendy-see-and-be-seen/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/work-dinner/</loc>
+    <loc>/byoccasion/work-dinner/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2024/</loc>
+    <loc>/byyear/2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/ask-the-somm/</loc>
+    <loc>/bytip/ask-the-somm/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/big-group/</loc>
+    <loc>/byoccasion/big-group/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/pretentious/</loc>
+    <loc>/byvibe/pretentious/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-30-waverly-inn/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-30-waverly-inn/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/warm-cozy/</loc>
+    <loc>/byvibe/warm-cozy/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/birthday-dinner/</loc>
+    <loc>/byoccasion/birthday-dinner/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/european/</loc>
+    <loc>/byvibe/european/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/high-energy/</loc>
+    <loc>/byvibe/high-energy/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/institution/</loc>
+    <loc>/byvibe/institution/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-29-raouls/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-29-raouls/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/tried-true/</loc>
+    <loc>/byvibe/tried-true/</loc>
     <lastmod>2023-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-28-odeon/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-28-odeon/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/tribeca/</loc>
+    <loc>/byneighborhood/tribeca/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byattire/cute-casual/</loc>
+    <loc>/byattire/cute-casual/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-14-figure-eight/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/flames-cocktails/</loc>
+    <loc>/bytip/flames-cocktails/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/dont-skip-dessert/</loc>
+    <loc>/bytip/dont-skip-dessert/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-12-golden-swan/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-12-golden-swan/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-10-fish-cheeks/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-10-fish-cheeks/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/tropical-beach-club/</loc>
+    <loc>/byvibe/tropical-beach-club/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/apr%C3%A9s-ski/</loc>
+    <loc>/byvibe/apr%C3%A9s-ski/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/day-drink-patio-pounders/</loc>
+    <loc>/byoccasion/day-drink-patio-pounders/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-09-felix/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-09-felix/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/loud/</loc>
+    <loc>/bytip/loud/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-02-cathedral/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-02-cathedral/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/patio-action-garden-seating/</loc>
+    <loc>/byvibe/patio-action-garden-seating/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/cheap-cheerful/</loc>
+    <loc>/byvibe/cheap-cheerful/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/divey-casual/</loc>
+    <loc>/byvibe/divey-casual/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/fast-casual-quick-lunch/</loc>
+    <loc>/byoccasion/fast-casual-quick-lunch/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-12-01-kolachi/</loc>
+    <loc>/posts/nyc-restaurants/2023-12-01-kolachi/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/rainy-day-food-for-the-soul/</loc>
+    <loc>/byvibe/rainy-day-food-for-the-soul/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-26-bakerie/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/bakery/</loc>
+    <loc>/byoccasion/bakery/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/greenpoint/</loc>
+    <loc>/byneighborhood/greenpoint/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-26-taqueria-ramirez/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-26-taqueria-ramirez/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/ugly-delicious/</loc>
+    <loc>/byvibe/ugly-delicious/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-25-tonchin/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-25-tonchin/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/williamsburg/</loc>
+    <loc>/byneighborhood/williamsburg/</loc>
     <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/dessert/</loc>
+    <loc>/byoccasion/dessert/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-23-radio/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-23-radio/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/automatic-service-charge/</loc>
+    <loc>/bytip/automatic-service-charge/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-18-la-palapa/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-18-la-palapa/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</loc>
+    <loc>/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</loc>
+    <loc>/posts/nyc-restaurants/2023-10-22-jolene/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-10-16-gallow-green/</loc>
+    <loc>/posts/nyc-restaurants/2023-10-16-gallow-green/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/rooftop-sauce/</loc>
+    <loc>/byvibe/rooftop-sauce/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/close-quarters/</loc>
+    <loc>/byvibe/close-quarters/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-10-12-jazba/</loc>
+    <loc>/posts/nyc-restaurants/2023-10-12-jazba/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-10-05-sauce/</loc>
+    <loc>/posts/nyc-restaurants/2023-10-05-sauce/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/wine-bar/</loc>
+    <loc>/byoccasion/wine-bar/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/redhook/</loc>
+    <loc>/byneighborhood/redhook/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/cocktail-bar/</loc>
+    <loc>/byoccasion/cocktail-bar/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-24-kolkata-chai/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-24-kolkata-chai/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-24-motel-no-tell/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-24-motel-no-tell/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/nolita/</loc>
+    <loc>/byneighborhood/nolita/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-15-laser-wolf/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-15-laser-wolf/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/open-airy/</loc>
+    <loc>/byvibe/open-airy/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-10-rynn/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-10-rynn/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/spice-tolerance-advised/</loc>
+    <loc>/bytip/spice-tolerance-advised/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-09-08-ensenada/</loc>
+    <loc>/posts/nyc-restaurants/2023-09-08-ensenada/</loc>
     <lastmod>2023-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-19-darjeeling-express/</loc>
+    <loc>/posts/trips/london/2023-08-19-darjeeling-express/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-19-pear-tree-cafe/</loc>
+    <loc>/posts/trips/london/2023-08-19-pear-tree-cafe/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/united-kingdom/</loc>
+    <loc>/bycountry/united-kingdom/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-18-anchor-bankside/</loc>
+    <loc>/posts/trips/london/2023-08-18-anchor-bankside/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-18-bao-borough/</loc>
+    <loc>/posts/trips/london/2023-08-18-bao-borough/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-15-soif/</loc>
+    <loc>/posts/trips/london/2023-08-15-soif/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2023-08-10-newcomer-wines-dalston/</loc>
+    <loc>/posts/trips/london/2023-08-10-newcomer-wines-dalston/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2022-09-04-dishoom/</loc>
+    <loc>/posts/trips/london/2022-09-04-dishoom/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-07-31-lantica/</loc>
+    <loc>/posts/nyc-restaurants/2023-07-31-lantica/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</loc>
+    <loc>/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</loc>
     <lastmod>2023-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</loc>
+    <loc>/posts/nyc-restaurants/2023-07-22-el-pinguino/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/oysters-happy-hour/</loc>
+    <loc>/byoccasion/oysters-happy-hour/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/drop-dimes/</loc>
+    <loc>/byvibe/drop-dimes/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-07-14-principe/</loc>
+    <loc>/posts/nyc-restaurants/2023-07-14-principe/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-30-smor/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-30-smor/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/tasting-menu/</loc>
+    <loc>/byoccasion/tasting-menu/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-24-ella-funt/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-24-ella-funt/</loc>
     <lastmod>2023-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/quick-table-turnover/</loc>
+    <loc>/byvibe/quick-table-turnover/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-23-thirteen-water/</loc>
     <lastmod>2023-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-20-dhamaka/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-20-dhamaka/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-13-886/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-13-886/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/dj-is-cooking-with-gas/</loc>
+    <loc>/byvibe/dj-is-cooking-with-gas/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-10-au-cheval/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-10-au-cheval/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/hello/</loc>
+    <loc>/hello/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-07-casino/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-07-casino/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-04-librae-bakery/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-04-librae-bakery/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-03-cafe-mogador/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-03-cafe-mogador/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-03-singlish/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-03-singlish/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/union-square/</loc>
+    <loc>/byneighborhood/union-square/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-30-jacs/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-30-jacs/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-24-dame/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-24-dame/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-23-traif/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-23-traif/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-21-superiority-burger/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-21-superiority-burger/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-05-madelines-martini/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-05-madelines-martini/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/koreatown/</loc>
+    <loc>/byneighborhood/koreatown/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-05-02-seoul-salon/</loc>
+    <loc>/posts/nyc-restaurants/2023-05-02-seoul-salon/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-04-30-foxface/</loc>
+    <loc>/posts/nyc-restaurants/2023-04-30-foxface/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-04-30-superbueno/</loc>
+    <loc>/posts/nyc-restaurants/2023-04-30-superbueno/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-04-26-silver-apricot/</loc>
+    <loc>/posts/nyc-restaurants/2023-04-26-silver-apricot/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-04-23-rosella/</loc>
+    <loc>/posts/nyc-restaurants/2023-04-23-rosella/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-04-20-hilot/</loc>
+    <loc>/posts/nyc-restaurants/2023-04-20-hilot/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytip/byob/</loc>
+    <loc>/bytip/byob/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-26-gazab/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-26-gazab/</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-07-ari-ari/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byoccasion/pizza/</loc>
+    <loc>/byoccasion/pizza/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-16-yellow-rose/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-16-yellow-rose/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-12-foul-witch/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-12-foul-witch/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-25-sonnyboy/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-25-sonnyboy/</loc>
     <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-04-left-bank/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-04-left-bank/</loc>
     <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-04-omars/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-04-omars/</loc>
     <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/midtown/</loc>
+    <loc>/byneighborhood/midtown/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-03-nonna-doras/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-03-nonna-doras/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-02-17-holiday-bar/</loc>
+    <loc>/posts/nyc-restaurants/2023-02-17-holiday-bar/</loc>
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-07-cote/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-07-cote/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-02-04-soothr/</loc>
+    <loc>/posts/nyc-restaurants/2023-02-04-soothr/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-02-11-bobo/</loc>
+    <loc>/posts/nyc-restaurants/2023-02-11-bobo/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-03-01-venieros/</loc>
+    <loc>/posts/nyc-restaurants/2023-03-01-venieros/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-01-22-sushi-by-m/</loc>
+    <loc>/posts/nyc-restaurants/2023-01-22-sushi-by-m/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-01-17-cheli/</loc>
+    <loc>/posts/nyc-restaurants/2023-01-17-cheli/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2023/</loc>
+    <loc>/byyear/2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-15-12-el-quijote/</loc>
+    <loc>/posts/nyc-restaurants/2022-15-12-el-quijote/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-11-05-malaparte/</loc>
+    <loc>/posts/nyc-restaurants/2022-11-05-malaparte/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-11-05-mino/</loc>
+    <loc>/posts/nyc-restaurants/2022-11-05-mino/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-10-22-kings-co/</loc>
+    <loc>/posts/nyc-restaurants/2022-10-22-kings-co/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/south-brooklyn/</loc>
+    <loc>/byneighborhood/south-brooklyn/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</loc>
+    <loc>/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-10-03-kikis/</loc>
+    <loc>/posts/nyc-restaurants/2022-10-03-kikis/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</loc>
+    <loc>/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-10-03-swan-room/</loc>
+    <loc>/posts/nyc-restaurants/2022-10-03-swan-room/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-09-30-11-tigers/</loc>
+    <loc>/posts/nyc-restaurants/2022-09-30-11-tigers/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-09-23-ten-bells/</loc>
+    <loc>/posts/nyc-restaurants/2022-09-23-ten-bells/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2022-09-07-lady-of-the-grapes/</loc>
+    <loc>/posts/trips/london/2022-09-07-lady-of-the-grapes/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2022-09-05-gordons-wine-bar/</loc>
+    <loc>/posts/trips/london/2022-09-05-gordons-wine-bar/</loc>
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2022-09-04-apple-butter-cafe/</loc>
+    <loc>/posts/trips/london/2022-09-04-apple-butter-cafe/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2022-09-03-the-stag/</loc>
+    <loc>/posts/trips/london/2022-09-03-the-stag/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytrip/</loc>
+    <loc>/bytrip/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytrip/2022-09-greece/</loc>
+    <loc>/bytrip/2022-09-greece/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-08-31-mels/</loc>
+    <loc>/posts/nyc-restaurants/2022-08-31-mels/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-08-24-szechuan-mountain-house/</loc>
+    <loc>/posts/nyc-restaurants/2022-08-24-szechuan-mountain-house/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-08-15-lobby-bar-hotel-chelsea/</loc>
+    <loc>/posts/nyc-restaurants/2022-08-15-lobby-bar-hotel-chelsea/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-08-15-shukette/</loc>
+    <loc>/posts/nyc-restaurants/2022-08-15-shukette/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-08-12-le-dive/</loc>
+    <loc>/posts/nyc-restaurants/2022-08-12-le-dive/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-07-28-leitao/</loc>
+    <loc>/posts/nyc-restaurants/2022-07-28-leitao/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-07-05-don-peppe/</loc>
+    <loc>/posts/nyc-restaurants/2022-07-05-don-peppe/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2023-06-11-rubys/</loc>
+    <loc>/posts/nyc-restaurants/2023-06-11-rubys/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-06-09-miss-lilys/</loc>
+    <loc>/posts/nyc-restaurants/2022-06-09-miss-lilys/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byvibe/ugly-delicous/</loc>
+    <loc>/byvibe/ugly-delicous/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-06-08-wolfgangs/</loc>
+    <loc>/posts/nyc-restaurants/2022-06-08-wolfgangs/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-06-07-mono-mono/</loc>
+    <loc>/posts/nyc-restaurants/2022-06-07-mono-mono/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/mexico/</loc>
+    <loc>/bycountry/mexico/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-20-san-angel-inn/</loc>
+    <loc>/posts/trips/cdmx/2022-05-20-san-angel-inn/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-19-taqueria-orinoco/</loc>
+    <loc>/posts/trips/cdmx/2022-05-19-taqueria-orinoco/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-18-quintonil/</loc>
+    <loc>/posts/trips/cdmx/2022-05-18-quintonil/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-17-supra-roma-rooftop/</loc>
+    <loc>/posts/trips/cdmx/2022-05-17-supra-roma-rooftop/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-16-masala-y-maiz/</loc>
+    <loc>/posts/trips/cdmx/2022-05-16-masala-y-maiz/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-15-hotel-condesa-df/</loc>
+    <loc>/posts/trips/cdmx/2022-05-15-hotel-condesa-df/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-15-zanaya/</loc>
+    <loc>/posts/trips/cdmx/2022-05-15-zanaya/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-12-dooriban/</loc>
+    <loc>/posts/trips/cdmx/2022-05-12-dooriban/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-11-maximo/</loc>
+    <loc>/posts/trips/cdmx/2022-05-11-maximo/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-11-lalo/</loc>
+    <loc>/posts/trips/cdmx/2022-05-11-lalo/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-09-pujol/</loc>
+    <loc>/posts/trips/cdmx/2022-05-09-pujol/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-08-carinito-tacos/</loc>
+    <loc>/posts/trips/cdmx/2022-05-08-carinito-tacos/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-06-el-parnita/</loc>
+    <loc>/posts/trips/cdmx/2022-05-06-el-parnita/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-06-lardo/</loc>
+    <loc>/posts/trips/cdmx/2022-05-06-lardo/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-05-pander%C3%ADa-rosetta/</loc>
+    <loc>/posts/trips/cdmx/2022-05-05-pander%C3%ADa-rosetta/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-04-blanco-colima/</loc>
+    <loc>/posts/trips/cdmx/2022-05-04-blanco-colima/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-03-contramar/</loc>
+    <loc>/posts/trips/cdmx/2022-05-03-contramar/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-03-handshake/</loc>
+    <loc>/posts/trips/cdmx/2022-05-03-handshake/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-02-balcon-zocalo/</loc>
+    <loc>/posts/trips/cdmx/2022-05-02-balcon-zocalo/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-5-01-licoreria-limantour/</loc>
+    <loc>/posts/trips/cdmx/2022-5-01-licoreria-limantour/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/bytrip/2022-05-mexico-city/</loc>
+    <loc>/bytrip/2022-05-mexico-city/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-05-01-paramo/</loc>
+    <loc>/posts/trips/cdmx/2022-05-01-paramo/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/cdmx/2022-04-30-restaurante-rosetta/</loc>
+    <loc>/posts/trips/cdmx/2022-04-30-restaurante-rosetta/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2022-04-16-daru/</loc>
+    <loc>/posts/trips/dc/2022-04-16-daru/</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2022-04-15-martha-dear/</loc>
+    <loc>/posts/trips/dc/2022-04-15-martha-dear/</loc>
     <lastmod>2022-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2022-04-14-thompson-italian/</loc>
+    <loc>/posts/trips/dc/2022-04-14-thompson-italian/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</loc>
+    <loc>/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</loc>
+    <loc>/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-03-22-attaboy/</loc>
+    <loc>/posts/nyc-restaurants/2022-03-22-attaboy/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-03-11-sidneys-five/</loc>
+    <loc>/posts/nyc-restaurants/2022-03-11-sidneys-five/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-03-10-double-chicken/</loc>
+    <loc>/posts/nyc-restaurants/2022-03-10-double-chicken/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-02-27-lhasa/</loc>
+    <loc>/posts/nyc-restaurants/2022-02-27-lhasa/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</loc>
+    <loc>/posts/nyc-restaurants/2022-02-20-12-chairs-cafe/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-02-20-frenchette/</loc>
+    <loc>/posts/nyc-restaurants/2022-02-20-frenchette/</loc>
     <lastmod>2022-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-01-27-hanoi-house/</loc>
+    <loc>/posts/nyc-restaurants/2022-01-27-hanoi-house/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-01-13-st-tropez/</loc>
+    <loc>/posts/nyc-restaurants/2022-01-13-st-tropez/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2022-01-07-thai-diner/</loc>
+    <loc>/posts/nyc-restaurants/2022-01-07-thai-diner/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2022/</loc>
+    <loc>/byyear/2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</loc>
+    <loc>/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-12-08-chama-mama/</loc>
+    <loc>/posts/nyc-restaurants/2021-12-08-chama-mama/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2021-11-27-carusos-grocery/</loc>
+    <loc>/posts/trips/dc/2021-11-27-carusos-grocery/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2021-11-24-le-diplomate/</loc>
+    <loc>/posts/trips/dc/2021-11-24-le-diplomate/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-21-freemans/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-20-san-marzano/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-20-san-marzano/</loc>
     <lastmod>2021-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-13-court-street/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-13-court-street/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-13-semma/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-13-semma/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-05-nats-on-bank/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-05-nats-on-bank/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-11-04-veselka/</loc>
+    <loc>/posts/nyc-restaurants/2021-11-04-veselka/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-10-29-spicy-moon/</loc>
+    <loc>/posts/nyc-restaurants/2021-10-29-spicy-moon/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-10-07-izakaya/</loc>
+    <loc>/posts/nyc-restaurants/2021-10-07-izakaya/</loc>
     <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-10-03-the-tyger/</loc>
+    <loc>/posts/nyc-restaurants/2021-10-03-the-tyger/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-09-20-rosies/</loc>
+    <loc>/posts/nyc-restaurants/2021-09-20-rosies/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-09-15-thursday-kitchen/</loc>
+    <loc>/posts/nyc-restaurants/2021-09-15-thursday-kitchen/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-09-04-ruffian/</loc>
+    <loc>/posts/nyc-restaurants/2021-09-04-ruffian/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</loc>
+    <loc>/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-09-03-lola-taverna/</loc>
+    <loc>/posts/nyc-restaurants/2021-09-03-lola-taverna/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-08-29-madame-vo/</loc>
+    <loc>/posts/nyc-restaurants/2021-08-29-madame-vo/</loc>
     <lastmod>2021-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/hells-kitchen/</loc>
+    <loc>/byneighborhood/hells-kitchen/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</loc>
+    <loc>/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-08-22-llama-san/</loc>
+    <loc>/posts/nyc-restaurants/2021-08-22-llama-san/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-19-pizzeria-beddia/</loc>
+    <loc>/posts/trips/philly/2021-06-19-pizzeria-beddia/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-19-south-philly-barbacoa/</loc>
+    <loc>/posts/trips/philly/2021-06-19-south-philly-barbacoa/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-18-fishtown-social/</loc>
+    <loc>/posts/trips/philly/2021-06-18-fishtown-social/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-18-kfar-cafe/</loc>
+    <loc>/posts/trips/philly/2021-06-18-kfar-cafe/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-18-mcgillins/</loc>
+    <loc>/posts/trips/philly/2021-06-18-mcgillins/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/philly/2021-06-17-zahav/</loc>
+    <loc>/posts/trips/philly/2021-06-17-zahav/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-06-09-au-zaatar/</loc>
+    <loc>/posts/nyc-restaurants/2021-06-09-au-zaatar/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-05-22-shuka/</loc>
+    <loc>/posts/nyc-restaurants/2021-05-22-shuka/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-04-29-il-buco/</loc>
+    <loc>/posts/nyc-restaurants/2021-04-29-il-buco/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-04-27-pardon-my-french/</loc>
+    <loc>/posts/nyc-restaurants/2021-04-27-pardon-my-french/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-04-14-lil-frankies/</loc>
+    <loc>/posts/nyc-restaurants/2021-04-14-lil-frankies/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-04-09-dante/</loc>
+    <loc>/posts/nyc-restaurants/2021-04-09-dante/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-03-23-ippudo/</loc>
+    <loc>/posts/nyc-restaurants/2021-03-23-ippudo/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2021/</loc>
+    <loc>/byyear/2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-01-01-le-fournil/</loc>
+    <loc>/posts/nyc-restaurants/2021-01-01-le-fournil/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</loc>
+    <loc>/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2020-03-07-panna-ii/</loc>
+    <loc>/posts/nyc-restaurants/2020-03-07-panna-ii/</loc>
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2020-02-16-2-amys/</loc>
+    <loc>/posts/trips/dc/2020-02-16-2-amys/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2020-01-29-pig-and-khao/</loc>
+    <loc>/posts/nyc-restaurants/2020-01-29-pig-and-khao/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2020/</loc>
+    <loc>/byyear/2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/fidi/</loc>
+    <loc>/byneighborhood/fidi/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</loc>
+    <loc>/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-10-06-cafe-cluny/</loc>
+    <loc>/posts/nyc-restaurants/2019-10-06-cafe-cluny/</loc>
     <lastmod>2019-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-09-24-rosemarys/</loc>
+    <loc>/posts/nyc-restaurants/2019-09-24-rosemarys/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2019-09-22-florida-avenue-grill/</loc>
+    <loc>/posts/trips/dc/2019-09-22-florida-avenue-grill/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2019-09-22-tail-up-goat/</loc>
+    <loc>/posts/trips/dc/2019-09-22-tail-up-goat/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/dc/2019-09-20-cercher-ethiopian/</loc>
+    <loc>/posts/trips/dc/2019-09-20-cercher-ethiopian/</loc>
     <lastmod>2019-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-09-16-bea/</loc>
+    <loc>/posts/nyc-restaurants/2019-09-16-bea/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-09-07-johns-bleecker/</loc>
+    <loc>/posts/nyc-restaurants/2019-09-07-johns-bleecker/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-09-04-flex-mussels/</loc>
+    <loc>/posts/nyc-restaurants/2019-09-04-flex-mussels/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byneighborhood/upper-east-side/</loc>
+    <loc>/byneighborhood/upper-east-side/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-08-29-elios/</loc>
+    <loc>/posts/nyc-restaurants/2019-08-29-elios/</loc>
     <lastmod>2019-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-05-08-somtum-der/</loc>
+    <loc>/posts/nyc-restaurants/2019-05-08-somtum-der/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-05-03-emmy-squared/</loc>
+    <loc>/posts/nyc-restaurants/2019-05-03-emmy-squared/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2019-04-12-aria/</loc>
+    <loc>/posts/nyc-restaurants/2019-04-12-aria/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2019/</loc>
+    <loc>/byyear/2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2018/</loc>
+    <loc>/byyear/2018/</loc>
     <lastmod>2018-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</loc>
+    <loc>/posts/nyc-restaurants/2018-10-17-wondee/</loc>
     <lastmod>2018-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2018-09-30-jacobs-pickle/</loc>
+    <loc>/posts/nyc-restaurants/2018-09-30-jacobs-pickle/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/london/2013-06-24-churchill-arms/</loc>
+    <loc>/posts/trips/london/2013-06-24-churchill-arms/</loc>
     <lastmod>2013-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-agio-theologos/</loc>
+    <loc>/posts/trips/greece/2023-04-agio-theologos/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-agkyra/</loc>
+    <loc>/posts/trips/greece/2023-04-agkyra/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-albergo-gelsomino/</loc>
+    <loc>/posts/trips/greece/2023-04-albergo-gelsomino/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-antonio-boulevard/</loc>
+    <loc>/posts/trips/spain/2023-04-antonio-boulevard/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-arenales/</loc>
+    <loc>/posts/trips/spain/2023-04-arenales/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-baga-biga-faktoria/</loc>
+    <loc>/posts/trips/spain/2023-04-baga-biga-faktoria/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-bar-del-pla/</loc>
+    <loc>/posts/trips/spain/2023-04-bar-del-pla/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-besta/</loc>
+    <loc>/posts/trips/spain/2023-04-besta/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-casa-revert/</loc>
+    <loc>/posts/trips/spain/2023-04-casa-revert/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-ca-suso/</loc>
+    <loc>/posts/trips/spain/2023-04-ca-suso/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2023-04-casa-ramon-2/</loc>
+    <loc>/posts/trips/scotland/2023-04-casa-ramon-2/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2023-04-casa-ramon/</loc>
+    <loc>/posts/trips/scotland/2023-04-casa-ramon/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-cervecerias-la-mejillonera/</loc>
+    <loc>/posts/trips/spain/2023-04-cervecerias-la-mejillonera/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-dafni/</loc>
+    <loc>/posts/trips/greece/2023-04-dafni/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-elia/</loc>
+    <loc>/posts/trips/greece/2023-04-elia/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-elli-world/</loc>
+    <loc>/posts/trips/greece/2023-04-elli-world/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-ganbara/</loc>
+    <loc>/posts/trips/spain/2023-04-ganbara/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-gandarias/</loc>
+    <loc>/posts/trips/spain/2023-04-gandarias/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-ginger-seltz/</loc>
+    <loc>/posts/trips/spain/2023-04-ginger-seltz/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-gloria/</loc>
+    <loc>/posts/trips/spain/2023-04-gloria/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/greece/</loc>
+    <loc>/bycountry/greece/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-hatziemmanouil/</loc>
+    <loc>/posts/trips/greece/2023-04-hatziemmanouil/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-kofradia/</loc>
+    <loc>/posts/trips/spain/2023-04-kofradia/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-ktima-akrani/</loc>
+    <loc>/posts/trips/greece/2023-04-ktima-akrani/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-larrosseria_xativa/</loc>
+    <loc>/posts/trips/spain/2023-04-larrosseria_xativa/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-la-casa-revert/</loc>
+    <loc>/posts/trips/spain/2023-04-la-casa-revert/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-la-cuchara/</loc>
+    <loc>/posts/trips/spain/2023-04-la-cuchara/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-la-vina/</loc>
+    <loc>/posts/trips/spain/2023-04-la-vina/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-marco-polo/</loc>
+    <loc>/posts/trips/greece/2023-04-marco-polo/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-mesen-puente-romano/</loc>
+    <loc>/posts/trips/spain/2023-04-mesen-puente-romano/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-nireas/</loc>
+    <loc>/posts/trips/greece/2023-04-nireas/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-obscura/</loc>
+    <loc>/posts/trips/greece/2023-04-obscura/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-petrino/</loc>
+    <loc>/posts/trips/greece/2023-04-petrino/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-rekondo/</loc>
+    <loc>/posts/trips/spain/2023-04-rekondo/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-bar-urgull/</loc>
+    <loc>/posts/trips/spain/2023-04-bar-urgull/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-sky-bar/</loc>
+    <loc>/posts/trips/spain/2023-04-sky-bar/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-sophie/</loc>
+    <loc>/posts/trips/spain/2023-04-sophie/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/spain/</loc>
+    <loc>/bycountry/spain/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-tambakio/</loc>
+    <loc>/posts/trips/greece/2023-04-tambakio/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-taverna-avli/</loc>
+    <loc>/posts/trips/greece/2023-04-taverna-avli/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/greece/2023-04-last-butler/</loc>
+    <loc>/posts/trips/greece/2023-04-last-butler/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/spain/2023-04-txomin-etxaniz/</loc>
+    <loc>/posts/trips/spain/2023-04-txomin-etxaniz/</loc>
     <lastmod>1969-12-31T19:33:43-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/nyc-restaurants/2021-08-31-claudette/</loc>
+    <loc>/posts/nyc-restaurants/2021-08-31-claudette/</loc>
     <lastmod>1969-12-31T19:33:41-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-all-antico-vinaio/</loc>
+    <loc>/posts/trips/italy/2018-all-antico-vinaio/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-vecchia-bettola/</loc>
+    <loc>/posts/trips/italy/2018-vecchia-bettola/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-biddy-mulligans-2/</loc>
+    <loc>/posts/trips/scotland/2018-biddy-mulligans-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-biddy-mulligans/</loc>
+    <loc>/posts/trips/scotland/2018-biddy-mulligans/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-bramble-2/</loc>
+    <loc>/posts/trips/scotland/2018-bramble-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-bramble/</loc>
+    <loc>/posts/trips/scotland/2018-bramble/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-cahophraya-2/</loc>
+    <loc>/posts/trips/scotland/2018-cahophraya-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-cahophraya/</loc>
+    <loc>/posts/trips/scotland/2018-cahophraya/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-el-cartel-2/</loc>
+    <loc>/posts/trips/scotland/2018-el-cartel-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-el-cartel/</loc>
+    <loc>/posts/trips/scotland/2018-el-cartel/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-good-brothers-2/</loc>
+    <loc>/posts/trips/scotland/2018-good-brothers-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-good-brothers/</loc>
+    <loc>/posts/trips/scotland/2018-good-brothers/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-gusta-pizza/</loc>
+    <loc>/posts/trips/italy/2018-gusta-pizza/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-gustaosteria/</loc>
+    <loc>/posts/trips/italy/2018-gustaosteria/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/bycountry/italy/</loc>
+    <loc>/bycountry/italy/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-gelateria-la-carraia-2/</loc>
+    <loc>/posts/trips/scotland/2018-gelateria-la-carraia-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-gelateria-la-carraia/</loc>
+    <loc>/posts/trips/scotland/2018-gelateria-la-carraia/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-la-giostra/</loc>
+    <loc>/posts/trips/italy/2018-la-giostra/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-marys-milk-bar-2/</loc>
+    <loc>/posts/trips/scotland/2018-marys-milk-bar-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-marys-milk-bar/</loc>
+    <loc>/posts/trips/scotland/2018-marys-milk-bar/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2018-pinos/</loc>
+    <loc>/posts/trips/italy/2018-pinos/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-southpour-2/</loc>
+    <loc>/posts/trips/scotland/2018-southpour-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-southpour/</loc>
+    <loc>/posts/trips/scotland/2018-southpour/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-tanjore-2/</loc>
+    <loc>/posts/trips/scotland/2018-tanjore-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-tanjore/</loc>
+    <loc>/posts/trips/scotland/2018-tanjore/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-the-basement-2/</loc>
+    <loc>/posts/trips/scotland/2018-the-basement-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-the-basement/</loc>
+    <loc>/posts/trips/scotland/2018-the-basement/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-devils-advocate-2/</loc>
+    <loc>/posts/trips/scotland/2018-devils-advocate-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-devils-advocate/</loc>
+    <loc>/posts/trips/scotland/2018-devils-advocate/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-the-quees-arms-2/</loc>
+    <loc>/posts/trips/scotland/2018-the-quees-arms-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-the-quees-arms/</loc>
+    <loc>/posts/trips/scotland/2018-the-quees-arms/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-scran-and-scallie-2/</loc>
+    <loc>/posts/trips/scotland/2018-scran-and-scallie-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-scran-and-scallie/</loc>
+    <loc>/posts/trips/scotland/2018-scran-and-scallie/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-stockbridge-tap-2/</loc>
+    <loc>/posts/trips/scotland/2018-stockbridge-tap-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-stockbridge-tap/</loc>
+    <loc>/posts/trips/scotland/2018-stockbridge-tap/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-white-hart-inn-2/</loc>
+    <loc>/posts/trips/scotland/2018-white-hart-inn-2/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/scotland/2018-white-hart-inn/</loc>
+    <loc>/posts/trips/scotland/2018-white-hart-inn/</loc>
     <lastmod>1969-12-31T19:33:38-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/byyear/2015/</loc>
+    <loc>/byyear/2015/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2015-de-caesare/</loc>
+    <loc>/posts/trips/italy/2015-de-caesare/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2015-flavio-al-velavevodetto/</loc>
+    <loc>/posts/trips/italy/2015-flavio-al-velavevodetto/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2015-giolitti/</loc>
+    <loc>/posts/trips/italy/2015-giolitti/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2015-dar-poeta/</loc>
+    <loc>/posts/trips/italy/2015-dar-poeta/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/trips/italy/2015-nino/</loc>
+    <loc>/posts/trips/italy/2015-nino/</loc>
     <lastmod>1969-12-31T19:33:35-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/404/</loc>
+    <loc>/404/</loc>
   </url><url>
-    <loc>http://example.org/bytrip/2023-01-antarctica/</loc>
+    <loc>/bytrip/2023-01-antarctica/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>http://example.org/bytrip/2023-04-spain/</loc>
+    <loc>/bytrip/2023-04-spain/</loc>
   </url><url>
-    <loc>http://example.org/whatsnext/</loc>
+    <loc>/whatsnext/</loc>
   </url>
 </urlset>

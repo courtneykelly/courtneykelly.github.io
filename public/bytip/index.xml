@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pro tips on courtside nyc</title>
-    <link>http://example.org/bytip/</link>
+    <link>/bytip/</link>
     <description>Recent content in pro tips on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/bytip/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bytip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tough reservation • plan ahead</title>
-      <link>http://example.org/bytip/tough-reservation-plan-ahead/</link>
+      <link>/bytip/tough-reservation-plan-ahead/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/tough-reservation-plan-ahead/</guid>
+      <guid>/bytip/tough-reservation-plan-ahead/</guid>
       <description></description>
     </item>
     <item>
       <title>good for takeout</title>
-      <link>http://example.org/bytip/good-for-takeout/</link>
+      <link>/bytip/good-for-takeout/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/good-for-takeout/</guid>
+      <guid>/bytip/good-for-takeout/</guid>
       <description></description>
     </item>
     <item>
       <title>all about the apps</title>
-      <link>http://example.org/bytip/all-about-the-apps/</link>
+      <link>/bytip/all-about-the-apps/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/all-about-the-apps/</guid>
+      <guid>/bytip/all-about-the-apps/</guid>
       <description></description>
     </item>
     <item>
       <title>the more the merrier</title>
-      <link>http://example.org/bytip/the-more-the-merrier/</link>
+      <link>/bytip/the-more-the-merrier/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/the-more-the-merrier/</guid>
+      <guid>/bytip/the-more-the-merrier/</guid>
       <description></description>
     </item>
     <item>
       <title>veggie friendly</title>
-      <link>http://example.org/bytip/veggie-friendly/</link>
+      <link>/bytip/veggie-friendly/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/veggie-friendly/</guid>
+      <guid>/bytip/veggie-friendly/</guid>
       <description></description>
     </item>
     <item>
       <title>seafood heavy</title>
-      <link>http://example.org/bytip/seafood-heavy/</link>
+      <link>/bytip/seafood-heavy/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/seafood-heavy/</guid>
+      <guid>/bytip/seafood-heavy/</guid>
       <description></description>
     </item>
     <item>
       <title>ask the somm</title>
-      <link>http://example.org/bytip/ask-the-somm/</link>
+      <link>/bytip/ask-the-somm/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/ask-the-somm/</guid>
+      <guid>/bytip/ask-the-somm/</guid>
       <description></description>
     </item>
     <item>
       <title>flames cocktails</title>
-      <link>http://example.org/bytip/flames-cocktails/</link>
+      <link>/bytip/flames-cocktails/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/flames-cocktails/</guid>
+      <guid>/bytip/flames-cocktails/</guid>
       <description></description>
     </item>
     <item>
       <title>don&#39;t skip dessert</title>
-      <link>http://example.org/bytip/dont-skip-dessert/</link>
+      <link>/bytip/dont-skip-dessert/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/dont-skip-dessert/</guid>
+      <guid>/bytip/dont-skip-dessert/</guid>
       <description></description>
     </item>
     <item>
       <title>loud</title>
-      <link>http://example.org/bytip/loud/</link>
+      <link>/bytip/loud/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/loud/</guid>
+      <guid>/bytip/loud/</guid>
       <description></description>
     </item>
     <item>
       <title>automatic service charge</title>
-      <link>http://example.org/bytip/automatic-service-charge/</link>
+      <link>/bytip/automatic-service-charge/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/automatic-service-charge/</guid>
+      <guid>/bytip/automatic-service-charge/</guid>
       <description></description>
     </item>
     <item>
       <title>spice tolerance advised</title>
-      <link>http://example.org/bytip/spice-tolerance-advised/</link>
+      <link>/bytip/spice-tolerance-advised/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/spice-tolerance-advised/</guid>
+      <guid>/bytip/spice-tolerance-advised/</guid>
       <description></description>
     </item>
     <item>
       <title>byob</title>
-      <link>http://example.org/bytip/byob/</link>
+      <link>/bytip/byob/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bytip/byob/</guid>
+      <guid>/bytip/byob/</guid>
       <description></description>
     </item>
   </channel>

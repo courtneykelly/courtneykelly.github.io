@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>warm • cozy on courtside nyc</title>
-    <link>http://example.org/byvibe/warm-cozy/</link>
+    <link>/byvibe/warm-cozy/</link>
     <description>Recent content in warm • cozy on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byvibe/warm-cozy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byvibe/warm-cozy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the waverly inn</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-30-waverly-inn/</link>
+      <link>/posts/nyc-restaurants/2023-12-30-waverly-inn/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-30-waverly-inn/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-30-waverly-inn/</guid>
       <description> thoughts can walk in no problem for late dinner </description>
     </item>
     <item>
       <title>golden swan</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-12-golden-swan/</link>
+      <link>/posts/nyc-restaurants/2023-12-12-golden-swan/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-12-golden-swan/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-12-golden-swan/</guid>
       <description> thoughts old converted town house, multiple levels, full shower in one of the bathrooms, very cool bar on first floor is also great for a date rented out the entire top floor for work dinner, fanastic menu highlights sticky toffee pudding </description>
     </item>
     <item>
       <title>bakerie</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</link>
+      <link>/posts/nyc-restaurants/2023-11-26-bakerie/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-26-bakerie/</guid>
       <description> menu highlights sandwiches looked gas </description>
     </item>
     <item>
       <title>jolene</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</link>
+      <link>/posts/nyc-restaurants/2023-10-22-jolene/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</guid>
+      <guid>/posts/nyc-restaurants/2023-10-22-jolene/</guid>
       <description> thoughts truly some of the kindest staff </description>
     </item>
     <item>
       <title>hudson clearwater</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</link>
+      <link>/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</guid>
+      <guid>/posts/nyc-restaurants/2023-07-28-hudson-clearwater/</guid>
       <description> thoughts private dining room downstairs, great for birthday dinner </description>
     </item>
     <item>
       <title>casino</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-07-casino/</link>
+      <link>/posts/nyc-restaurants/2023-06-07-casino/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-07-casino/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-07-casino/</guid>
       <description> thoughts there&amp;rsquo;s a cool bar in the basement menu highlights crispy baby artichokes nduja bread </description>
     </item>
     <item>
       <title>cafe mogador</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-03-cafe-mogador/</link>
+      <link>/posts/nyc-restaurants/2023-06-03-cafe-mogador/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-03-cafe-mogador/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-03-cafe-mogador/</guid>
       <description> thoughts east village classic&#xA;menu highlights amba (side sauce) </description>
     </item>
     <item>
       <title>jac&#39;s on bond</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-30-jacs/</link>
+      <link>/posts/nyc-restaurants/2023-05-30-jacs/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-30-jacs/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-30-jacs/</guid>
       <description> thoughts make a res if you can, weeknights better than weekends imo everyone in there is cool and attractive and they know it </description>
     </item>
     <item>
       <title>madeline&#39;s martini</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-05-madelines-martini/</link>
+      <link>/posts/nyc-restaurants/2023-05-05-madelines-martini/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-05-madelines-martini/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-05-madelines-martini/</guid>
       <description> thoughts great date spot&#xA;menu highlights french martini </description>
     </item>
     <item>
       <title>hilot</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-04-20-hilot/</link>
+      <link>/posts/nyc-restaurants/2023-04-20-hilot/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-04-20-hilot/</guid>
+      <guid>/posts/nyc-restaurants/2023-04-20-hilot/</guid>
       <description> thoughts great date spot bar tender asked for our flavor profile so he could make us something off menu. i told him i liked tequila and ginger, got a riff on a mule that was one of the best cocktails i&amp;rsquo;ve ever had! </description>
     </item>
     <item>
       <title>ariari</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</link>
+      <link>/posts/nyc-restaurants/2023-03-07-ari-ari/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-07-ari-ari/</guid>
       <description> thoughts inspired by the port city of busan korean comfort food that&amp;rsquo;s seafood heavy menu highlights yook-hoe - beef tartare fried softshell crab </description>
     </item>
     <item>
       <title>yellow rose</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-16-yellow-rose/</link>
+      <link>/posts/nyc-restaurants/2023-03-16-yellow-rose/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-16-yellow-rose/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-16-yellow-rose/</guid>
       <description> thoughts the tacos are delicious, but the apps are the real star of the show menu highlights lonestar beer queso is a must sheet cake </description>
     </item>
     <item>
       <title>bobo</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-02-11-bobo/</link>
+      <link>/posts/nyc-restaurants/2023-02-11-bobo/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-02-11-bobo/</guid>
+      <guid>/posts/nyc-restaurants/2023-02-11-bobo/</guid>
       <description> thoughts bar downstairs also cute for drinks or a date </description>
     </item>
     <item>
       <title>el quijote</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-15-12-el-quijote/</link>
+      <link>/posts/nyc-restaurants/2022-15-12-el-quijote/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-15-12-el-quijote/</guid>
+      <guid>/posts/nyc-restaurants/2022-15-12-el-quijote/</guid>
       <description> thoughts they have a basement wine cellar you can rent out for a special event or birthday dinner! such a cool space. old and historic, but also trendy and cool. bar scene is lit. also can easily walk through the double doors at the back of the restaurant and head into the lobby bar at hotel chelsea for a post-dinner drink. menu highlights </description>
     </item>
     <item>
       <title>mino brasserie</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-11-05-mino/</link>
+      <link>/posts/nyc-restaurants/2022-11-05-mino/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-11-05-mino/</guid>
+      <guid>/posts/nyc-restaurants/2022-11-05-mino/</guid>
       <description> thoughts came here with a party of 8 menu highlights steak sandwich </description>
     </item>
     <item>
       <title>kings co imperial</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-10-22-kings-co/</link>
+      <link>/posts/nyc-restaurants/2022-10-22-kings-co/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
+      <guid>/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
       <description>see locations&#xA;thoughts great patio action in williamsburg location menu highlights egg rolls were gas </description>
     </item>
     <item>
       <title>frenchette</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-02-20-frenchette/</link>
+      <link>/posts/nyc-restaurants/2022-02-20-frenchette/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-02-20-frenchette/</guid>
+      <guid>/posts/nyc-restaurants/2022-02-20-frenchette/</guid>
       <description> thoughts they have cozy booths that are great for a party of 4-6 menu highlights sourghdough pancake (only served for brunch on saturdays &amp;amp; sundays) </description>
     </item>
     <item>
       <title>freeman&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</link>
+      <link>/posts/nyc-restaurants/2021-11-21-freemans/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</guid>
+      <guid>/posts/nyc-restaurants/2021-11-21-freemans/</guid>
       <description> thoughts they have not one but two different back rooms to host your birthday brunch parents love this place rustic, farm house, ski lodge chic menu highlights spinach artichoke dip </description>
     </item>
     <item>
       <title>ruffian</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-09-04-ruffian/</link>
+      <link>/posts/nyc-restaurants/2021-09-04-ruffian/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-09-04-ruffian/</guid>
+      <guid>/posts/nyc-restaurants/2021-09-04-ruffian/</guid>
       <description> </description>
     </item>
     <item>
       <title>madame vo</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-08-29-madame-vo/</link>
+      <link>/posts/nyc-restaurants/2021-08-29-madame-vo/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-08-29-madame-vo/</guid>
+      <guid>/posts/nyc-restaurants/2021-08-29-madame-vo/</guid>
       <description> </description>
     </item>
     <item>
       <title>il buco</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-04-29-il-buco/</link>
+      <link>/posts/nyc-restaurants/2021-04-29-il-buco/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-04-29-il-buco/</guid>
+      <guid>/posts/nyc-restaurants/2021-04-29-il-buco/</guid>
       <description> </description>
     </item>
     <item>
       <title>dante</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-04-09-dante/</link>
+      <link>/posts/nyc-restaurants/2021-04-09-dante/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-04-09-dante/</guid>
+      <guid>/posts/nyc-restaurants/2021-04-09-dante/</guid>
       <description> thoughts best cocktail bar in new york.&#xA;menu highlights martini negroni </description>
     </item>
     <item>
       <title>le fournil</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-01-01-le-fournil/</link>
+      <link>/posts/nyc-restaurants/2021-01-01-le-fournil/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-01-01-le-fournil/</guid>
+      <guid>/posts/nyc-restaurants/2021-01-01-le-fournil/</guid>
       <description> thoughts feels like you could be in the french countryside </description>
     </item>
     <item>
       <title>fiaschetteria pistoia</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</link>
+      <link>/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</guid>
+      <guid>/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</guid>
       <description> thoughts wine changes all the time, they bring your choices out in a carrier, very fun post dinner espresso hits </description>
     </item>
     <item>
       <title>pig and khao</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-01-29-pig-and-khao/</link>
+      <link>/posts/nyc-restaurants/2020-01-29-pig-and-khao/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-01-29-pig-and-khao/</guid>
+      <guid>/posts/nyc-restaurants/2020-01-29-pig-and-khao/</guid>
       <description> menu highlights brussel sprouts sleeper hit. </description>
     </item>
     <item>
       <title>cafe cluny</title>
-      <link>http://example.org/posts/nyc-restaurants/2019-10-06-cafe-cluny/</link>
+      <link>/posts/nyc-restaurants/2019-10-06-cafe-cluny/</link>
       <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2019-10-06-cafe-cluny/</guid>
+      <guid>/posts/nyc-restaurants/2019-10-06-cafe-cluny/</guid>
       <description> thoughts odds of d list celebrity sighting are high. bring your friend who&amp;rsquo;s cosplaying as an influencer while you enjoy a delicious burger. two birds one stone. menu highlights fries are excellent. </description>
     </item>
   </channel>

@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>by city on courtside nyc</title>
-    <link>http://example.org/bycity/</link>
+    <link>/bycity/</link>
     <description>Recent content in by city on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/bycity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bycity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>new york city</title>
-      <link>http://example.org/bycity/new-york/</link>
+      <link>/bycity/new-york/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/new-york/</guid>
+      <guid>/bycity/new-york/</guid>
       <description></description>
     </item>
     <item>
       <title>london 🇬🇧</title>
-      <link>http://example.org/bycity/london/</link>
+      <link>/bycity/london/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/london/</guid>
+      <guid>/bycity/london/</guid>
       <description></description>
     </item>
     <item>
       <title>cdmx 🇲🇽</title>
-      <link>http://example.org/bycity/cdmx/</link>
+      <link>/bycity/cdmx/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/cdmx/</guid>
+      <guid>/bycity/cdmx/</guid>
       <description></description>
     </item>
     <item>
       <title>washington dc</title>
-      <link>http://example.org/bycity/dc/</link>
+      <link>/bycity/dc/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/dc/</guid>
+      <guid>/bycity/dc/</guid>
       <description></description>
     </item>
     <item>
       <title>philly</title>
-      <link>http://example.org/bycity/philly/</link>
+      <link>/bycity/philly/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/philly/</guid>
+      <guid>/bycity/philly/</guid>
       <description></description>
     </item>
     <item>
       <title>edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿</title>
-      <link>http://example.org/bycity/edinburgh/</link>
+      <link>/bycity/edinburgh/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/bycity/edinburgh/</guid>
+      <guid>/bycity/edinburgh/</guid>
       <description></description>
     </item>
     <item>
       <title>barcelona 🇪🇸</title>
-      <link>http://example.org/bycity/barcelona/</link>
+      <link>/bycity/barcelona/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/barcelona/</guid>
+      <guid>/bycity/barcelona/</guid>
       <description></description>
     </item>
     <item>
       <title>cangas de onís 🇪🇸</title>
-      <link>http://example.org/bycity/cangas-de-onis/</link>
+      <link>/bycity/cangas-de-onis/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/cangas-de-onis/</guid>
+      <guid>/bycity/cangas-de-onis/</guid>
       <description></description>
     </item>
     <item>
       <title>oviedo 🇪🇸</title>
-      <link>http://example.org/bycity/oviedo/</link>
+      <link>/bycity/oviedo/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/oviedo/</guid>
+      <guid>/bycity/oviedo/</guid>
       <description></description>
     </item>
     <item>
       <title>san sebastian 🇪🇸</title>
-      <link>http://example.org/bycity/san-sebastian/</link>
+      <link>/bycity/san-sebastian/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/san-sebastian/</guid>
+      <guid>/bycity/san-sebastian/</guid>
       <description></description>
     </item>
     <item>
       <title>santander 🇪🇸</title>
-      <link>http://example.org/bycity/santander/</link>
+      <link>/bycity/santander/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/santander/</guid>
+      <guid>/bycity/santander/</guid>
       <description></description>
     </item>
     <item>
       <title>kos 🇬🇷</title>
-      <link>http://example.org/bycity/kos/</link>
+      <link>/bycity/kos/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/kos/</guid>
+      <guid>/bycity/kos/</guid>
       <description></description>
     </item>
     <item>
       <title>rhodes 🇬🇷</title>
-      <link>http://example.org/bycity/rhodes/</link>
+      <link>/bycity/rhodes/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/bycity/rhodes/</guid>
+      <guid>/bycity/rhodes/</guid>
       <description></description>
     </item>
     <item>
       <title>florence 🇮🇹</title>
-      <link>http://example.org/bycity/florence/</link>
+      <link>/bycity/florence/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/bycity/florence/</guid>
+      <guid>/bycity/florence/</guid>
       <description></description>
     </item>
     <item>
       <title>rome 🇮🇹</title>
-      <link>http://example.org/bycity/rome/</link>
+      <link>/bycity/rome/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:35 -0500</pubDate>
-      <guid>http://example.org/bycity/rome/</guid>
+      <guid>/bycity/rome/</guid>
       <description></description>
     </item>
   </channel>

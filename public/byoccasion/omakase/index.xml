@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>omakase on courtside nyc</title>
-    <link>http://example.org/byoccasion/omakase/</link>
+    <link>/byoccasion/omakase/</link>
     <description>Recent content in omakase on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byoccasion/omakase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byoccasion/omakase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>domo domo</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
+      <link>/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
       <description> thoughts when the sushi craving hits and needs to be resolved asap but there&amp;rsquo;s cheaper + better omakase </description>
     </item>
     <item>
       <title>office of mr. moto</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</link>
+      <link>/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</guid>
       <description> thoughts dining experience, highly recommend the pairing as well post dinner drinks in the downstairs bar was a major highlight books out month in advance - need to be ready when resys drop @ 10 am on the first of the month </description>
     </item>
     <item>
       <title>thirteen water</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</link>
+      <link>/posts/nyc-restaurants/2023-06-23-thirteen-water/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-23-thirteen-water/</guid>
       <description>thoughts excellent</description>
     </item>
     <item>
       <title>sushi by m</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-01-22-sushi-by-m/</link>
+      <link>/posts/nyc-restaurants/2023-01-22-sushi-by-m/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-01-22-sushi-by-m/</guid>
+      <guid>/posts/nyc-restaurants/2023-01-22-sushi-by-m/</guid>
       <description> thoughts $69 omakase is bangin </description>
     </item>
   </channel>

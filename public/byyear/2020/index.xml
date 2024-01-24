@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2020 on courtside nyc</title>
-    <link>http://example.org/byyear/2020/</link>
+    <link>/byyear/2020/</link>
     <description>Recent content in 2020 on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byyear/2020/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byyear/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fiaschetteria pistoia</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</link>
+      <link>/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</guid>
+      <guid>/posts/nyc-restaurants/2020-11-17-fiaschetteria-pistoia/</guid>
       <description> thoughts wine changes all the time, they bring your choices out in a carrier, very fun post dinner espresso hits </description>
     </item>
     <item>
       <title>panna ii</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-03-07-panna-ii/</link>
+      <link>/posts/nyc-restaurants/2020-03-07-panna-ii/</link>
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-03-07-panna-ii/</guid>
+      <guid>/posts/nyc-restaurants/2020-03-07-panna-ii/</guid>
       <description> thoughts where were you when the world shut down? i was at panna ii bella hadid had her birthday here there are multiple pannas, so make sure you go to the right one - it&amp;rsquo;s top right very fun, stimulating experience - would not recommend for those sensitive to lights you&amp;rsquo;re gonna feel like sardines in there </description>
     </item>
     <item>
       <title>2 amys</title>
-      <link>http://example.org/posts/trips/dc/2020-02-16-2-amys/</link>
+      <link>/posts/trips/dc/2020-02-16-2-amys/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/trips/dc/2020-02-16-2-amys/</guid>
+      <guid>/posts/trips/dc/2020-02-16-2-amys/</guid>
       <description></description>
     </item>
     <item>
       <title>pig and khao</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-01-29-pig-and-khao/</link>
+      <link>/posts/nyc-restaurants/2020-01-29-pig-and-khao/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-01-29-pig-and-khao/</guid>
+      <guid>/posts/nyc-restaurants/2020-01-29-pig-and-khao/</guid>
       <description> menu highlights brussel sprouts sleeper hit. </description>
     </item>
     <item>
       <title>lil chef mama</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</link>
+      <link>/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</guid>
+      <guid>/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</guid>
       <description> thoughts yummy thai </description>
     </item>
   </channel>

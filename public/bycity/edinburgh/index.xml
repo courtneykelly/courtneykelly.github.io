@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 on courtside nyc</title>
-    <link>http://example.org/bycity/edinburgh/</link>
+    <link>/bycity/edinburgh/</link>
     <description>Recent content in edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/bycity/edinburgh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bycity/edinburgh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dishoom</title>
-      <link>http://example.org/posts/trips/london/2022-09-04-dishoom/</link>
+      <link>/posts/trips/london/2022-09-04-dishoom/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/trips/london/2022-09-04-dishoom/</guid>
+      <guid>/posts/trips/london/2022-09-04-dishoom/</guid>
       <description>london locations carneby covent garden king&amp;rsquo;s cross kensington shoreditch canary wharf battersea edinburgh location edinburgh thoughts top contender for last meal </description>
     </item>
     <item>
       <title>biddy mulligans</title>
-      <link>http://example.org/posts/trips/scotland/2018-biddy-mulligans-2/</link>
+      <link>/posts/trips/scotland/2018-biddy-mulligans-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-biddy-mulligans-2/</guid>
+      <guid>/posts/trips/scotland/2018-biddy-mulligans-2/</guid>
       <description></description>
     </item>
     <item>
       <title>biddy mulligans</title>
-      <link>http://example.org/posts/trips/scotland/2018-biddy-mulligans/</link>
+      <link>/posts/trips/scotland/2018-biddy-mulligans/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-biddy-mulligans/</guid>
+      <guid>/posts/trips/scotland/2018-biddy-mulligans/</guid>
       <description></description>
     </item>
     <item>
       <title>bramble bar</title>
-      <link>http://example.org/posts/trips/scotland/2018-bramble-2/</link>
+      <link>/posts/trips/scotland/2018-bramble-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-bramble-2/</guid>
+      <guid>/posts/trips/scotland/2018-bramble-2/</guid>
       <description></description>
     </item>
     <item>
       <title>bramble bar</title>
-      <link>http://example.org/posts/trips/scotland/2018-bramble/</link>
+      <link>/posts/trips/scotland/2018-bramble/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-bramble/</guid>
+      <guid>/posts/trips/scotland/2018-bramble/</guid>
       <description></description>
     </item>
     <item>
       <title>chaophraya thai</title>
-      <link>http://example.org/posts/trips/scotland/2018-cahophraya-2/</link>
+      <link>/posts/trips/scotland/2018-cahophraya-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-cahophraya-2/</guid>
+      <guid>/posts/trips/scotland/2018-cahophraya-2/</guid>
       <description></description>
     </item>
     <item>
       <title>chaophraya thai</title>
-      <link>http://example.org/posts/trips/scotland/2018-cahophraya/</link>
+      <link>/posts/trips/scotland/2018-cahophraya/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-cahophraya/</guid>
+      <guid>/posts/trips/scotland/2018-cahophraya/</guid>
       <description></description>
     </item>
     <item>
       <title>el cartel</title>
-      <link>http://example.org/posts/trips/scotland/2018-el-cartel-2/</link>
+      <link>/posts/trips/scotland/2018-el-cartel-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-el-cartel-2/</guid>
+      <guid>/posts/trips/scotland/2018-el-cartel-2/</guid>
       <description>locations 2 locations </description>
     </item>
     <item>
       <title>el cartel</title>
-      <link>http://example.org/posts/trips/scotland/2018-el-cartel/</link>
+      <link>/posts/trips/scotland/2018-el-cartel/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-el-cartel/</guid>
+      <guid>/posts/trips/scotland/2018-el-cartel/</guid>
       <description>locations 2 locations </description>
     </item>
     <item>
       <title>good brothers</title>
-      <link>http://example.org/posts/trips/scotland/2018-good-brothers-2/</link>
+      <link>/posts/trips/scotland/2018-good-brothers-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-good-brothers-2/</guid>
+      <guid>/posts/trips/scotland/2018-good-brothers-2/</guid>
       <description></description>
     </item>
     <item>
       <title>good brothers</title>
-      <link>http://example.org/posts/trips/scotland/2018-good-brothers/</link>
+      <link>/posts/trips/scotland/2018-good-brothers/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-good-brothers/</guid>
+      <guid>/posts/trips/scotland/2018-good-brothers/</guid>
       <description></description>
     </item>
     <item>
       <title>mary&#39;s milk bar</title>
-      <link>http://example.org/posts/trips/scotland/2018-marys-milk-bar-2/</link>
+      <link>/posts/trips/scotland/2018-marys-milk-bar-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-marys-milk-bar-2/</guid>
+      <guid>/posts/trips/scotland/2018-marys-milk-bar-2/</guid>
       <description></description>
     </item>
     <item>
       <title>mary&#39;s milk bar</title>
-      <link>http://example.org/posts/trips/scotland/2018-marys-milk-bar/</link>
+      <link>/posts/trips/scotland/2018-marys-milk-bar/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-marys-milk-bar/</guid>
+      <guid>/posts/trips/scotland/2018-marys-milk-bar/</guid>
       <description></description>
     </item>
     <item>
       <title>southpour</title>
-      <link>http://example.org/posts/trips/scotland/2018-southpour-2/</link>
+      <link>/posts/trips/scotland/2018-southpour-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-southpour-2/</guid>
+      <guid>/posts/trips/scotland/2018-southpour-2/</guid>
       <description></description>
     </item>
     <item>
       <title>southpour</title>
-      <link>http://example.org/posts/trips/scotland/2018-southpour/</link>
+      <link>/posts/trips/scotland/2018-southpour/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-southpour/</guid>
+      <guid>/posts/trips/scotland/2018-southpour/</guid>
       <description></description>
     </item>
     <item>
       <title>tanjore</title>
-      <link>http://example.org/posts/trips/scotland/2018-tanjore-2/</link>
+      <link>/posts/trips/scotland/2018-tanjore-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-tanjore-2/</guid>
+      <guid>/posts/trips/scotland/2018-tanjore-2/</guid>
       <description></description>
     </item>
     <item>
       <title>tanjore</title>
-      <link>http://example.org/posts/trips/scotland/2018-tanjore/</link>
+      <link>/posts/trips/scotland/2018-tanjore/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-tanjore/</guid>
+      <guid>/posts/trips/scotland/2018-tanjore/</guid>
       <description></description>
     </item>
     <item>
       <title>the basement</title>
-      <link>http://example.org/posts/trips/scotland/2018-the-basement-2/</link>
+      <link>/posts/trips/scotland/2018-the-basement-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-the-basement-2/</guid>
+      <guid>/posts/trips/scotland/2018-the-basement-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the basement</title>
-      <link>http://example.org/posts/trips/scotland/2018-the-basement/</link>
+      <link>/posts/trips/scotland/2018-the-basement/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-the-basement/</guid>
+      <guid>/posts/trips/scotland/2018-the-basement/</guid>
       <description></description>
     </item>
     <item>
       <title>the devil&#39;s advocate</title>
-      <link>http://example.org/posts/trips/scotland/2018-devils-advocate-2/</link>
+      <link>/posts/trips/scotland/2018-devils-advocate-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-devils-advocate-2/</guid>
+      <guid>/posts/trips/scotland/2018-devils-advocate-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the devil&#39;s advocate</title>
-      <link>http://example.org/posts/trips/scotland/2018-devils-advocate/</link>
+      <link>/posts/trips/scotland/2018-devils-advocate/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-devils-advocate/</guid>
+      <guid>/posts/trips/scotland/2018-devils-advocate/</guid>
       <description></description>
     </item>
     <item>
       <title>the queens arms</title>
-      <link>http://example.org/posts/trips/scotland/2018-the-quees-arms-2/</link>
+      <link>/posts/trips/scotland/2018-the-quees-arms-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-the-quees-arms-2/</guid>
+      <guid>/posts/trips/scotland/2018-the-quees-arms-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the queens arms</title>
-      <link>http://example.org/posts/trips/scotland/2018-the-quees-arms/</link>
+      <link>/posts/trips/scotland/2018-the-quees-arms/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-the-quees-arms/</guid>
+      <guid>/posts/trips/scotland/2018-the-quees-arms/</guid>
       <description></description>
     </item>
     <item>
       <title>the scran and scallie</title>
-      <link>http://example.org/posts/trips/scotland/2018-scran-and-scallie-2/</link>
+      <link>/posts/trips/scotland/2018-scran-and-scallie-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-scran-and-scallie-2/</guid>
+      <guid>/posts/trips/scotland/2018-scran-and-scallie-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the scran and scallie</title>
-      <link>http://example.org/posts/trips/scotland/2018-scran-and-scallie/</link>
+      <link>/posts/trips/scotland/2018-scran-and-scallie/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-scran-and-scallie/</guid>
+      <guid>/posts/trips/scotland/2018-scran-and-scallie/</guid>
       <description></description>
     </item>
     <item>
       <title>the stockbridge tap</title>
-      <link>http://example.org/posts/trips/scotland/2018-stockbridge-tap-2/</link>
+      <link>/posts/trips/scotland/2018-stockbridge-tap-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-stockbridge-tap-2/</guid>
+      <guid>/posts/trips/scotland/2018-stockbridge-tap-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the stockbridge tap</title>
-      <link>http://example.org/posts/trips/scotland/2018-stockbridge-tap/</link>
+      <link>/posts/trips/scotland/2018-stockbridge-tap/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-stockbridge-tap/</guid>
+      <guid>/posts/trips/scotland/2018-stockbridge-tap/</guid>
       <description></description>
     </item>
     <item>
       <title>the white hart inn</title>
-      <link>http://example.org/posts/trips/scotland/2018-white-hart-inn-2/</link>
+      <link>/posts/trips/scotland/2018-white-hart-inn-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-white-hart-inn-2/</guid>
+      <guid>/posts/trips/scotland/2018-white-hart-inn-2/</guid>
       <description></description>
     </item>
     <item>
       <title>the white hart inn</title>
-      <link>http://example.org/posts/trips/scotland/2018-white-hart-inn/</link>
+      <link>/posts/trips/scotland/2018-white-hart-inn/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2018-white-hart-inn/</guid>
+      <guid>/posts/trips/scotland/2018-white-hart-inn/</guid>
       <description></description>
     </item>
   </channel>

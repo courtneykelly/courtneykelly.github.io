@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dessert on courtside nyc</title>
-    <link>http://example.org/byoccasion/dessert/</link>
+    <link>/byoccasion/dessert/</link>
     <description>Recent content in dessert on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byoccasion/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byoccasion/dessert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>radio bakery</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-23-radio/</link>
+      <link>/posts/nyc-restaurants/2023-11-23-radio/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-23-radio/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-23-radio/</guid>
       <description> thoughts get there early, they sell out of a lot of the good stuff menu highlights changes all the time, but impossible to go wrong pie </description>
     </item>
     <item>
       <title>superiority burger</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-21-superiority-burger/</link>
+      <link>/posts/nyc-restaurants/2023-05-21-superiority-burger/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-21-superiority-burger/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-21-superiority-burger/</guid>
       <description> thoughts walk-in only. get here just before it opens for an early dinner. bar in the back - serves pints of ice cream and burgers late nite do not skip dessert menu highlights can&amp;rsquo;t go wrong </description>
     </item>
     <item>
       <title>veniero&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-01-venieros/</link>
+      <link>/posts/nyc-restaurants/2023-03-01-venieros/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-01-venieros/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-01-venieros/</guid>
       <description> thoughts if you walk straight through to the back you can sit down and order dessert with table service! </description>
     </item>
     <item>
       <title>xing fu tang</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</link>
+      <link>/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</guid>
+      <guid>/posts/nyc-restaurants/2022-10-07-xing-fu-tang/</guid>
       <description>3 locations&#xA;thoughts best boba i&amp;rsquo;ve ever had </description>
     </item>
   </channel>

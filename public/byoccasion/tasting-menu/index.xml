@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tasting menu on courtside nyc</title>
-    <link>http://example.org/byoccasion/tasting-menu/</link>
+    <link>/byoccasion/tasting-menu/</link>
     <description>Recent content in tasting menu on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byoccasion/tasting-menu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byoccasion/tasting-menu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>office of mr. moto</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</link>
+      <link>/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-30-office-of-mr-moto/</guid>
       <description> thoughts dining experience, highly recommend the pairing as well post dinner drinks in the downstairs bar was a major highlight books out month in advance - need to be ready when resys drop @ 10 am on the first of the month </description>
     </item>
     <item>
       <title>thirteen water</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</link>
+      <link>/posts/nyc-restaurants/2023-06-23-thirteen-water/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-23-thirteen-water/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-23-thirteen-water/</guid>
       <description>thoughts excellent</description>
     </item>
     <item>
       <title>traif</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-23-traif/</link>
+      <link>/posts/nyc-restaurants/2023-05-23-traif/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-23-traif/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-23-traif/</guid>
       <description> thoughts hidden gem menu highlights chef&amp;rsquo;s selection tasting menu is gas </description>
     </item>
     <item>
       <title>llama san</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-08-22-llama-san/</link>
+      <link>/posts/nyc-restaurants/2021-08-22-llama-san/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-08-22-llama-san/</guid>
+      <guid>/posts/nyc-restaurants/2021-08-22-llama-san/</guid>
       <description> thoughts japanese + peruvian </description>
     </item>
   </channel>

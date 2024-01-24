@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seafood heavy on courtside nyc</title>
-    <link>http://example.org/bytip/seafood-heavy/</link>
+    <link>/bytip/seafood-heavy/</link>
     <description>Recent content in seafood heavy on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/bytip/seafood-heavy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bytip/seafood-heavy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>domo domo</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
+      <link>/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
       <description> thoughts when the sushi craving hits and needs to be resolved asap but there&amp;rsquo;s cheaper + better omakase </description>
     </item>
     <item>
       <title>fish cheeks</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-10-fish-cheeks/</link>
+      <link>/posts/nyc-restaurants/2023-12-10-fish-cheeks/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-10-fish-cheeks/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-10-fish-cheeks/</guid>
       <description> menu highlights coconut crab curry branzino </description>
     </item>
     <item>
       <title>ensenada</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-09-08-ensenada/</link>
+      <link>/posts/nyc-restaurants/2023-09-08-ensenada/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-09-08-ensenada/</guid>
+      <guid>/posts/nyc-restaurants/2023-09-08-ensenada/</guid>
       <description>thoughts closest any place has come to rival contramar. turns into a bar - black flamingo is inside in the basement menu highlights tostada de atun - classic. can&amp;rsquo;t miss. aguachile negro - seriously spicy, but my favorite dish of whole meal. pescado del dia “al pastor” - riff on contramar&amp;rsquo;s two-color butterfly fish. al pastor is my favorite, so i loved this. jaiba suave - soft shell crab, sits on top a green chorizo &amp;amp; beans. one of the best flavor combinations i&amp;rsquo;ve ever had.</description>
     </item>
     <item>
       <title>el pinguino</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</link>
+      <link>/posts/nyc-restaurants/2023-07-22-el-pinguino/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</guid>
+      <guid>/posts/nyc-restaurants/2023-07-22-el-pinguino/</guid>
       <description> thoughts fully converted me to a tin fish stan curry tuna mini hotdogs </description>
     </item>
     <item>
       <title>principe</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-07-14-principe/</link>
+      <link>/posts/nyc-restaurants/2023-07-14-principe/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-07-14-principe/</guid>
+      <guid>/posts/nyc-restaurants/2023-07-14-principe/</guid>
       <description> thoughts great bar scene, asked for an americano and i didn&amp;rsquo;t have to explain not the coffee menu highlights key lime pie ice cream sandwich </description>
     </item>
     <item>
       <title>dame</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-24-dame/</link>
+      <link>/posts/nyc-restaurants/2023-05-24-dame/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-24-dame/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-24-dame/</guid>
       <description> thoughts top contender for best meal of 2023 menu highlights everything is good, can&amp;rsquo;t miss the fish n chips though such a good wine list </description>
     </item>
     <item>
       <title>ariari</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</link>
+      <link>/posts/nyc-restaurants/2023-03-07-ari-ari/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-07-ari-ari/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-07-ari-ari/</guid>
       <description> thoughts inspired by the port city of busan korean comfort food that&amp;rsquo;s seafood heavy menu highlights yook-hoe - beef tartare fried softshell crab </description>
     </item>
     <item>
       <title>llama san</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-08-22-llama-san/</link>
+      <link>/posts/nyc-restaurants/2021-08-22-llama-san/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-08-22-llama-san/</guid>
+      <guid>/posts/nyc-restaurants/2021-08-22-llama-san/</guid>
       <description> thoughts japanese + peruvian </description>
     </item>
     <item>
       <title>flex mussels</title>
-      <link>http://example.org/posts/nyc-restaurants/2019-09-04-flex-mussels/</link>
+      <link>/posts/nyc-restaurants/2019-09-04-flex-mussels/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2019-09-04-flex-mussels/</guid>
+      <guid>/posts/nyc-restaurants/2019-09-04-flex-mussels/</guid>
       <description> menu highlights classic white wine thai </description>
     </item>
   </channel>

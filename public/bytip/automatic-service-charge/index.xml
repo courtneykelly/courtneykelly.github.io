@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automatic service charge on courtside nyc</title>
-    <link>http://example.org/bytip/automatic-service-charge/</link>
+    <link>/bytip/automatic-service-charge/</link>
     <description>Recent content in automatic service charge on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/bytip/automatic-service-charge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bytip/automatic-service-charge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>la palapa</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-18-la-palapa/</link>
+      <link>/posts/nyc-restaurants/2023-11-18-la-palapa/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-18-la-palapa/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-18-la-palapa/</guid>
       <description> thoughts sneaky huge space, can handle multiple parties of 10+ </description>
     </item>
   </channel>

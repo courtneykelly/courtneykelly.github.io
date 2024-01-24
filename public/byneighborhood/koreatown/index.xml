@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>koreatown on courtside nyc</title>
-    <link>http://example.org/byneighborhood/koreatown/</link>
+    <link>/byneighborhood/koreatown/</link>
     <description>Recent content in koreatown on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byneighborhood/koreatown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byneighborhood/koreatown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>seoul salon</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-02-seoul-salon/</link>
+      <link>/posts/nyc-restaurants/2023-05-02-seoul-salon/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-02-seoul-salon/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-02-seoul-salon/</guid>
       <description> thoughts walk-in bar seating&#xA;menu highlights pancake fried chicken </description>
     </item>
   </channel>

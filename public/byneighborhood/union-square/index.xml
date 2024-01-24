@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>union square on courtside nyc</title>
-    <link>http://example.org/byneighborhood/union-square/</link>
+    <link>/byneighborhood/union-square/</link>
     <description>Recent content in union square on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byneighborhood/union-square/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byneighborhood/union-square/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>singlish</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-03-singlish/</link>
+      <link>/posts/nyc-restaurants/2023-06-03-singlish/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-03-singlish/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-03-singlish/</guid>
       <description> thoughts bar tender was so nice and lovely to chat with :) space is tiny so def need resy menu highlights they&amp;rsquo;ve got some really nice whiskey </description>
     </item>
     <item>
       <title>bobwhite counter</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</link>
+      <link>/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</guid>
+      <guid>/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</guid>
       <description> thoughts iconic&#xA;menu highlights everything chicken caesar if you&amp;rsquo;re trying to be &amp;ldquo;healthy&amp;rdquo; but bffr if that&amp;rsquo;s your thought process. this is fried chicken. </description>
     </item>
     <item>
       <title>tompkin&#39;s square bagels</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</link>
+      <link>/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</guid>
+      <guid>/posts/nyc-restaurants/2021-09-04-tompkins-bagels/</guid>
       <description> thoughts three locations, two in EV - orginal on avenue a, second on 2nd avenue, newest location in union square avenue a location is the best absolute classic, iykyk </description>
     </item>
   </channel>

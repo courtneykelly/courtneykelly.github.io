@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>by occasion (nyc only) on courtside nyc</title>
-    <link>http://example.org/byoccasion/</link>
+    <link>/byoccasion/</link>
     <description>Recent content in by occasion (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byoccasion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byoccasion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>impress visitors</title>
-      <link>http://example.org/byoccasion/impress-visitors/</link>
+      <link>/byoccasion/impress-visitors/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/impress-visitors/</guid>
+      <guid>/byoccasion/impress-visitors/</guid>
       <description></description>
     </item>
     <item>
       <title>small group</title>
-      <link>http://example.org/byoccasion/small-group/</link>
+      <link>/byoccasion/small-group/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/small-group/</guid>
+      <guid>/byoccasion/small-group/</guid>
       <description></description>
     </item>
     <item>
       <title>special occasion</title>
-      <link>http://example.org/byoccasion/special-occasion/</link>
+      <link>/byoccasion/special-occasion/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/special-occasion/</guid>
+      <guid>/byoccasion/special-occasion/</guid>
       <description></description>
     </item>
     <item>
       <title>walk-in • last minute</title>
-      <link>http://example.org/byoccasion/walk-in-last-minute/</link>
+      <link>/byoccasion/walk-in-last-minute/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/walk-in-last-minute/</guid>
+      <guid>/byoccasion/walk-in-last-minute/</guid>
       <description></description>
     </item>
     <item>
       <title>brunch</title>
-      <link>http://example.org/byoccasion/brunch/</link>
+      <link>/byoccasion/brunch/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/brunch/</guid>
+      <guid>/byoccasion/brunch/</guid>
       <description></description>
     </item>
     <item>
       <title>bar seating • solo dining</title>
-      <link>http://example.org/byoccasion/bar-seating-solo-dining/</link>
+      <link>/byoccasion/bar-seating-solo-dining/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/bar-seating-solo-dining/</guid>
+      <guid>/byoccasion/bar-seating-solo-dining/</guid>
       <description></description>
     </item>
     <item>
       <title>people watching</title>
-      <link>http://example.org/byoccasion/people-watching/</link>
+      <link>/byoccasion/people-watching/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/people-watching/</guid>
+      <guid>/byoccasion/people-watching/</guid>
       <description></description>
     </item>
     <item>
       <title>date night</title>
-      <link>http://example.org/byoccasion/date-night/</link>
+      <link>/byoccasion/date-night/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/date-night/</guid>
+      <guid>/byoccasion/date-night/</guid>
       <description></description>
     </item>
     <item>
       <title>omakase</title>
-      <link>http://example.org/byoccasion/omakase/</link>
+      <link>/byoccasion/omakase/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/omakase/</guid>
+      <guid>/byoccasion/omakase/</guid>
       <description></description>
     </item>
     <item>
       <title>parents in town</title>
-      <link>http://example.org/byoccasion/parents-in-town/</link>
+      <link>/byoccasion/parents-in-town/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/parents-in-town/</guid>
+      <guid>/byoccasion/parents-in-town/</guid>
       <description></description>
     </item>
     <item>
       <title>work dinner</title>
-      <link>http://example.org/byoccasion/work-dinner/</link>
+      <link>/byoccasion/work-dinner/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/work-dinner/</guid>
+      <guid>/byoccasion/work-dinner/</guid>
       <description></description>
     </item>
     <item>
       <title>big group</title>
-      <link>http://example.org/byoccasion/big-group/</link>
+      <link>/byoccasion/big-group/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/big-group/</guid>
+      <guid>/byoccasion/big-group/</guid>
       <description></description>
     </item>
     <item>
       <title>birthday dinner</title>
-      <link>http://example.org/byoccasion/birthday-dinner/</link>
+      <link>/byoccasion/birthday-dinner/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/birthday-dinner/</guid>
+      <guid>/byoccasion/birthday-dinner/</guid>
       <description></description>
     </item>
     <item>
       <title>day drink • patio pounders</title>
-      <link>http://example.org/byoccasion/day-drink-patio-pounders/</link>
+      <link>/byoccasion/day-drink-patio-pounders/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/day-drink-patio-pounders/</guid>
+      <guid>/byoccasion/day-drink-patio-pounders/</guid>
       <description></description>
     </item>
     <item>
       <title>fast casual • quick lunch</title>
-      <link>http://example.org/byoccasion/fast-casual-quick-lunch/</link>
+      <link>/byoccasion/fast-casual-quick-lunch/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/fast-casual-quick-lunch/</guid>
+      <guid>/byoccasion/fast-casual-quick-lunch/</guid>
       <description></description>
     </item>
     <item>
       <title>bakery</title>
-      <link>http://example.org/byoccasion/bakery/</link>
+      <link>/byoccasion/bakery/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/bakery/</guid>
+      <guid>/byoccasion/bakery/</guid>
       <description></description>
     </item>
     <item>
       <title>dessert</title>
-      <link>http://example.org/byoccasion/dessert/</link>
+      <link>/byoccasion/dessert/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/dessert/</guid>
+      <guid>/byoccasion/dessert/</guid>
       <description></description>
     </item>
     <item>
       <title>wine bar</title>
-      <link>http://example.org/byoccasion/wine-bar/</link>
+      <link>/byoccasion/wine-bar/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/wine-bar/</guid>
+      <guid>/byoccasion/wine-bar/</guid>
       <description></description>
     </item>
     <item>
       <title>cocktail bar</title>
-      <link>http://example.org/byoccasion/cocktail-bar/</link>
+      <link>/byoccasion/cocktail-bar/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/cocktail-bar/</guid>
+      <guid>/byoccasion/cocktail-bar/</guid>
       <description></description>
     </item>
     <item>
       <title>oysters • happy hour</title>
-      <link>http://example.org/byoccasion/oysters-happy-hour/</link>
+      <link>/byoccasion/oysters-happy-hour/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/oysters-happy-hour/</guid>
+      <guid>/byoccasion/oysters-happy-hour/</guid>
       <description></description>
     </item>
     <item>
       <title>tasting menu</title>
-      <link>http://example.org/byoccasion/tasting-menu/</link>
+      <link>/byoccasion/tasting-menu/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/tasting-menu/</guid>
+      <guid>/byoccasion/tasting-menu/</guid>
       <description></description>
     </item>
     <item>
       <title>pizza</title>
-      <link>http://example.org/byoccasion/pizza/</link>
+      <link>/byoccasion/pizza/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/byoccasion/pizza/</guid>
+      <guid>/byoccasion/pizza/</guid>
       <description></description>
     </item>
   </channel>

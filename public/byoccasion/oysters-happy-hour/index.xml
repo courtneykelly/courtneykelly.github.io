@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oysters • happy hour on courtside nyc</title>
-    <link>http://example.org/byoccasion/oysters-happy-hour/</link>
+    <link>/byoccasion/oysters-happy-hour/</link>
     <description>Recent content in oysters • happy hour on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byoccasion/oysters-happy-hour/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byoccasion/oysters-happy-hour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>el pinguino</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</link>
+      <link>/posts/nyc-restaurants/2023-07-22-el-pinguino/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-07-22-el-pinguino/</guid>
+      <guid>/posts/nyc-restaurants/2023-07-22-el-pinguino/</guid>
       <description> thoughts fully converted me to a tin fish stan curry tuna mini hotdogs </description>
     </item>
     <item>
       <title>the ten bells</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-09-23-ten-bells/</link>
+      <link>/posts/nyc-restaurants/2022-09-23-ten-bells/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-09-23-ten-bells/</guid>
+      <guid>/posts/nyc-restaurants/2022-09-23-ten-bells/</guid>
       <description> thoughts sneaky huge space in the back for private events or large partiest </description>
     </item>
     <item>
       <title>le dive</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-08-12-le-dive/</link>
+      <link>/posts/nyc-restaurants/2022-08-12-le-dive/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-08-12-le-dive/</guid>
+      <guid>/posts/nyc-restaurants/2022-08-12-le-dive/</guid>
       <description> thoughts the best place to sit outside on a nice day. tables spill into dimes square - outdoor seating + cobblestones feels very european. basement bar where you can dance late nite ! </description>
     </item>
     <item>
       <title>sidney&#39;s five</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-03-11-sidneys-five/</link>
+      <link>/posts/nyc-restaurants/2022-03-11-sidneys-five/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-03-11-sidneys-five/</guid>
+      <guid>/posts/nyc-restaurants/2022-03-11-sidneys-five/</guid>
       <description> thoughts just good vibes all around.&#xA;menu highlights corn dogs lol </description>
     </item>
     <item>
       <title>st. tropez</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-01-13-st-tropez/</link>
+      <link>/posts/nyc-restaurants/2022-01-13-st-tropez/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-01-13-st-tropez/</guid>
+      <guid>/posts/nyc-restaurants/2022-01-13-st-tropez/</guid>
       <description>west village location soho location&#xA;thoughts came here for birthday dinner waiter so so fun &amp;amp; brought us shots (didn&amp;rsquo;t know what a gin gimlet was though so maybe stick to wine) </description>
     </item>
     <item>
       <title>flex mussels</title>
-      <link>http://example.org/posts/nyc-restaurants/2019-09-04-flex-mussels/</link>
+      <link>/posts/nyc-restaurants/2019-09-04-flex-mussels/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2019-09-04-flex-mussels/</guid>
+      <guid>/posts/nyc-restaurants/2019-09-04-flex-mussels/</guid>
       <description> menu highlights classic white wine thai </description>
     </item>
   </channel>

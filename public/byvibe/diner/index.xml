@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diner on courtside nyc</title>
-    <link>http://example.org/byvibe/diner/</link>
+    <link>/byvibe/diner/</link>
     <description>Recent content in diner on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byvibe/diner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byvibe/diner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golden diner</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-14-golden-diner/</link>
+      <link>/posts/nyc-restaurants/2024-01-14-golden-diner/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-14-golden-diner/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-14-golden-diner/</guid>
       <description> thoughts walk-in only on weekends (waits can range anywhere from 1-4 hours lol) go during week when they accept resys menu highlights pancake tuna melt </description>
     </item>
     <item>
       <title>revelie luncheonette</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-13-revelie/</link>
+      <link>/posts/nyc-restaurants/2024-01-13-revelie/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-13-revelie/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-13-revelie/</guid>
       <description> thoughts would go just to hang with eric again walk-in only menu highlights green chile cheeseburger chopped cheese egg sandwich </description>
     </item>
     <item>
       <title>superiority burger</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-21-superiority-burger/</link>
+      <link>/posts/nyc-restaurants/2023-05-21-superiority-burger/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-21-superiority-burger/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-21-superiority-burger/</guid>
       <description> thoughts walk-in only. get here just before it opens for an early dinner. bar in the back - serves pints of ice cream and burgers late nite do not skip dessert menu highlights can&amp;rsquo;t go wrong </description>
     </item>
   </channel>

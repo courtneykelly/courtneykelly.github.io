@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cheap &amp; cheerful on courtside nyc</title>
-    <link>http://example.org/byvibe/cheap-cheerful/</link>
+    <link>/byvibe/cheap-cheerful/</link>
     <description>Recent content in cheap &amp; cheerful on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byvibe/cheap-cheerful/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byvibe/cheap-cheerful/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kolachi</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-01-kolachi/</link>
+      <link>/posts/nyc-restaurants/2023-12-01-kolachi/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-01-kolachi/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-01-kolachi/</guid>
       <description> menu highlights get 2 (chicken &amp;gt; beef) do not skip the diesel fries (spicy) </description>
     </item>
     <item>
       <title>la palapa</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-18-la-palapa/</link>
+      <link>/posts/nyc-restaurants/2023-11-18-la-palapa/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-18-la-palapa/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-18-la-palapa/</guid>
       <description> thoughts sneaky huge space, can handle multiple parties of 10+ </description>
     </item>
     <item>
       <title>886</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-13-886/</link>
+      <link>/posts/nyc-restaurants/2023-06-13-886/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-13-886/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-13-886/</guid>
       <description> menu highlights popcorn chicken black pepper beef </description>
     </item>
     <item>
       <title>kiki&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-10-03-kikis/</link>
+      <link>/posts/nyc-restaurants/2022-10-03-kikis/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-10-03-kikis/</guid>
+      <guid>/posts/nyc-restaurants/2022-10-03-kikis/</guid>
       <description> thoughts walk-in only. the restaurant is low-key huge so i&amp;rsquo;ve never had to wait a long time. also there&amp;rsquo;s so many cool bars close by for you to go grab a drink while you wait.&#xA;menu highlights maroulosalata salad zucchini chips grilled octopus mixed grill </description>
     </item>
     <item>
       <title>rowdy rooster</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</link>
+      <link>/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</guid>
+      <guid>/posts/nyc-restaurants/2022-10-03-rowdy-rooster/</guid>
       <description> thoughts unbelievably good. drooling just thinking about it.&#xA;menu highlights obviously the chicken sandwich cauliflower is gas mango lassi is also really good (and helps with the spice if you struggle with the heat) </description>
     </item>
     <item>
       <title>bobwhite counter</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</link>
+      <link>/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</guid>
+      <guid>/posts/nyc-restaurants/2022-03-25-bobwhite-counter/</guid>
       <description> thoughts iconic&#xA;menu highlights everything chicken caesar if you&amp;rsquo;re trying to be &amp;ldquo;healthy&amp;rdquo; but bffr if that&amp;rsquo;s your thought process. this is fried chicken. </description>
     </item>
     <item>
       <title>lhasa</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-02-27-lhasa/</link>
+      <link>/posts/nyc-restaurants/2022-02-27-lhasa/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-02-27-lhasa/</guid>
+      <guid>/posts/nyc-restaurants/2022-02-27-lhasa/</guid>
       <description> thoughts underrated. gem of the east village.&#xA;menu highlights momo (tibetan dumplings) </description>
     </item>
     <item>
       <title>san marzano</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-11-20-san-marzano/</link>
+      <link>/posts/nyc-restaurants/2021-11-20-san-marzano/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-11-20-san-marzano/</guid>
+      <guid>/posts/nyc-restaurants/2021-11-20-san-marzano/</guid>
       <description> thoughts amazing pre fixe deal ($49 pp) bottomless beer, wine, sangria skews young bc it&amp;rsquo;s so cheap wine is most likely franzia pasta is delicious </description>
     </item>
     <item>
       <title>veselka</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-11-04-veselka/</link>
+      <link>/posts/nyc-restaurants/2021-11-04-veselka/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-11-04-veselka/</guid>
+      <guid>/posts/nyc-restaurants/2021-11-04-veselka/</guid>
       <description> menu highlights if you&amp;rsquo;re debating between boiled or fried perogis, go with boiled. </description>
     </item>
     <item>
       <title>spicy moon</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-10-29-spicy-moon/</link>
+      <link>/posts/nyc-restaurants/2021-10-29-spicy-moon/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-10-29-spicy-moon/</guid>
+      <guid>/posts/nyc-restaurants/2021-10-29-spicy-moon/</guid>
       <description> thoughts so good you won&amp;rsquo;t even know it&amp;rsquo;s vegan. there&amp;rsquo;s two locations. one in the east village and one in the west village, but the ev location is my favorite. menu highlights bathe me in the spicy wontons in chili oil. </description>
     </item>
     <item>
       <title>rosie&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-09-20-rosies/</link>
+      <link>/posts/nyc-restaurants/2021-09-20-rosies/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-09-20-rosies/</guid>
+      <guid>/posts/nyc-restaurants/2021-09-20-rosies/</guid>
       <description> thoughts skews young ceviche (if it&amp;rsquo;s still on the menu) </description>
     </item>
     <item>
       <title>queen of sheba</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</link>
+      <link>/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</guid>
+      <guid>/posts/nyc-restaurants/2021-08-24-queen-of-sheeba/</guid>
       <description> thoughts my go to spot when i lived in hell&amp;rsquo;s kitchen. </description>
     </item>
     <item>
       <title>au za&#39;atar</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-06-09-au-zaatar/</link>
+      <link>/posts/nyc-restaurants/2021-06-09-au-zaatar/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-06-09-au-zaatar/</guid>
+      <guid>/posts/nyc-restaurants/2021-06-09-au-zaatar/</guid>
       <description> menu highlights shawarma is insane, comes sitting on top a mountain of fries. </description>
     </item>
     <item>
       <title>wondee siam</title>
-      <link>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</link>
+      <link>/posts/nyc-restaurants/2018-10-17-wondee/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2018-10-17-wondee/</guid>
+      <guid>/posts/nyc-restaurants/2018-10-17-wondee/</guid>
       <description> thoughts go-to spot when i lived in hell&amp;rsquo;s kitchen menu highlights crispy pork </description>
     </item>
   </channel>

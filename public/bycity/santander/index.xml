@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>santander 🇪🇸 on courtside nyc</title>
-    <link>http://example.org/bycity/santander/</link>
+    <link>/bycity/santander/</link>
     <description>Recent content in santander 🇪🇸 on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 1969 19:33:43 -0500</lastBuildDate>
-    <atom:link href="http://example.org/bycity/santander/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bycity/santander/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bodega cigaleña</title>
-      <link>http://example.org/posts/trips/spain/2023-04-casa-revert/</link>
+      <link>/posts/trips/spain/2023-04-casa-revert/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/spain/2023-04-casa-revert/</guid>
+      <guid>/posts/trips/spain/2023-04-casa-revert/</guid>
       <description></description>
     </item>
     <item>
       <title>la casa de revert</title>
-      <link>http://example.org/posts/trips/spain/2023-04-la-casa-revert/</link>
+      <link>/posts/trips/spain/2023-04-la-casa-revert/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/spain/2023-04-la-casa-revert/</guid>
+      <guid>/posts/trips/spain/2023-04-la-casa-revert/</guid>
       <description></description>
     </item>
   </channel>

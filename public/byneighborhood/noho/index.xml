@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noho on courtside nyc</title>
-    <link>http://example.org/byneighborhood/noho/</link>
+    <link>/byneighborhood/noho/</link>
     <description>Recent content in noho on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byneighborhood/noho/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byneighborhood/noho/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the nines</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-19-nines/</link>
+      <link>/posts/nyc-restaurants/2024-01-19-nines/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-19-nines/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-19-nines/</guid>
       <description> thoughts acme downstairs, opens 10:30 max table holds 6 people </description>
     </item>
     <item>
       <title>fish cheeks</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-10-fish-cheeks/</link>
+      <link>/posts/nyc-restaurants/2023-12-10-fish-cheeks/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-10-fish-cheeks/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-10-fish-cheeks/</guid>
       <description> menu highlights coconut crab curry branzino </description>
     </item>
     <item>
       <title>c as in charlie</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</link>
+      <link>/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</guid>
       <description> menu highlights popcorn chicken doodle dessert so fun </description>
     </item>
     <item>
       <title>jolene</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</link>
+      <link>/posts/nyc-restaurants/2023-10-22-jolene/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-10-22-jolene/</guid>
+      <guid>/posts/nyc-restaurants/2023-10-22-jolene/</guid>
       <description> thoughts truly some of the kindest staff </description>
     </item>
     <item>
       <title>jac&#39;s on bond</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-05-30-jacs/</link>
+      <link>/posts/nyc-restaurants/2023-05-30-jacs/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-05-30-jacs/</guid>
+      <guid>/posts/nyc-restaurants/2023-05-30-jacs/</guid>
       <description> thoughts make a res if you can, weeknights better than weekends imo everyone in there is cool and attractive and they know it </description>
     </item>
     <item>
       <title>il buco</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-04-29-il-buco/</link>
+      <link>/posts/nyc-restaurants/2021-04-29-il-buco/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-04-29-il-buco/</guid>
+      <guid>/posts/nyc-restaurants/2021-04-29-il-buco/</guid>
       <description> </description>
     </item>
   </channel>

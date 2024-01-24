@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>low-key on courtside nyc</title>
-    <link>http://example.org/byvibe/low-key/</link>
+    <link>/byvibe/low-key/</link>
     <description>Recent content in low-key on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/byvibe/low-key/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/byvibe/low-key/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>domo domo</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
+      <link>/posts/nyc-restaurants/2024-01-11-domo-domo/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-11-domo-domo/</guid>
       <description> thoughts when the sushi craving hits and needs to be resolved asap but there&amp;rsquo;s cheaper + better omakase </description>
     </item>
     <item>
       <title>konbon</title>
-      <link>http://example.org/posts/nyc-restaurants/2024-01-07-konbon/</link>
+      <link>/posts/nyc-restaurants/2024-01-07-konbon/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2024-01-07-konbon/</guid>
+      <guid>/posts/nyc-restaurants/2024-01-07-konbon/</guid>
       <description> thoughts fantastic menu highlights scallop carpaccio mazemen (not spicy) corn dessert is so realistic i looked at the table next to us trying to cut theirs in half and thought to myself &amp;ldquo;who the fuck cuts corn like that&amp;rdquo; </description>
     </item>
     <item>
       <title>figure eight</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</link>
+      <link>/posts/nyc-restaurants/2023-12-14-figure-eight/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-12-14-figure-eight/</guid>
+      <guid>/posts/nyc-restaurants/2023-12-14-figure-eight/</guid>
       <description> menu highlights long beans sun chokes corn jalepeño bolobao </description>
     </item>
     <item>
       <title>bakerie</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</link>
+      <link>/posts/nyc-restaurants/2023-11-26-bakerie/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-26-bakerie/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-26-bakerie/</guid>
       <description> menu highlights sandwiches looked gas </description>
     </item>
     <item>
       <title>tonchin</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-25-tonchin/</link>
+      <link>/posts/nyc-restaurants/2023-11-25-tonchin/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-25-tonchin/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-25-tonchin/</guid>
       <description> menu highlights known for their &amp;ldquo;pizza&amp;rdquo; ramen, i had to try it. it did taste like a pizza, but next time im just going to get the classic spicy tonkotsu </description>
     </item>
     <item>
       <title>c as in charlie</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</link>
+      <link>/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</guid>
+      <guid>/posts/nyc-restaurants/2023-11-17-c-as-in-charlie/</guid>
       <description> menu highlights popcorn chicken doodle dessert so fun </description>
     </item>
     <item>
       <title>sauced</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-10-05-sauce/</link>
+      <link>/posts/nyc-restaurants/2023-10-05-sauce/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-10-05-sauce/</guid>
+      <guid>/posts/nyc-restaurants/2023-10-05-sauce/</guid>
       <description></description>
     </item>
     <item>
       <title>rynn</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-09-10-rynn/</link>
+      <link>/posts/nyc-restaurants/2023-09-10-rynn/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-09-10-rynn/</guid>
+      <guid>/posts/nyc-restaurants/2023-09-10-rynn/</guid>
       <description> thoughts wonderful new neighborhood spot in the east village menu highlights mango lemonade - an absolute slay. pairs perfectly with the spicy items on the menu tum strawberry - spicy strawberry salad </description>
     </item>
     <item>
       <title>cafe mogador</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-06-03-cafe-mogador/</link>
+      <link>/posts/nyc-restaurants/2023-06-03-cafe-mogador/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-06-03-cafe-mogador/</guid>
+      <guid>/posts/nyc-restaurants/2023-06-03-cafe-mogador/</guid>
       <description> thoughts east village classic&#xA;menu highlights amba (side sauce) </description>
     </item>
     <item>
       <title>silver apricot</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-04-26-silver-apricot/</link>
+      <link>/posts/nyc-restaurants/2023-04-26-silver-apricot/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-04-26-silver-apricot/</guid>
+      <guid>/posts/nyc-restaurants/2023-04-26-silver-apricot/</guid>
       <description> menu highlights scallion puffs </description>
     </item>
     <item>
       <title>jiang&#39;s kitchen</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</link>
+      <link>/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-27-jiangs-kitchen/</guid>
       <description> thoughts halal - uyghur chinese restaurant northwestern chinese food (xinjiang region) menu highlights fried noodle w/ spicy minced beef hot and sour cucumber </description>
     </item>
     <item>
       <title>foul witch</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-03-12-foul-witch/</link>
+      <link>/posts/nyc-restaurants/2023-03-12-foul-witch/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-03-12-foul-witch/</guid>
+      <guid>/posts/nyc-restaurants/2023-03-12-foul-witch/</guid>
       <description> thoughts rip to the fire and ice. you will be missed.&#xA;menu highlights veal tortellini sorana beans </description>
     </item>
     <item>
       <title>sushi by m</title>
-      <link>http://example.org/posts/nyc-restaurants/2023-01-22-sushi-by-m/</link>
+      <link>/posts/nyc-restaurants/2023-01-22-sushi-by-m/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2023-01-22-sushi-by-m/</guid>
+      <guid>/posts/nyc-restaurants/2023-01-22-sushi-by-m/</guid>
       <description> thoughts $69 omakase is bangin </description>
     </item>
     <item>
       <title>kings co imperial</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-10-22-kings-co/</link>
+      <link>/posts/nyc-restaurants/2022-10-22-kings-co/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
+      <guid>/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
       <description>see locations&#xA;thoughts great patio action in williamsburg location menu highlights egg rolls were gas </description>
     </item>
     <item>
       <title>jeju noodle bar</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</link>
+      <link>/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</guid>
+      <guid>/posts/nyc-restaurants/2022-03-24-jeju-noodle-bar/</guid>
       <description> thoughts i think they do they a good restaurant week deal.&#xA;menu highlights obviously the wagu </description>
     </item>
     <item>
       <title>hanoi house</title>
-      <link>http://example.org/posts/nyc-restaurants/2022-01-27-hanoi-house/</link>
+      <link>/posts/nyc-restaurants/2022-01-27-hanoi-house/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2022-01-27-hanoi-house/</guid>
+      <guid>/posts/nyc-restaurants/2022-01-27-hanoi-house/</guid>
       <description> menu highlights braised beef bahn mi - reminded me of a french dip sandwich (but better) because you get a side of pho broth for dipping. </description>
     </item>
     <item>
       <title>freeman&#39;s</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</link>
+      <link>/posts/nyc-restaurants/2021-11-21-freemans/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-11-21-freemans/</guid>
+      <guid>/posts/nyc-restaurants/2021-11-21-freemans/</guid>
       <description> thoughts they have not one but two different back rooms to host your birthday brunch parents love this place rustic, farm house, ski lodge chic menu highlights spinach artichoke dip </description>
     </item>
     <item>
       <title>the izakaya</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-10-07-izakaya/</link>
+      <link>/posts/nyc-restaurants/2021-10-07-izakaya/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-10-07-izakaya/</guid>
+      <guid>/posts/nyc-restaurants/2021-10-07-izakaya/</guid>
       <description> thoughts two locations. original is on 6th and newer is on 4th menu highlights kastu sandwich usually sells out, people line up for it </description>
     </item>
     <item>
       <title>madame vo</title>
-      <link>http://example.org/posts/nyc-restaurants/2021-08-29-madame-vo/</link>
+      <link>/posts/nyc-restaurants/2021-08-29-madame-vo/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2021-08-29-madame-vo/</guid>
+      <guid>/posts/nyc-restaurants/2021-08-29-madame-vo/</guid>
       <description> </description>
     </item>
     <item>
       <title>lil chef mama</title>
-      <link>http://example.org/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</link>
+      <link>/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</guid>
+      <guid>/posts/nyc-restaurants/2020-01-01-lil-chef-mama/</guid>
       <description> thoughts yummy thai </description>
     </item>
     <item>
       <title>bea</title>
-      <link>http://example.org/posts/nyc-restaurants/2019-09-16-bea/</link>
+      <link>/posts/nyc-restaurants/2019-09-16-bea/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2019-09-16-bea/</guid>
+      <guid>/posts/nyc-restaurants/2019-09-16-bea/</guid>
       <description> thoughts very close to broadway if you&amp;rsquo;re trying to catch a show menu highlights good cocktails </description>
     </item>
     <item>
       <title>aria</title>
-      <link>http://example.org/posts/nyc-restaurants/2019-04-12-aria/</link>
+      <link>/posts/nyc-restaurants/2019-04-12-aria/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/nyc-restaurants/2019-04-12-aria/</guid>
+      <guid>/posts/nyc-restaurants/2019-04-12-aria/</guid>
       <description> thoughts sit at the bar </description>
     </item>
   </channel>

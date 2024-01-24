@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oviedo 🇪🇸 on courtside nyc</title>
-    <link>http://example.org/bycity/oviedo/</link>
+    <link>/bycity/oviedo/</link>
     <description>Recent content in oviedo 🇪🇸 on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 1969 19:33:43 -0500</lastBuildDate>
-    <atom:link href="http://example.org/bycity/oviedo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/bycity/oviedo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ca&#39;suso</title>
-      <link>http://example.org/posts/trips/spain/2023-04-ca-suso/</link>
+      <link>/posts/trips/spain/2023-04-ca-suso/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/spain/2023-04-ca-suso/</guid>
+      <guid>/posts/trips/spain/2023-04-ca-suso/</guid>
       <description></description>
     </item>
     <item>
       <title>casa ramon</title>
-      <link>http://example.org/posts/trips/scotland/2023-04-casa-ramon-2/</link>
+      <link>/posts/trips/scotland/2023-04-casa-ramon-2/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2023-04-casa-ramon-2/</guid>
+      <guid>/posts/trips/scotland/2023-04-casa-ramon-2/</guid>
       <description></description>
     </item>
     <item>
       <title>casa ramon</title>
-      <link>http://example.org/posts/trips/scotland/2023-04-casa-ramon/</link>
+      <link>/posts/trips/scotland/2023-04-casa-ramon/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/scotland/2023-04-casa-ramon/</guid>
+      <guid>/posts/trips/scotland/2023-04-casa-ramon/</guid>
       <description></description>
     </item>
     <item>
       <title>gloria</title>
-      <link>http://example.org/posts/trips/spain/2023-04-gloria/</link>
+      <link>/posts/trips/spain/2023-04-gloria/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>http://example.org/posts/trips/spain/2023-04-gloria/</guid>
+      <guid>/posts/trips/spain/2023-04-gloria/</guid>
       <description></description>
     </item>
   </channel>
