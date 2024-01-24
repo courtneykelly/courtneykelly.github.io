@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>south brooklyn on courtside nyc</title>
-    <link>/byneighborhood/south-brooklyn/</link>
+    <link>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</link>
     <description>Recent content in south brooklyn on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/byneighborhood/south-brooklyn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/byneighborhood/south-brooklyn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kings co imperial</title>
-      <link>/posts/nyc-restaurants/2022-10-22-kings-co/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2022-10-22-kings-co/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2022-10-22-kings-co/</guid>
       <description>see locations&#xA;thoughts great patio action in williamsburg location menu highlights egg rolls were gas </description>
     </item>
     <item>
       <title>chama mama</title>
-      <link>/posts/nyc-restaurants/2021-12-08-chama-mama/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2021-12-08-chama-mama/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2021-12-08-chama-mama/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2021-12-08-chama-mama/</guid>
       <description> menu highlights try the georgian wine! mushrooms sleeper hit </description>
     </item>
     <item>
       <title>court street grocers</title>
-      <link>/posts/nyc-restaurants/2021-11-13-court-street/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2021-11-13-court-street/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2021-11-13-court-street/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2021-11-13-court-street/</guid>
       <description>locations&#xA;thoughts excellent sandwich from someone who doesn&amp;rsquo;t love sandwiches (a tragedy i&amp;rsquo;m told) love to grab a sammy and sit in wash square park &amp;amp; people watch menu highlights cannot go wrong </description>
     </item>
     <item>
       <title>emmy squared</title>
-      <link>/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
       <description>menu highlights this is a pizza place, but the burger is phenomenal. it&amp;rsquo;s a double stacked smash patty served on a pretzel bun with waffle fries. i&amp;rsquo;m drooling. </description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wine bar on courtside nyc</title>
-    <link>/byoccasion/wine-bar/</link>
+    <link>https://courtneykelly.github.io/byoccasion/wine-bar/</link>
     <description>Recent content in wine bar on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/byoccasion/wine-bar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/byoccasion/wine-bar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sauced</title>
-      <link>/posts/nyc-restaurants/2023-10-05-sauce/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-10-05-sauce/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-10-05-sauce/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-10-05-sauce/</guid>
       <description></description>
     </item>
     <item>
       <title>the ten bells</title>
-      <link>/posts/nyc-restaurants/2022-09-23-ten-bells/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2022-09-23-ten-bells/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2022-09-23-ten-bells/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2022-09-23-ten-bells/</guid>
       <description> thoughts sneaky huge space in the back for private events or large partiest </description>
     </item>
     <item>
       <title>le dive</title>
-      <link>/posts/nyc-restaurants/2022-08-12-le-dive/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2022-08-12-le-dive/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2022-08-12-le-dive/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2022-08-12-le-dive/</guid>
       <description> thoughts the best place to sit outside on a nice day. tables spill into dimes square - outdoor seating + cobblestones feels very european. basement bar where you can dance late nite ! </description>
     </item>
     <item>
       <title>ruffian</title>
-      <link>/posts/nyc-restaurants/2021-09-04-ruffian/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2021-09-04-ruffian/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2021-09-04-ruffian/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2021-09-04-ruffian/</guid>
       <description> </description>
     </item>
   </channel>

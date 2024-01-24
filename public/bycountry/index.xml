@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>by country on courtside nyc</title>
-    <link>/bycountry/</link>
+    <link>https://courtneykelly.github.io/bycountry/</link>
     <description>Recent content in by country on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/bycountry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/bycountry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>united states of america</title>
-      <link>/bycountry/usa/</link>
+      <link>https://courtneykelly.github.io/bycountry/usa/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/bycountry/usa/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/usa/</guid>
       <description></description>
     </item>
     <item>
       <title>united kingdom</title>
-      <link>/bycountry/united-kingdom/</link>
+      <link>https://courtneykelly.github.io/bycountry/united-kingdom/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/bycountry/united-kingdom/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/united-kingdom/</guid>
       <description></description>
     </item>
     <item>
       <title>mexico</title>
-      <link>/bycountry/mexico/</link>
+      <link>https://courtneykelly.github.io/bycountry/mexico/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>/bycountry/mexico/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/mexico/</guid>
       <description></description>
     </item>
     <item>
       <title>greece</title>
-      <link>/bycountry/greece/</link>
+      <link>https://courtneykelly.github.io/bycountry/greece/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/bycountry/greece/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/greece/</guid>
       <description></description>
     </item>
     <item>
       <title>spain</title>
-      <link>/bycountry/spain/</link>
+      <link>https://courtneykelly.github.io/bycountry/spain/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:43 -0500</pubDate>
-      <guid>/bycountry/spain/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/spain/</guid>
       <description></description>
     </item>
     <item>
       <title>italy</title>
-      <link>/bycountry/italy/</link>
+      <link>https://courtneykelly.github.io/bycountry/italy/</link>
       <pubDate>Wed, 31 Dec 1969 19:33:38 -0500</pubDate>
-      <guid>/bycountry/italy/</guid>
+      <guid>https://courtneykelly.github.io/bycountry/italy/</guid>
       <description></description>
     </item>
   </channel>

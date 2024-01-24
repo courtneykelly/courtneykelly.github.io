@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>loud on courtside nyc</title>
-    <link>/bytip/loud/</link>
+    <link>https://courtneykelly.github.io/bytip/loud/</link>
     <description>Recent content in loud on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/bytip/loud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/bytip/loud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>felix</title>
-      <link>/posts/nyc-restaurants/2023-12-09-felix/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-12-09-felix/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-12-09-felix/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-12-09-felix/</guid>
       <description> thoughts res was at 1:00pm, didn&amp;rsquo;t leave until 6:30 chaotic, lit, dancing on tables menu highlights go for the magnum bottles </description>
     </item>
     <item>
       <title>cathédrale</title>
-      <link>/posts/nyc-restaurants/2023-12-02-cathedral/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-12-02-cathedral/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-12-02-cathedral/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-12-02-cathedral/</guid>
       <description> thoughts space is beautfiul, so much fun for birthday dinner menu highlights octopus, tomatoes </description>
     </item>
     <item>
       <title>ippudo</title>
-      <link>/posts/nyc-restaurants/2021-03-23-ippudo/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2021-03-23-ippudo/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2021-03-23-ippudo/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2021-03-23-ippudo/</guid>
       <description> thoughts two locations one in the east village and another in hell&amp;rsquo;s kitchen save some tables for walk-ins menu highlights karaka spicy bao buns &amp;amp; shisitos </description>
     </item>
   </channel>

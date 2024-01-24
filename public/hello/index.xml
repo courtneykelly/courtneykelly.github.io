@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on courtside nyc</title>
-    <link>/hello/</link>
+    <link>https://courtneykelly.github.io/hello/</link>
     <description>Recent content in About on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/hello/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/hello/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

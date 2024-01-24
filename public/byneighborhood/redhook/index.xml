@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>redhook on courtside nyc</title>
-    <link>/byneighborhood/redhook/</link>
+    <link>https://courtneykelly.github.io/byneighborhood/redhook/</link>
     <description>Recent content in redhook on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/byneighborhood/redhook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/byneighborhood/redhook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hometown bar-b-que</title>
-      <link>/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-27-hometown-bar-b-que/</guid>
       <description> thoughts head over to steve&amp;rsquo;s authentic key lime pie after menu highlights lamb bahn mi was the best sandwich i&amp;rsquo;ve ever had </description>
     </item>
   </channel>

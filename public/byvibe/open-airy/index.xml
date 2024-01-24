@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open • airy on courtside nyc</title>
-    <link>/byvibe/open-airy/</link>
+    <link>https://courtneykelly.github.io/byvibe/open-airy/</link>
     <description>Recent content in open • airy on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/byvibe/open-airy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/byvibe/open-airy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>laser wolf</title>
-      <link>/posts/nyc-restaurants/2023-09-15-laser-wolf/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-15-laser-wolf/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-09-15-laser-wolf/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-15-laser-wolf/</guid>
       <description> thoughts bar seating is first come first serve and they have a lot of seats menu highlights i&amp;rsquo;m hesitant to put anything here because everything was a hit. there were no misses, so you can&amp;rsquo;t go wrong.&#xA;tuna shishlik </description>
     </item>
     <item>
       <title>rynn</title>
-      <link>/posts/nyc-restaurants/2023-09-10-rynn/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-10-rynn/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-09-10-rynn/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-09-10-rynn/</guid>
       <description> thoughts wonderful new neighborhood spot in the east village menu highlights mango lemonade - an absolute slay. pairs perfectly with the spicy items on the menu tum strawberry - spicy strawberry salad </description>
     </item>
     <item>
       <title>au cheval</title>
-      <link>/posts/nyc-restaurants/2023-06-10-au-cheval/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-06-10-au-cheval/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-06-10-au-cheval/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-06-10-au-cheval/</guid>
       <description> thoughts brought my dad here when i couldn&amp;rsquo;t do another steakhouse. he loved it. basement bar menu highlights the burger, duh </description>
     </item>
     <item>
       <title>rule of thirds</title>
-      <link>/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2021-12-09-rule-of-thirds/</guid>
       <description> thoughts had my company holiday party here and it was a huge hit, also surprisingly affordable for 35 people. menu highlights duck fried chicken rice cooker pudding - not for everyone but i loved it. </description>
     </item>
   </channel>

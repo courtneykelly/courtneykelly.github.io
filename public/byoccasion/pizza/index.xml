@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pizza on courtside nyc</title>
-    <link>/byoccasion/pizza/</link>
+    <link>https://courtneykelly.github.io/byoccasion/pizza/</link>
     <description>Recent content in pizza on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/byoccasion/pizza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/byoccasion/pizza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>emmett&#39;s on grove</title>
-      <link>/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2023-03-18-emmetts-on-grove/</guid>
       <description>thoughts super thin crust pizza is delicious and 6 &amp;ldquo;slices&amp;rdquo; feels like 1 normal slice of pizza, so your group can order multiple pizzas and not live in fear of leftovers or over-ordering it&amp;rsquo;s almost impossible to walk-in to this place, so definitely plan ahead or just grab a resy for a random date in the future for yourself and 3 friends i saw two birthday dinners during my 2 hour dining experience and they bring out sparklers! they have a couple big tables, but the best is the giant circular booth in the back left corner.</description>
     </item>
     <item>
       <title>john&#39;s of bleecker street</title>
-      <link>/posts/nyc-restaurants/2019-09-07-johns-bleecker/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2019-09-07-johns-bleecker/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2019-09-07-johns-bleecker/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2019-09-07-johns-bleecker/</guid>
       <description> thoughts walk-in only will be surrounded by tourists, but still worth waiting it </description>
     </item>
     <item>
       <title>emmy squared</title>
-      <link>/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
+      <link>https://courtneykelly.github.io/posts/nyc-restaurants/2019-05-03-emmy-squared/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
+      <guid>https://courtneykelly.github.io/posts/nyc-restaurants/2019-05-03-emmy-squared/</guid>
       <description>menu highlights this is a pizza place, but the burger is phenomenal. it&amp;rsquo;s a double stacked smash patty served on a pretzel bun with waffle fries. i&amp;rsquo;m drooling. </description>
     </item>
   </channel>

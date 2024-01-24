@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>philly on courtside nyc</title>
-    <link>/bycity/philly/</link>
+    <link>https://courtneykelly.github.io/bycity/philly/</link>
     <description>Recent content in philly on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/bycity/philly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://courtneykelly.github.io/bycity/philly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pizzeria beddia</title>
-      <link>/posts/trips/philly/2021-06-19-pizzeria-beddia/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-19-pizzeria-beddia/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-19-pizzeria-beddia/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-19-pizzeria-beddia/</guid>
       <description></description>
     </item>
     <item>
       <title>south philly barbacoa</title>
-      <link>/posts/trips/philly/2021-06-19-south-philly-barbacoa/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-19-south-philly-barbacoa/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-19-south-philly-barbacoa/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-19-south-philly-barbacoa/</guid>
       <description></description>
     </item>
     <item>
       <title>fishtown social</title>
-      <link>/posts/trips/philly/2021-06-18-fishtown-social/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-fishtown-social/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-18-fishtown-social/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-fishtown-social/</guid>
       <description></description>
     </item>
     <item>
       <title>k&#39;far cafe</title>
-      <link>/posts/trips/philly/2021-06-18-kfar-cafe/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-kfar-cafe/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-18-kfar-cafe/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-kfar-cafe/</guid>
       <description></description>
     </item>
     <item>
       <title>mcgillin&#39;s olde ale house</title>
-      <link>/posts/trips/philly/2021-06-18-mcgillins/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-mcgillins/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-18-mcgillins/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-18-mcgillins/</guid>
       <description></description>
     </item>
     <item>
       <title>zahav</title>
-      <link>/posts/trips/philly/2021-06-17-zahav/</link>
+      <link>https://courtneykelly.github.io/posts/trips/philly/2021-06-17-zahav/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/trips/philly/2021-06-17-zahav/</guid>
+      <guid>https://courtneykelly.github.io/posts/trips/philly/2021-06-17-zahav/</guid>
       <description></description>
     </item>
   </channel>
