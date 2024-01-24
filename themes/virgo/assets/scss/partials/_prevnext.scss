@@ -3,7 +3,11 @@
     justify-content: space-between;
     border-top: 1px solid $gray-100;
     padding-top: 32px;
-    overflow: hidden;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 16px;
 
     $a-height: 40px;
     a {
