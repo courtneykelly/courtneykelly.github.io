@@ -68,6 +68,10 @@
     .content {
         padding-top: 16px;
         font-family: $font-family--text;
+
+        a {
+            text-decoration: underline;
+        }
         
         p,
         li,

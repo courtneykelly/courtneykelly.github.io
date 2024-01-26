@@ -169,7 +169,7 @@ enableGitInfo = true
         color = '#696969'                           # 图标颜色，默认为浅灰色
         slogan = 'Find me via : )'                  # 联系标语，不想显示，可以置空
 
-    # 在开发环境下（http://localhost:1313/），不再启用评论插件，
+    # 在开发环境下（https://localhost:1313/），不再启用评论插件，
     # 如果想在开发环境下启用它，修改服务端口即可，如下
     # hugo server -p=1314
     [params.utterances]

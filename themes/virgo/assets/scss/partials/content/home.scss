@@ -135,6 +135,10 @@
         font-size: $font-family--text;;
         padding-top: 24px;
 
+        a {
+            text-decoration: underline;
+        }
+
         p,
         li,
         td {
