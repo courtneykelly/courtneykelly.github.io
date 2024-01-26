@@ -9267,7 +9267,7 @@
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/tags/vibes/toggleUglyDelicious.js
-  function toggleUglyDelicousButton() {
+  function toggleUglydeliciousButton() {
     toggleTag("ugly delicious", "#ugly-delicious-btn.tag");
   }
 
@@ -9455,7 +9455,7 @@
     (0, import_jquery18.default)("#phone-eats-first-btn").click(togglePhoneEatsFirstButton);
     (0, import_jquery18.default)("#family-style-btn").click(toggleFamilyStyleButton);
     (0, import_jquery18.default)("#fun-different-btn").click(toggleFunDifferentButton);
-    (0, import_jquery18.default)("#ugly-delicious-btn").click(toggleUglyDelicousButton);
+    (0, import_jquery18.default)("#ugly-delicious-btn").click(toggleUglydeliciousButton);
     (0, import_jquery18.default)("#rainy-day-btn").click(toggleRainyDayButton);
     (0, import_jquery18.default)("#high-energy-btn").click(toggleHighEnergyButton);
     (0, import_jquery18.default)("#low-key-btn").click(toggleLowKeyButton);

@@ -56,7 +56,7 @@ import toggleFriendlyStaffButton from 'js/tags/vibes/toggleFriendlyStaff';
 import toggleLowKeyButton from 'js/tags/vibes/toggleLowKey';
 import toggleHighEnergyButton from 'js/tags/vibes/toggleHighEnergy';
 import toggleRainyDayButton from 'js/tags/vibes/toggleRainyDay';
-import toggleUglyDelicousButton from 'js/tags/vibes/toggleUglyDelicious';
+import toggleUglydeliciousButton from 'js/tags/vibes/toggleUglyDelicious';
 import toggleFunDifferentButton from 'js/tags/vibes/toggleFunDifferent';
 import toggleFamilyStyleButton from 'js/tags/vibes/toggleFamilyStyle';
 import togglePhoneEatsFirstButton from 'js/tags/vibes/togglePhoneEatsFirst';
@@ -148,7 +148,7 @@ export default function initTagBinding() {
     $('#phone-eats-first-btn').click(togglePhoneEatsFirstButton);
     $('#family-style-btn').click(toggleFamilyStyleButton);
     $('#fun-different-btn').click(toggleFunDifferentButton);
-    $('#ugly-delicious-btn').click(toggleUglyDelicousButton);
+    $('#ugly-delicious-btn').click(toggleUglydeliciousButton);
     $('#rainy-day-btn').click(toggleRainyDayButton);
     $('#high-energy-btn').click(toggleHighEnergyButton);
     $('#low-key-btn').click(toggleLowKeyButton);

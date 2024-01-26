@@ -7,7 +7,7 @@ byneighborhood: ["east village"]
 byoccasion: ["brunch", "day drink • patio pounders", "small group", "walk-in • last minute"]
 bytip: [""]
 byattire: ["no one cares"]
-byvibe: ["high energy", "tropical • beach club", "ugly delicous"]
+byvibe: ["high energy", "tropical • beach club", "ugly delicious"]
 byyear: ["2022"]
 background_image: '../../background/miss_lilys.jpeg'
 ---
