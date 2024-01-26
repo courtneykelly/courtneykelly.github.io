@@ -16,30 +16,8 @@ background_image: '../../background/emmetts2.png'
 
 #### thoughts
 * super thin crust pizza is delicious and 6 "slices" feels like 1 normal slice of pizza, so your group can order multiple pizzas and not live in fear of leftovers or over-ordering
-* it's almost impossible to walk-in to this place, so definitely plan ahead or just grab a resy for a random date in the future for yourself and 3 friends
 * i saw two birthday dinners during my 2 hour dining experience and they bring out sparklers! 
 * they have a couple big tables, but the best is the giant circular booth in the back left corner. you can fit 10 friends and get to talk to everyone!
 
 #### menu highlights
-* **key lime pie** - so good it brought tears to my eyes.
-
-<div class="split">
-    <div>
-        <figure>
-            <img src="../../../posts/emmetts/key_lime.jpg" height=550>
-            <figcaption>key lime pie</figcaption>
-        </figure>
-    </div>
-    <div>
-        <figure>
-            <img src="../../../posts/emmetts/mint.jpg" height=550>
-            <figcaption>crème de menthe</figcaption>
-        </figure>
-    </div>
-    <div>
-        <figure>
-            <img src="../../../posts/emmetts/salad.jpg" height=550>
-            <figcaption>arugula salad</figcaption>
-        </figure>
-    </div>
-</div>
+* key lime pie was so good it brought tears to my eyes.

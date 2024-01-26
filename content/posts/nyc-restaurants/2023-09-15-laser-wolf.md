@@ -18,5 +18,5 @@ background_image: '../../background/laser_wolf.jpeg'
 * bar seating is first come first serve and they have a lot of seats
 
 #### menu highlights
-i'm hesitant to put anything here because *everything* was a hit. there were no misses, so you can't go wrong.
+* i'm hesitant to put anything here because *everything* was a hit. there were no misses, so you can't go wrong.
 * tuna shishlik

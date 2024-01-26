@@ -17,6 +17,6 @@ background_image: '../../background/el_penguino.png'
 #### thoughts
 * fully converted me to a tin fish stan
 
-####
+#### menu highlights
 * curry tuna
 * mini hotdogs 

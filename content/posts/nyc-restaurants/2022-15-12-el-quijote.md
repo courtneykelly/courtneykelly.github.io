@@ -17,6 +17,5 @@ background_image: '../../background/el_quijote.jpeg'
 #### thoughts
 * they have a basement wine cellar you can rent out for a special event or birthday dinner!
 * such a cool space. old and historic, but also trendy and cool.
-* bar scene is lit. also can easily walk through the double doors at the back of the restaurant and head into the lobby bar at hotel chelsea for a post-dinner drink.
+* bar scene is cozy. also can easily walk through the double doors at the back of the restaurant and head into the lobby bar at hotel chelsea for a post-dinner drink.
 
-#### menu highlights
