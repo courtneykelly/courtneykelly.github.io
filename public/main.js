@@ -8740,10 +8740,10 @@
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/init/initTagBinding.js
-  var import_jquery18 = __toESM(require_jquery_min());
+  var import_jquery20 = __toESM(require_jquery_min());
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/toggleTags.js
-  var import_jquery16 = __toESM(require_jquery_min());
+  var import_jquery18 = __toESM(require_jquery_min());
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/getTagDivKeysMap.js
   var divKeysMap2 = /* @__PURE__ */ new Map([
@@ -8817,29 +8817,164 @@
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/toggleTagColor.js
+  var import_jquery17 = __toESM(require_jquery_min());
+
+  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/applyFilters.js
+  var import_jquery16 = __toESM(require_jquery_min());
+
+  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/hideGeneratedLists.js
   var import_jquery15 = __toESM(require_jquery_min());
-  function toggleTagColor(tagName, divElement) {
-    if (getLocalStorageOf(tagName) === "false") {
-      setButtonToActive(tagName, divElement);
-    } else {
-      setButtonToInactive(tagName, divElement);
+  function hideGeneratedLists() {
+    let supportedNeighborhoods = [
+      "manhattan-district1",
+      "manhattan-district2",
+      "manhattan-district3",
+      "manhattan-district4",
+      "manhattan-district5",
+      "manhattan-district7",
+      "manhattan-district8",
+      "brooklyn-district2",
+      "brooklyn-district6"
+    ];
+    let supportedOccasions = [
+      "date night",
+      "birthday dinner",
+      "work dinner",
+      "fast casual quick lunch",
+      "bakery",
+      "impress visitors",
+      "special occasion",
+      "big group",
+      "parents in town",
+      "small group",
+      "walk-in last minute",
+      // "dessert",
+      "brunch",
+      "bar seating solo dining",
+      "day drink patio pounders",
+      "wine bar",
+      "cocktail bar",
+      "oysters happy hour",
+      // "omakase",
+      "tasting menu",
+      "people watching",
+      "pizza"
+    ];
+    let supportedVibes = [
+      "trendy see and be seen",
+      // "unassuming",
+      "divey casual",
+      "institution",
+      "boujee pretend youre rich",
+      // "pretentious",
+      // "drop dimes",
+      "cheap cheerful",
+      "tried true",
+      "phone eats first",
+      "family style",
+      "fun different",
+      "ugly delicious",
+      "rainy day food for the soul",
+      "high energy",
+      "low-key",
+      "friendly staff welcoming",
+      // "quick table turnover",
+      // "close quarters" ,
+      // "dj is cooking with gas",
+      "diner",
+      "warm cozy",
+      // "open airy",
+      "its giving romance",
+      "patio action garden seating",
+      // "rooftop sauce",
+      "apr\xE9s ski",
+      // "tropical beach club",
+      "european"
+      // "clean modern",
+    ];
+    let neighborhoodKeys = /* @__PURE__ */ new Set();
+    for (let supportedNeighborhood1 of supportedNeighborhoods) {
+      let neighborhoodKey1 = supportedNeighborhood1.split(" ").sort().join("-");
+      neighborhoodKeys.add(neighborhoodKey1);
+    }
+    let occasionKeys = /* @__PURE__ */ new Set();
+    for (let supportedOccasion1 of supportedOccasions) {
+      let occasionKey1 = supportedOccasion1.split(" ").sort().join("-");
+      occasionKeys.add(occasionKey1);
+    }
+    let vibeKeys = /* @__PURE__ */ new Set();
+    for (let supportedVibe1 of supportedVibes) {
+      let vibeKey1 = supportedVibe1.split(" ").sort().join("-");
+      vibeKeys.add(vibeKey1);
+    }
+    neighborhoodKeys.add("NoNeighborhood");
+    occasionKeys.add("NoOccasion");
+    vibeKeys.add("NoVibe");
+    for (let neighborhoodKey of neighborhoodKeys) {
+      for (let occasionKey of occasionKeys) {
+        for (let vibeKey of vibeKeys) {
+          let divKey = "#" + neighborhoodKey + "-" + occasionKey + "-" + vibeKey;
+          (0, import_jquery15.default)(divKey).hide();
+        }
+      }
     }
   }
-  function setButtonToActive(tagName, divElement) {
-    console.log("setting: " + tagName + " to true.");
-    (0, import_jquery15.default)(divElement).css({
-      color: "#ffffff",
-      backgroundColor: "#f45c1c"
-    });
-    setLocalStorageOf(tagName, "true");
-  }
-  function setButtonToInactive(tagName, divElement) {
-    console.log("setting: " + tagName + " to false.");
-    (0, import_jquery15.default)(divElement).css({
-      color: "#f45c1c",
-      backgroundColor: "#ffffff"
-    });
-    setLocalStorageOf(tagName, "false");
+
+  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/applyFilters.js
+  function applyFilters() {
+    let neighborhoodfilters = [];
+    let neighborhoodFilterParams = getNeighborhoodFilterParams();
+    for (let neighborhoodfilter in neighborhoodFilterParams) {
+      if (getLocalStorageOf(neighborhoodfilter) == "true") {
+        setLocalStorageOf("activeNeighborhood", neighborhoodfilter);
+        let neighborhoodFilterArray = neighborhoodfilter.split(" ");
+        neighborhoodfilters = neighborhoodfilters.concat(neighborhoodFilterArray);
+      }
+    }
+    let occasionfilters = [];
+    for (let occasionfilter in getOccasionFilterParams()) {
+      if (getLocalStorageOf(occasionfilter) == "true") {
+        setLocalStorageOf("activeOccasion", occasionfilter);
+        let occasionFilterArray = occasionfilter.split(" ");
+        occasionfilters = occasionfilters.concat(occasionFilterArray);
+      }
+    }
+    let vibefilters = [];
+    for (let vibefilter in getVibeFilterParams()) {
+      if (getLocalStorageOf(vibefilter) == "true") {
+        setLocalStorageOf("activeVibe", vibefilter);
+        let vibeFilterArray = vibefilter.split(" ");
+        vibefilters = vibefilters.concat(vibeFilterArray);
+      }
+    }
+    let neighborhoodKey = "";
+    if (neighborhoodfilters.length == 0) {
+      setLocalStorageOf("activeNeighborhood", "NoNeighborhood");
+      neighborhoodKey = "NoNeighborhood";
+    } else {
+      neighborhoodKey = neighborhoodfilters.sort().join("-");
+    }
+    let occasionKey = "";
+    if (occasionfilters.length == 0) {
+      setLocalStorageOf("activeOccasion", "NoOccasion");
+      occasionKey = "NoOccasion";
+    } else {
+      occasionKey = occasionfilters.sort().join("-");
+    }
+    let vibeKey = "";
+    if (vibefilters.length == 0) {
+      setLocalStorageOf("activeVibe", "NoVibe");
+      vibeKey = "NoVibe";
+    } else {
+      vibeKey = vibefilters.sort().join("-");
+    }
+    let activeList = getLocalStorageOf("activeList");
+    console.log("Hiding active list: ", activeList);
+    (0, import_jquery16.default)(activeList).hide();
+    let divKey = "#" + neighborhoodKey + "-" + occasionKey + "-" + vibeKey;
+    console.log("Displaying hidden list: ", divKey);
+    setLocalStorageOf("activeList", divKey);
+    (0, import_jquery16.default)(divKey).show();
   }
   function getLocalStorageOf(varName) {
     return localStorage.getItem(varName);
@@ -8847,11 +8982,55 @@
   function setLocalStorageOf(varName, varValue) {
     localStorage.setItem(varName, varValue);
   }
+  function getNeighborhoodFilterParams() {
+    let _filters = (0, import_jquery16.default)("#neighborhood-vars");
+    return JSON.parse(_filters.text());
+  }
+  function getOccasionFilterParams() {
+    let _filters = (0, import_jquery16.default)("#occasion-vars");
+    return JSON.parse(_filters.text());
+  }
+  function getVibeFilterParams() {
+    let _filters = (0, import_jquery16.default)("#vibe-vars");
+    return JSON.parse(_filters.text());
+  }
+
+  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/toggleTagColor.js
+  function toggleTagColor(tagName, divElement) {
+    if (getLocalStorageOf2(tagName) === "false") {
+      setButtonToActive(tagName, divElement);
+    } else {
+      setButtonToInactive(tagName, divElement);
+    }
+    applyFilters();
+  }
+  function setButtonToActive(tagName, divElement) {
+    console.log("setting: " + tagName + " to true.");
+    (0, import_jquery17.default)(divElement).css({
+      color: "#ffffff",
+      backgroundColor: "#f45c1c"
+    });
+    setLocalStorageOf2(tagName, "true");
+  }
+  function setButtonToInactive(tagName, divElement) {
+    console.log("setting: " + tagName + " to false.");
+    (0, import_jquery17.default)(divElement).css({
+      color: "#f45c1c",
+      backgroundColor: "#ffffff"
+    });
+    setLocalStorageOf2(tagName, "false");
+  }
+  function getLocalStorageOf2(varName) {
+    return localStorage.getItem(varName);
+  }
+  function setLocalStorageOf2(varName, varValue) {
+    localStorage.setItem(varName, varValue);
+  }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/toggleTags.js
   divKeysMap = getTagDivKeysMap();
   function toggleTag(tagName, divElement) {
-    if (getLocalStorageOf2(tagName) == "true") {
+    if (getLocalStorageOf3(tagName) == "true") {
       toggleTagColor(tagName, divElement);
     } else if (isAtFilterCapacity(tagName)) {
       clearTagTypeGroup(tagName, divElement);
@@ -8877,46 +9056,46 @@
       clearVibeTags();
   }
   function isNeighborhoodTag(tagName) {
-    let neighborhoodFilterParams = getNeighborhoodFilterParams();
+    let neighborhoodFilterParams = getNeighborhoodFilterParams2();
     if (neighborhoodFilterParams.hasOwnProperty(tagName)) {
       return true;
     }
     return false;
   }
   function isOccasionTag(tagName) {
-    let occasionFilterParams = getOccasionFilterParams();
+    let occasionFilterParams = getOccasionFilterParams2();
     if (occasionFilterParams.hasOwnProperty(tagName)) {
       return true;
     }
     return false;
   }
   function isVibeTag(tagName) {
-    let vibeFilterParams = getVibeFilterParams();
+    let vibeFilterParams = getVibeFilterParams2();
     if (vibeFilterParams.hasOwnProperty(tagName)) {
       return true;
     }
     return false;
   }
   function clearNeighborhoodTags() {
-    let neighborhoodFilterParams = getNeighborhoodFilterParams();
+    let neighborhoodFilterParams = getNeighborhoodFilterParams2();
     for (let neighborhoodfilter in neighborhoodFilterParams) {
-      if (getLocalStorageOf2(neighborhoodfilter) == "true") {
+      if (getLocalStorageOf3(neighborhoodfilter) == "true") {
         toggleTagColor(neighborhoodfilter, divKeysMap.get(neighborhoodfilter));
       }
     }
   }
   function clearOccasionTags() {
-    let occasionFilterParams = getOccasionFilterParams();
+    let occasionFilterParams = getOccasionFilterParams2();
     for (let occasionFilter in occasionFilterParams) {
-      if (getLocalStorageOf2(occasionFilter) == "true") {
+      if (getLocalStorageOf3(occasionFilter) == "true") {
         toggleTagColor(occasionFilter, divKeysMap.get(occasionFilter));
       }
     }
   }
   function clearVibeTags() {
-    let vibeFilterParams = getVibeFilterParams();
+    let vibeFilterParams = getVibeFilterParams2();
     for (let vibeFilter in vibeFilterParams) {
-      if (getLocalStorageOf2(vibeFilter) == "true") {
+      if (getLocalStorageOf3(vibeFilter) == "true") {
         toggleTagColor(vibeFilter, divKeysMap.get(vibeFilter));
       }
     }
@@ -8924,9 +9103,9 @@
   var MAX_CAPACITY = 1;
   function isAtNeighborhoodFilterCapacity() {
     let numActiveNeighborhoodFilters = 0;
-    let neighborhoodFilterParams = getNeighborhoodFilterParams();
+    let neighborhoodFilterParams = getNeighborhoodFilterParams2();
     for (let neighborhoodfilter in neighborhoodFilterParams) {
-      if (getLocalStorageOf2(neighborhoodfilter) == "true") {
+      if (getLocalStorageOf3(neighborhoodfilter) == "true") {
         numActiveNeighborhoodFilters += 1;
       }
     }
@@ -8937,9 +9116,9 @@
   }
   function isAtOccasionFilterCapacity() {
     let numActiveOccasionFilters = 0;
-    let occasionFilterParams = getOccasionFilterParams();
+    let occasionFilterParams = getOccasionFilterParams2();
     for (let occasionFilter in occasionFilterParams) {
-      if (getLocalStorageOf2(occasionFilter) == "true") {
+      if (getLocalStorageOf3(occasionFilter) == "true") {
         numActiveOccasionFilters += 1;
       }
     }
@@ -8950,9 +9129,9 @@
   }
   function isAtVibeFilterCapacity() {
     let numActiveVibeFilters = 0;
-    let vibeFilterParams = getVibeFilterParams();
+    let vibeFilterParams = getVibeFilterParams2();
     for (let vibeFilter in vibeFilterParams) {
-      if (getLocalStorageOf2(vibeFilter) == "true") {
+      if (getLocalStorageOf3(vibeFilter) == "true") {
         numActiveVibeFilters += 1;
       }
     }
@@ -8961,19 +9140,19 @@
     }
     return true;
   }
-  function getNeighborhoodFilterParams() {
-    let _filters = (0, import_jquery16.default)("#neighborhood-vars");
+  function getNeighborhoodFilterParams2() {
+    let _filters = (0, import_jquery18.default)("#neighborhood-vars");
     return JSON.parse(_filters.text());
   }
-  function getOccasionFilterParams() {
-    let _filters = (0, import_jquery16.default)("#occasion-vars");
+  function getOccasionFilterParams2() {
+    let _filters = (0, import_jquery18.default)("#occasion-vars");
     return JSON.parse(_filters.text());
   }
-  function getVibeFilterParams() {
-    let _filters = (0, import_jquery16.default)("#vibe-vars");
+  function getVibeFilterParams2() {
+    let _filters = (0, import_jquery18.default)("#vibe-vars");
     return JSON.parse(_filters.text());
   }
-  function getLocalStorageOf2(varName) {
+  function getLocalStorageOf3(varName) {
     return localStorage.getItem(varName);
   }
 
@@ -9322,20 +9501,20 @@
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/parseFilterParams.js
-  var import_jquery17 = __toESM(require_jquery_min());
+  var import_jquery19 = __toESM(require_jquery_min());
   function parseFilterParams() {
-    initializeLocalStorage((0, import_jquery17.default)("#city-vars"));
-    initializeLocalStorage((0, import_jquery17.default)("#neighborhood-vars"));
-    initializeLocalStorage((0, import_jquery17.default)("#occasion-vars"));
-    initializeLocalStorage((0, import_jquery17.default)("#vibe-vars"));
+    initializeLocalStorage((0, import_jquery19.default)("#city-vars"));
+    initializeLocalStorage((0, import_jquery19.default)("#neighborhood-vars"));
+    initializeLocalStorage((0, import_jquery19.default)("#occasion-vars"));
+    initializeLocalStorage((0, import_jquery19.default)("#vibe-vars"));
   }
   function initializeLocalStorage(filterVars) {
     console.log(filterVars.text());
     for (let filterName in JSON.parse(filterVars.text())) {
-      setLocalStorageOf2(filterName, "false");
+      setLocalStorageOf3(filterName, "false");
     }
   }
-  function setLocalStorageOf2(varName, varValue) {
+  function setLocalStorageOf3(varName, varValue) {
     localStorage.setItem(varName, varValue);
   }
 
@@ -9397,264 +9576,88 @@
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/init/initTagBinding.js
   function initTagBinding() {
     toggleNewYorkCityButton;
-    (0, import_jquery18.default)("#manhattan-district1-btn").click(toggleManhattanDistrict1);
-    (0, import_jquery18.default)("#manhattan-district2-btn").click(toggleManhattanDistrict2);
-    (0, import_jquery18.default)("#manhattan-district3-btn").click(toggleManhattanDistrict3);
-    (0, import_jquery18.default)("#manhattan-district4-btn").click(toggleManhattanDistrict4);
-    (0, import_jquery18.default)("#manhattan-district5-btn").click(toggleManhattanDistrict5);
-    (0, import_jquery18.default)("#manhattan-district7-btn").click(toggleManhattanDistrict7);
-    (0, import_jquery18.default)("#manhattan-district8-btn").click(toggleManhattanDistrict8);
-    (0, import_jquery18.default)("#brooklyn-district2-btn").click(toggleBrooklynDistrict2);
-    (0, import_jquery18.default)("#brooklyn-district6-btn").click(toggleBrooklynDistrict6);
-    (0, import_jquery18.default)("#east-village-btn").click(toggleEastVillageButton);
-    (0, import_jquery18.default)("#chelsea-btn").click(toggleChelseaButton);
-    (0, import_jquery18.default)("#lower-east-side-btn").click(toggleLowerEastSideButton);
-    (0, import_jquery18.default)("#greenpoint-btn").click(toggleGreenpointButton);
-    (0, import_jquery18.default)("#west-village-btn").click(toggleWestVillagButton);
-    (0, import_jquery18.default)("#noho-btn").click(toggleNohoButton);
-    (0, import_jquery18.default)("#nolita-btn").click(toggleNolitaButton);
-    (0, import_jquery18.default)("#hells-kitchen-btn").click(toggleHellsKitchenButton);
-    (0, import_jquery18.default)("#koreatown-btn").click(toggleKoreatownButton);
-    (0, import_jquery18.default)("#midtown-btn").click(toggleMidtownButton);
-    (0, import_jquery18.default)("#soho-btn").click(toggleSohoButton);
-    (0, import_jquery18.default)("#south-brooklyn-btn").click(toggleSouthBrooklynButton);
-    (0, import_jquery18.default)("#tribeca-btn").click(toggleTribecaButton);
-    (0, import_jquery18.default)("#union-square-btn").click(toggleUnionSquareButton);
-    (0, import_jquery18.default)("#upper-east-side-btn").click(toggleUpperEastSideButton);
-    (0, import_jquery18.default)("#upper-west-side-btn").click(toggleUpperWestSideButton);
-    (0, import_jquery18.default)("#williamsburg-btn").click(toggleWilliamsburgButton);
-    (0, import_jquery18.default)("#bakery-btn").click(toggleBakeryButton);
-    (0, import_jquery18.default)("#bar-seating-btn").click(toggleBarSeatingButton);
-    (0, import_jquery18.default)("#big-group-btn").click(toggleBigGroupButton);
-    (0, import_jquery18.default)("#birthday-dinner-btn").click(toggleBirthdayDinnerButton);
-    (0, import_jquery18.default)("#brunch-btn").click(toggleBrunchButton);
-    (0, import_jquery18.default)("#cocktail-bar-btn").click(toggleCocktailBarButton);
-    (0, import_jquery18.default)("#date-night-btn").click(toggleDateNightButton);
-    (0, import_jquery18.default)("#day-drink-btn").click(toggleDayDrinkButton);
-    (0, import_jquery18.default)("#dessert-btn").click(toggleDessertButton);
-    (0, import_jquery18.default)("#fast-casual-btn").click(toggleFastCasualButton);
-    (0, import_jquery18.default)("#impress-visitors-btn").click(toggleImpressVisitorsButton);
-    (0, import_jquery18.default)("#omakase-btn").click(toggleOmakaseButton);
-    (0, import_jquery18.default)("#oysters-btn").click(toggleOystersButton);
-    (0, import_jquery18.default)("#parents-in-town-btn").click(toggleParentsInTownButton);
-    (0, import_jquery18.default)("#small-group-btn").click(toggleSmallGroupButton);
-    (0, import_jquery18.default)("#special-occasion-btn").click(toggleSpecialOccasionButton);
-    (0, import_jquery18.default)("#tasting-menu-btn").click(toggleTastingMenuButton);
-    (0, import_jquery18.default)("#walk-in-btn").click(toggleWalkInButton);
-    (0, import_jquery18.default)("#wine-bar-btn").click(toggleWineBarButton);
-    (0, import_jquery18.default)("#work-dinner-btn").click(toggleWorkDinnerButton);
-    (0, import_jquery18.default)("#trendy-btn").click(toggleTrendyButton);
-    (0, import_jquery18.default)("#unassuming-btn").click(toggleUnassumingButton);
-    (0, import_jquery18.default)("#divey-btn").click(toggleDiveyButton);
-    (0, import_jquery18.default)("#institution-btn").click(toggleInstitutionButton);
-    (0, import_jquery18.default)("#boujee-btn").click(toggleBoujeeButton);
-    (0, import_jquery18.default)("#pretentious-btn").click(togglePretentiousButton);
-    (0, import_jquery18.default)("#drop-dimes-btn").click(toggleDropDimesButton);
-    (0, import_jquery18.default)("#cheap-cheerful-btn").click(toggleCheapCheerfulButton);
-    (0, import_jquery18.default)("#tried-true-btn").click(toggleTriedTrueButton);
-    (0, import_jquery18.default)("#phone-eats-first-btn").click(togglePhoneEatsFirstButton);
-    (0, import_jquery18.default)("#family-style-btn").click(toggleFamilyStyleButton);
-    (0, import_jquery18.default)("#fun-different-btn").click(toggleFunDifferentButton);
-    (0, import_jquery18.default)("#ugly-delicious-btn").click(toggleUglydeliciousButton);
-    (0, import_jquery18.default)("#rainy-day-btn").click(toggleRainyDayButton);
-    (0, import_jquery18.default)("#high-energy-btn").click(toggleHighEnergyButton);
-    (0, import_jquery18.default)("#low-key-btn").click(toggleLowKeyButton);
-    (0, import_jquery18.default)("#friendly-staff-btn").click(toggleFriendlyStaffButton);
-    (0, import_jquery18.default)("#quick-table-turnover-btn").click(toggleQuickTableTurnoverButton);
-    (0, import_jquery18.default)("#close-quarters-btn").click(toggleCloseQuartersButton);
-    (0, import_jquery18.default)("#dj-cooking-btn").click(toggleDjCookingButton);
-    (0, import_jquery18.default)("#diner-btn").click(toggleDinerButton);
-    (0, import_jquery18.default)("#warm-cozy-btn").click(toggleWarmCozyButton);
-    (0, import_jquery18.default)("#open-airy-btn").click(toggleOpenAiryButton);
-    (0, import_jquery18.default)("#romance-btn").click(toggleRomanceButton);
-    (0, import_jquery18.default)("#patio-action-btn").click(togglePatioActionButton);
-    (0, import_jquery18.default)("#rooftop-sauce-btn").click(toggleRooftopSauceButton);
-    (0, import_jquery18.default)("#apres-ski-btn").click(toggleApresSkiButton);
-    (0, import_jquery18.default)("#tropical-btn").click(toggleTropicalButton);
-    (0, import_jquery18.default)("#european-btn").click(toggleEuropeanButton);
-    (0, import_jquery18.default)("#clean-modern-btn").click(toggleCleanModernButton);
-    (0, import_jquery18.default)("#people-watching-btn").click(togglePeopleWatchingButton);
-    (0, import_jquery18.default)("#pizza-btn").click(togglePizzaButton);
+    (0, import_jquery20.default)("#manhattan-district1-btn").click(toggleManhattanDistrict1);
+    (0, import_jquery20.default)("#manhattan-district2-btn").click(toggleManhattanDistrict2);
+    (0, import_jquery20.default)("#manhattan-district3-btn").click(toggleManhattanDistrict3);
+    (0, import_jquery20.default)("#manhattan-district4-btn").click(toggleManhattanDistrict4);
+    (0, import_jquery20.default)("#manhattan-district5-btn").click(toggleManhattanDistrict5);
+    (0, import_jquery20.default)("#manhattan-district7-btn").click(toggleManhattanDistrict7);
+    (0, import_jquery20.default)("#manhattan-district8-btn").click(toggleManhattanDistrict8);
+    (0, import_jquery20.default)("#brooklyn-district2-btn").click(toggleBrooklynDistrict2);
+    (0, import_jquery20.default)("#brooklyn-district6-btn").click(toggleBrooklynDistrict6);
+    (0, import_jquery20.default)("#east-village-btn").click(toggleEastVillageButton);
+    (0, import_jquery20.default)("#chelsea-btn").click(toggleChelseaButton);
+    (0, import_jquery20.default)("#lower-east-side-btn").click(toggleLowerEastSideButton);
+    (0, import_jquery20.default)("#greenpoint-btn").click(toggleGreenpointButton);
+    (0, import_jquery20.default)("#west-village-btn").click(toggleWestVillagButton);
+    (0, import_jquery20.default)("#noho-btn").click(toggleNohoButton);
+    (0, import_jquery20.default)("#nolita-btn").click(toggleNolitaButton);
+    (0, import_jquery20.default)("#hells-kitchen-btn").click(toggleHellsKitchenButton);
+    (0, import_jquery20.default)("#koreatown-btn").click(toggleKoreatownButton);
+    (0, import_jquery20.default)("#midtown-btn").click(toggleMidtownButton);
+    (0, import_jquery20.default)("#soho-btn").click(toggleSohoButton);
+    (0, import_jquery20.default)("#south-brooklyn-btn").click(toggleSouthBrooklynButton);
+    (0, import_jquery20.default)("#tribeca-btn").click(toggleTribecaButton);
+    (0, import_jquery20.default)("#union-square-btn").click(toggleUnionSquareButton);
+    (0, import_jquery20.default)("#upper-east-side-btn").click(toggleUpperEastSideButton);
+    (0, import_jquery20.default)("#upper-west-side-btn").click(toggleUpperWestSideButton);
+    (0, import_jquery20.default)("#williamsburg-btn").click(toggleWilliamsburgButton);
+    (0, import_jquery20.default)("#bakery-btn").click(toggleBakeryButton);
+    (0, import_jquery20.default)("#bar-seating-btn").click(toggleBarSeatingButton);
+    (0, import_jquery20.default)("#big-group-btn").click(toggleBigGroupButton);
+    (0, import_jquery20.default)("#birthday-dinner-btn").click(toggleBirthdayDinnerButton);
+    (0, import_jquery20.default)("#brunch-btn").click(toggleBrunchButton);
+    (0, import_jquery20.default)("#cocktail-bar-btn").click(toggleCocktailBarButton);
+    (0, import_jquery20.default)("#date-night-btn").click(toggleDateNightButton);
+    (0, import_jquery20.default)("#day-drink-btn").click(toggleDayDrinkButton);
+    (0, import_jquery20.default)("#dessert-btn").click(toggleDessertButton);
+    (0, import_jquery20.default)("#fast-casual-btn").click(toggleFastCasualButton);
+    (0, import_jquery20.default)("#impress-visitors-btn").click(toggleImpressVisitorsButton);
+    (0, import_jquery20.default)("#omakase-btn").click(toggleOmakaseButton);
+    (0, import_jquery20.default)("#oysters-btn").click(toggleOystersButton);
+    (0, import_jquery20.default)("#parents-in-town-btn").click(toggleParentsInTownButton);
+    (0, import_jquery20.default)("#small-group-btn").click(toggleSmallGroupButton);
+    (0, import_jquery20.default)("#special-occasion-btn").click(toggleSpecialOccasionButton);
+    (0, import_jquery20.default)("#tasting-menu-btn").click(toggleTastingMenuButton);
+    (0, import_jquery20.default)("#walk-in-btn").click(toggleWalkInButton);
+    (0, import_jquery20.default)("#wine-bar-btn").click(toggleWineBarButton);
+    (0, import_jquery20.default)("#work-dinner-btn").click(toggleWorkDinnerButton);
+    (0, import_jquery20.default)("#trendy-btn").click(toggleTrendyButton);
+    (0, import_jquery20.default)("#unassuming-btn").click(toggleUnassumingButton);
+    (0, import_jquery20.default)("#divey-btn").click(toggleDiveyButton);
+    (0, import_jquery20.default)("#institution-btn").click(toggleInstitutionButton);
+    (0, import_jquery20.default)("#boujee-btn").click(toggleBoujeeButton);
+    (0, import_jquery20.default)("#pretentious-btn").click(togglePretentiousButton);
+    (0, import_jquery20.default)("#drop-dimes-btn").click(toggleDropDimesButton);
+    (0, import_jquery20.default)("#cheap-cheerful-btn").click(toggleCheapCheerfulButton);
+    (0, import_jquery20.default)("#tried-true-btn").click(toggleTriedTrueButton);
+    (0, import_jquery20.default)("#phone-eats-first-btn").click(togglePhoneEatsFirstButton);
+    (0, import_jquery20.default)("#family-style-btn").click(toggleFamilyStyleButton);
+    (0, import_jquery20.default)("#fun-different-btn").click(toggleFunDifferentButton);
+    (0, import_jquery20.default)("#ugly-delicious-btn").click(toggleUglydeliciousButton);
+    (0, import_jquery20.default)("#rainy-day-btn").click(toggleRainyDayButton);
+    (0, import_jquery20.default)("#high-energy-btn").click(toggleHighEnergyButton);
+    (0, import_jquery20.default)("#low-key-btn").click(toggleLowKeyButton);
+    (0, import_jquery20.default)("#friendly-staff-btn").click(toggleFriendlyStaffButton);
+    (0, import_jquery20.default)("#quick-table-turnover-btn").click(toggleQuickTableTurnoverButton);
+    (0, import_jquery20.default)("#close-quarters-btn").click(toggleCloseQuartersButton);
+    (0, import_jquery20.default)("#dj-cooking-btn").click(toggleDjCookingButton);
+    (0, import_jquery20.default)("#diner-btn").click(toggleDinerButton);
+    (0, import_jquery20.default)("#warm-cozy-btn").click(toggleWarmCozyButton);
+    (0, import_jquery20.default)("#open-airy-btn").click(toggleOpenAiryButton);
+    (0, import_jquery20.default)("#romance-btn").click(toggleRomanceButton);
+    (0, import_jquery20.default)("#patio-action-btn").click(togglePatioActionButton);
+    (0, import_jquery20.default)("#rooftop-sauce-btn").click(toggleRooftopSauceButton);
+    (0, import_jquery20.default)("#apres-ski-btn").click(toggleApresSkiButton);
+    (0, import_jquery20.default)("#tropical-btn").click(toggleTropicalButton);
+    (0, import_jquery20.default)("#european-btn").click(toggleEuropeanButton);
+    (0, import_jquery20.default)("#clean-modern-btn").click(toggleCleanModernButton);
+    (0, import_jquery20.default)("#people-watching-btn").click(togglePeopleWatchingButton);
+    (0, import_jquery20.default)("#pizza-btn").click(togglePizzaButton);
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/init/initApplyFiltersBinding.js
   var import_jquery21 = __toESM(require_jquery_min());
-
-  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/hideGeneratedLists.js
-  var import_jquery19 = __toESM(require_jquery_min());
-  function hideGeneratedLists() {
-    let supportedNeighborhoods = [
-      "manhattan-district1",
-      "manhattan-district2",
-      "manhattan-district3",
-      "manhattan-district4",
-      "manhattan-district5",
-      "manhattan-district7",
-      "manhattan-district8",
-      "brooklyn-district2",
-      "brooklyn-district6"
-    ];
-    let supportedOccasions = [
-      "date night",
-      "birthday dinner",
-      "work dinner",
-      "fast casual quick lunch",
-      "bakery",
-      "impress visitors",
-      "special occasion",
-      "big group",
-      "parents in town",
-      "small group",
-      "walk-in last minute",
-      // "dessert",
-      "brunch",
-      "bar seating solo dining",
-      "day drink patio pounders",
-      "wine bar",
-      "cocktail bar",
-      "oysters happy hour",
-      // "omakase",
-      "tasting menu",
-      "people watching",
-      "pizza"
-    ];
-    let supportedVibes = [
-      "trendy see and be seen",
-      // "unassuming",
-      "divey casual",
-      "institution",
-      "boujee pretend youre rich",
-      // "pretentious",
-      // "drop dimes",
-      "cheap cheerful",
-      "tried true",
-      "phone eats first",
-      "family style",
-      "fun different",
-      "ugly delicious",
-      "rainy day food for the soul",
-      "high energy",
-      "low-key",
-      "friendly staff welcoming",
-      // "quick table turnover",
-      // "close quarters" ,
-      // "dj is cooking with gas",
-      "diner",
-      "warm cozy",
-      // "open airy",
-      "its giving romance",
-      "patio action garden seating",
-      // "rooftop sauce",
-      "apr\xE9s ski",
-      // "tropical beach club",
-      "european"
-      // "clean modern",
-    ];
-    let neighborhoodKeys = /* @__PURE__ */ new Set();
-    for (let supportedNeighborhood1 of supportedNeighborhoods) {
-      let neighborhoodKey1 = supportedNeighborhood1.split(" ").sort().join("-");
-      neighborhoodKeys.add(neighborhoodKey1);
-    }
-    let occasionKeys = /* @__PURE__ */ new Set();
-    for (let supportedOccasion1 of supportedOccasions) {
-      let occasionKey1 = supportedOccasion1.split(" ").sort().join("-");
-      occasionKeys.add(occasionKey1);
-    }
-    let vibeKeys = /* @__PURE__ */ new Set();
-    for (let supportedVibe1 of supportedVibes) {
-      let vibeKey1 = supportedVibe1.split(" ").sort().join("-");
-      vibeKeys.add(vibeKey1);
-    }
-    neighborhoodKeys.add("NoNeighborhood");
-    occasionKeys.add("NoOccasion");
-    vibeKeys.add("NoVibe");
-    for (let neighborhoodKey of neighborhoodKeys) {
-      for (let occasionKey of occasionKeys) {
-        for (let vibeKey of vibeKeys) {
-          let divKey = "#" + neighborhoodKey + "-" + occasionKey + "-" + vibeKey;
-          (0, import_jquery19.default)(divKey).hide();
-        }
-      }
-    }
-  }
-
-  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/utils/applyFilters.js
-  var import_jquery20 = __toESM(require_jquery_min());
-  function applyFilters() {
-    let neighborhoodfilters = [];
-    let neighborhoodFilterParams = getNeighborhoodFilterParams2();
-    for (let neighborhoodfilter in neighborhoodFilterParams) {
-      if (getLocalStorageOf3(neighborhoodfilter) == "true") {
-        setLocalStorageOf3("activeNeighborhood", neighborhoodfilter);
-        let neighborhoodFilterArray = neighborhoodfilter.split(" ");
-        neighborhoodfilters = neighborhoodfilters.concat(neighborhoodFilterArray);
-      }
-    }
-    let occasionfilters = [];
-    for (let occasionfilter in getOccasionFilterParams2()) {
-      if (getLocalStorageOf3(occasionfilter) == "true") {
-        setLocalStorageOf3("activeOccasion", occasionfilter);
-        let occasionFilterArray = occasionfilter.split(" ");
-        occasionfilters = occasionfilters.concat(occasionFilterArray);
-      }
-    }
-    let vibefilters = [];
-    for (let vibefilter in getVibeFilterParams2()) {
-      if (getLocalStorageOf3(vibefilter) == "true") {
-        setLocalStorageOf3("activeVibe", vibefilter);
-        let vibeFilterArray = vibefilter.split(" ");
-        vibefilters = vibefilters.concat(vibeFilterArray);
-      }
-    }
-    let neighborhoodKey = "";
-    if (neighborhoodfilters.length == 0) {
-      setLocalStorageOf3("activeNeighborhood", "NoNeighborhood");
-      neighborhoodKey = "NoNeighborhood";
-    } else {
-      neighborhoodKey = neighborhoodfilters.sort().join("-");
-    }
-    let occasionKey = "";
-    if (occasionfilters.length == 0) {
-      setLocalStorageOf3("activeOccasion", "NoOccasion");
-      occasionKey = "NoOccasion";
-    } else {
-      occasionKey = occasionfilters.sort().join("-");
-    }
-    let vibeKey = "";
-    if (vibefilters.length == 0) {
-      setLocalStorageOf3("activeVibe", "NoVibe");
-      vibeKey = "NoVibe";
-    } else {
-      vibeKey = vibefilters.sort().join("-");
-    }
-    let activeList = getLocalStorageOf3("activeList");
-    console.log("Hiding active list: ", activeList);
-    (0, import_jquery20.default)(activeList).hide();
-    let divKey = "#" + neighborhoodKey + "-" + occasionKey + "-" + vibeKey;
-    console.log("Displaying hidden list: ", divKey);
-    setLocalStorageOf3("activeList", divKey);
-    (0, import_jquery20.default)(divKey).show();
-  }
-  function getLocalStorageOf3(varName) {
-    return localStorage.getItem(varName);
-  }
-  function setLocalStorageOf3(varName, varValue) {
-    localStorage.setItem(varName, varValue);
-  }
-  function getNeighborhoodFilterParams2() {
-    let _filters = (0, import_jquery20.default)("#neighborhood-vars");
-    return JSON.parse(_filters.text());
-  }
-  function getOccasionFilterParams2() {
-    let _filters = (0, import_jquery20.default)("#occasion-vars");
-    return JSON.parse(_filters.text());
-  }
-  function getVibeFilterParams2() {
-    let _filters = (0, import_jquery20.default)("#vibe-vars");
-    return JSON.parse(_filters.text());
-  }
-
-  // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/init/initApplyFiltersBinding.js
   function initApplyFiltersBinding() {
     hideGeneratedLists();
     console.log("init apply filters.");

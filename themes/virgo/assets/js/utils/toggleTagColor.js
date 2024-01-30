@@ -1,4 +1,5 @@
 import $ from '../libs/jquery.min';
+import applyFilters from 'js/utils/applyFilters';
 
 export default function toggleTagColor(tagName, divElement) {
     if (getLocalStorageOf(tagName) === 'false') {
@@ -6,6 +7,7 @@ export default function toggleTagColor(tagName, divElement) {
     } else {
         setButtonToInactive(tagName, divElement);
     }
+    applyFilters();
 }
 
 function setButtonToActive(tagName, divElement) {
