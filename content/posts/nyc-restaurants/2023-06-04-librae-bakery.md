@@ -4,7 +4,7 @@ date: 2023-06-04
 bycountry: ["usa"]
 bycity: ["new york"]
 byneighborhood: ["east village"]
-byoccasion: ["bakery", "impress visitors"]
+byoccasion: ["coffee • bakery", "impress visitors"]
 byvibe: ["phone eats first", "clean • modern"]
 byyear: ["2023"]
 background_image: '../../background/librae.png'

@@ -18,7 +18,7 @@ export default function hideGeneratedLists() {
         "birthday dinner",
         "work dinner",
         "fast casual quick lunch",
-        "bakery",
+        "coffee bakery",
         "impress visitors",
         "special occasion",
         "big group",

@@ -17,7 +17,7 @@ const divKeysMap = new Map([
     ["special occasion", "#special-occasion-btn.tag"],
     ["work dinner", "#work-dinner-btn.tag"],
     ["fast casual quick lunch", "#fast-casual-btn.tag"],
-    ["bakery", "#bakery-btn.tag"],
+    ["coffee bakery", "#coffee-bakery-btn.tag"],
     ["impress visitors", "#impress-visitors-btn.tag"],
     ["date night", "#date-night-btn.tag"],
     ["parents in town", "#parents-in-town-btn.tag"],

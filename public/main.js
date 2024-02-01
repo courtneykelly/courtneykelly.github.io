@@ -8763,7 +8763,7 @@
     ["special occasion", "#special-occasion-btn.tag"],
     ["work dinner", "#work-dinner-btn.tag"],
     ["fast casual quick lunch", "#fast-casual-btn.tag"],
-    ["bakery", "#bakery-btn.tag"],
+    ["coffee bakery", "#coffee-bakery-btn.tag"],
     ["impress visitors", "#impress-visitors-btn.tag"],
     ["date night", "#date-night-btn.tag"],
     ["parents in town", "#parents-in-town-btn.tag"],
@@ -8841,7 +8841,7 @@
       "birthday dinner",
       "work dinner",
       "fast casual quick lunch",
-      "bakery",
+      "coffee bakery",
       "impress visitors",
       "special occasion",
       "big group",
@@ -9262,7 +9262,7 @@
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/tags/occasions/toggleBakery.js
   function toggleBakeryButton() {
-    toggleTag("bakery", "#bakery-btn.tag");
+    toggleTag("coffee bakery", "#coffee-bakery-btn.tag");
   }
 
   // ns-hugo:/Users/sneeze/Desktop/Blog/courtneykelly.github.io/themes/virgo/assets/js/tags/occasions/toggleBarSeating.js
@@ -9602,7 +9602,7 @@
     (0, import_jquery20.default)("#upper-east-side-btn").click(toggleUpperEastSideButton);
     (0, import_jquery20.default)("#upper-west-side-btn").click(toggleUpperWestSideButton);
     (0, import_jquery20.default)("#williamsburg-btn").click(toggleWilliamsburgButton);
-    (0, import_jquery20.default)("#bakery-btn").click(toggleBakeryButton);
+    (0, import_jquery20.default)("#coffee-bakery-btn").click(toggleBakeryButton);
     (0, import_jquery20.default)("#bar-seating-btn").click(toggleBarSeatingButton);
     (0, import_jquery20.default)("#big-group-btn").click(toggleBigGroupButton);
     (0, import_jquery20.default)("#birthday-dinner-btn").click(toggleBirthdayDinnerButton);

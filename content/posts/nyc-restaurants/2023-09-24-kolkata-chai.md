@@ -4,7 +4,7 @@ date: 2023-09-24
 bycountry: ["usa"]
 bycity: ["new york"]
 byneighborhood: ["east village", "nolita"]
-byoccasion: ["fast casual • quick lunch", "bakery"]
+byoccasion: ["fast casual • quick lunch", "coffee • bakery"]
 bytip: [""]
 byattire: ["no one cares"]
 byvibe: ["unassuming"]

@@ -4,7 +4,7 @@ date: 2021-01-01
 bycountry: ["usa"]
 bycity: ["new york"]
 byneighborhood: ["east village"]
-byoccasion: ["bakery", "fast casual • quick lunch"]
+byoccasion: ["coffee • bakery", "fast casual • quick lunch"]
 bytip: [""]
 byattire: ["no one cares"]
 byvibe: ["unassuming", "friendly staff • welcoming", "warm • cozy"]

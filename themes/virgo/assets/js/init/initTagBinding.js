@@ -114,7 +114,7 @@ export default function initTagBinding() {
     $('#williamsburg-btn').click(toggleWilliamsburgButton);
 
     // occasions
-    $('#bakery-btn').click(toggleBakeryButton);
+    $('#coffee-bakery-btn').click(toggleBakeryButton);
     $('#bar-seating-btn').click(toggleBarSeatingButton);
     $('#big-group-btn').click(toggleBigGroupButton);
     $('#birthday-dinner-btn').click(toggleBirthdayDinnerButton);
