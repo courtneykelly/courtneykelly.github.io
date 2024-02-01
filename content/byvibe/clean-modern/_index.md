@@ -1,4 +1,4 @@
 ---
 title: clean • modern
-background_image: '../background/clean_modern2.jpeg'
+background_image: '../background/clean_modern.jpeg'
 ---

@@ -9,7 +9,7 @@ bytip: ["tough reservation • plan ahead", "don't skip dessert", "the more the 
 byattire: ["cute casual"]
 byvibe: ["tried & true", "phone eats first", "family style", "high energy", "friendly staff • welcoming", "close quarters"]
 byyear: ["2023"]
-background_image: '../../background/emmetts2.png'
+background_image: '../../background/emmetts.png'
 ---
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.322850419176!2d-74.00708912397329!3d40.73292097139049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2593b38964921%3a0xca15ababdded7d73!2semmett&#39;s%20on%20grove!5e0!3m2!1sen!2sus!4v1694543324230!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

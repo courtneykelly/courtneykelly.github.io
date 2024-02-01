@@ -1,4 +1,4 @@
 ---
 title: people watching
-background_image: '../background/people_watching2.jpeg'
+background_image: '../background/people_watching.jpeg'
 ---
