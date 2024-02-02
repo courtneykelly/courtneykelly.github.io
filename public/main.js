@@ -8783,7 +8783,7 @@
     // Vibe Div Keys.
     ["trendy see and be seen", "#trendy-btn.tag"],
     ["unassuming", "#unassuming-btn.tag"],
-    ["divey", "#divey-btn.tag"],
+    ["divey casual", "#divey-btn.tag"],
     ["institution", "#institution-btn.tag"],
     ["boujee pretend youre rich", "#boujee-btn.tag"],
     ["pretentious", "#pretentious-btn.tag"],
