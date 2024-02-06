@@ -6,8 +6,15 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soho</title>
+      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
+      <description></description>
+    </item>
     <item>
       <title>upper west side</title>
       <link>https://courtneykelly.github.io/byneighborhood/upper-west-side/</link>
@@ -48,13 +55,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>soho</title>
-      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
       <description></description>
     </item>
     <item>
