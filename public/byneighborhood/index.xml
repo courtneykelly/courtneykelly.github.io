@@ -6,8 +6,36 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lower east side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>west village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>east village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>noho</title>
+      <link>https://courtneykelly.github.io/byneighborhood/noho/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/noho/</guid>
+      <description></description>
+    </item>
     <item>
       <title>chelsea</title>
       <link>https://courtneykelly.github.io/byneighborhood/chelsea/</link>
@@ -30,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>east village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>greenpoint</title>
       <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
@@ -48,27 +69,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/midtown/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/midtown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>noho</title>
-      <link>https://courtneykelly.github.io/byneighborhood/noho/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/noho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>lower east side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>west village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
       <description></description>
     </item>
     <item>
