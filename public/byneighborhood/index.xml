@@ -6,20 +6,27 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lower east side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
+      <title>union square</title>
+      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
       <description></description>
     </item>
     <item>
       <title>west village</title>
       <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lower east side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +104,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/nolita/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/nolita/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>union square</title>
-      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
-      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
       <description></description>
     </item>
     <item>
