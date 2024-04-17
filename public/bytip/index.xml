@@ -6,8 +6,15 @@
     <description>Recent content in pro tips on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/bytip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>byob</title>
+      <link>https://courtneykelly.github.io/bytip/byob/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/byob/</guid>
+      <description></description>
+    </item>
     <item>
       <title>seafood heavy</title>
       <link>https://courtneykelly.github.io/bytip/seafood-heavy/</link>
@@ -90,13 +97,6 @@
       <link>https://courtneykelly.github.io/bytip/automatic-service-charge/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/bytip/automatic-service-charge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>byob</title>
-      <link>https://courtneykelly.github.io/bytip/byob/</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/byob/</guid>
       <description></description>
     </item>
   </channel>
