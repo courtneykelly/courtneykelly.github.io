@@ -6,13 +6,34 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fidi</title>
+      <link>https://courtneykelly.github.io/byneighborhood/fidi/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/fidi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>west village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <description></description>
+    </item>
     <item>
       <title>east village</title>
       <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tribeca</title>
+      <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +41,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>west village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
       <description></description>
     </item>
     <item>
@@ -79,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>tribeca</title>
-      <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>williamsburg</title>
       <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
@@ -125,13 +132,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/hells-kitchen/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/hells-kitchen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>fidi</title>
-      <link>https://courtneykelly.github.io/byneighborhood/fidi/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/fidi/</guid>
       <description></description>
     </item>
     <item>
