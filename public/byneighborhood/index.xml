@@ -6,8 +6,29 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soho</title>
+      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>williamsburg</title>
+      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>chelsea</title>
+      <link>https://courtneykelly.github.io/byneighborhood/chelsea/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/chelsea/</guid>
+      <description></description>
+    </item>
     <item>
       <title>fidi</title>
       <link>https://courtneykelly.github.io/byneighborhood/fidi/</link>
@@ -58,20 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>chelsea</title>
-      <link>https://courtneykelly.github.io/byneighborhood/chelsea/</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/chelsea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>soho</title>
-      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>upper west side</title>
       <link>https://courtneykelly.github.io/byneighborhood/upper-west-side/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
@@ -90,13 +97,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/midtown/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/midtown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>williamsburg</title>
-      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
       <description></description>
     </item>
     <item>
