@@ -6,20 +6,41 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>soho</title>
-      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
+      <title>west village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>greenpoint</title>
+      <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/greenpoint/</guid>
       <description></description>
     </item>
     <item>
       <title>williamsburg</title>
       <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
-      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lower east side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>soho</title>
+      <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +55,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/fidi/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/fidi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>west village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>lower east side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>noho</title>
       <link>https://courtneykelly.github.io/byneighborhood/noho/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
@@ -83,13 +90,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/upper-west-side/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/upper-west-side/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>greenpoint</title>
-      <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/greenpoint/</guid>
       <description></description>
     </item>
     <item>
