@@ -7,7 +7,7 @@ byneighborhood: ["west village"]
 byoccasion: ["people watching", "day drink • patio pounders"]
 bytip: [""]
 byattire: ["cute casual"]
-byvibe: ["pretentious", "patio action • garden seating", "$$$$ • drop dimes"]
+byvibe: ["pretentious", "patio action • garden seating"]
 byyear: ["2021"]
 background_image: '../../background/lola.jpeg'
 ---

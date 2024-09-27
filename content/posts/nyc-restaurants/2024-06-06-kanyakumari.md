@@ -18,4 +18,4 @@ background_image: '../../background/kanyakumari.jpeg'
 * fantastic
 
 #### menu highlights
-* everything
+* from mumbai - samrat vada pav

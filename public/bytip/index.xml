@@ -6,8 +6,50 @@
     <description>Recent content in pro tips on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/bytip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>loud</title>
+      <link>https://courtneykelly.github.io/bytip/loud/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/loud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>byob</title>
+      <link>https://courtneykelly.github.io/bytip/byob/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/byob/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>seafood heavy</title>
+      <link>https://courtneykelly.github.io/bytip/seafood-heavy/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/seafood-heavy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>veggie friendly</title>
+      <link>https://courtneykelly.github.io/bytip/veggie-friendly/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/veggie-friendly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>don&#39;t skip dessert</title>
+      <link>https://courtneykelly.github.io/bytip/dont-skip-dessert/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/dont-skip-dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tough reservation • plan ahead</title>
+      <link>https://courtneykelly.github.io/bytip/tough-reservation-plan-ahead/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/bytip/tough-reservation-plan-ahead/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ask the somm</title>
       <link>https://courtneykelly.github.io/bytip/ask-the-somm/</link>
@@ -16,24 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>veggie friendly</title>
-      <link>https://courtneykelly.github.io/bytip/veggie-friendly/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/veggie-friendly/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>spice tolerance advised</title>
       <link>https://courtneykelly.github.io/bytip/spice-tolerance-advised/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/bytip/spice-tolerance-advised/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>seafood heavy</title>
-      <link>https://courtneykelly.github.io/bytip/seafood-heavy/</link>
-      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/seafood-heavy/</guid>
       <description></description>
     </item>
     <item>
@@ -48,34 +76,6 @@
       <link>https://courtneykelly.github.io/bytip/the-more-the-merrier/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/bytip/the-more-the-merrier/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>don&#39;t skip dessert</title>
-      <link>https://courtneykelly.github.io/bytip/dont-skip-dessert/</link>
-      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/dont-skip-dessert/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>loud</title>
-      <link>https://courtneykelly.github.io/bytip/loud/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/loud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>byob</title>
-      <link>https://courtneykelly.github.io/bytip/byob/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/byob/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>tough reservation • plan ahead</title>
-      <link>https://courtneykelly.github.io/bytip/tough-reservation-plan-ahead/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/bytip/tough-reservation-plan-ahead/</guid>
       <description></description>
     </item>
     <item>
