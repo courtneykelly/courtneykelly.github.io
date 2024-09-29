@@ -6,8 +6,43 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>upper west side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/upper-west-side/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/upper-west-side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lower east side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>east village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>midtown</title>
+      <link>https://courtneykelly.github.io/byneighborhood/midtown/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/midtown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>williamsburg</title>
+      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
     <item>
       <title>union square</title>
       <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
@@ -23,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>east village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>nolita</title>
       <link>https://courtneykelly.github.io/byneighborhood/nolita/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
@@ -41,20 +69,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>williamsburg</title>
-      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>midtown</title>
-      <link>https://courtneykelly.github.io/byneighborhood/midtown/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/midtown/</guid>
       <description></description>
     </item>
     <item>
@@ -86,13 +100,6 @@
       <description></description>
     </item>
     <item>
-      <title>lower east side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>chelsea</title>
       <link>https://courtneykelly.github.io/byneighborhood/chelsea/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
@@ -111,13 +118,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>upper west side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/upper-west-side/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/upper-west-side/</guid>
       <description></description>
     </item>
     <item>
