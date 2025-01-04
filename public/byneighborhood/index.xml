@@ -6,8 +6,22 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>greenpoint</title>
+      <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/greenpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>williamsburg</title>
+      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
     <item>
       <title>union square</title>
       <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
@@ -65,13 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>williamsburg</title>
-      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>chelsea</title>
       <link>https://courtneykelly.github.io/byneighborhood/chelsea/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
@@ -97,13 +104,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/soho/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/soho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>greenpoint</title>
-      <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/greenpoint/</guid>
       <description></description>
     </item>
     <item>
