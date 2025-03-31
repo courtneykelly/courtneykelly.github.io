@@ -4,7 +4,7 @@ date: 2025-03-27
 bycountry: ["usa"]
 bycity: ["new york"]
 byneighborhood: ["midtown"]
-byoccasion: ["date night", "special occasion", "birthday dinner", "big group", "impress visitors", "work dinner", "parents in town"]
+byoccasion: ["date night", "big group", "impress visitors", "work dinner", "parents in town"]
 bytip: ["tough reservation • plan ahead"]
 byattire: ["comfy casual"]
 byvibe: ["tried & true", "family style", "rainy day • food for the soul", "friendly staff • welcoming"]
