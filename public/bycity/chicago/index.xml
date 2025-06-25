@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chicago on courtside nyc</title>
+    <link>https://courtneykelly.github.io/bycity/chicago/</link>
+    <description>Recent content in chicago on courtside nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://courtneykelly.github.io/bycity/chicago/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>armitage alehouse</title>
+      <link>https://courtneykelly.github.io/posts/trips/chicago/2025-05-02-armitage-alehouse/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/posts/trips/chicago/2025-05-02-armitage-alehouse/</guid>
+      <description> thoughts so cozy i wanted to die waiter both nice and sarcastic - the perfect combination. hope he is well menu highlights pot pie sticky date cake (i cried) </description>
+    </item>
+    <item>
+      <title>brasero</title>
+      <link>https://courtneykelly.github.io/posts/trips/chicago/2025-05-01-brasero/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/posts/trips/chicago/2025-05-01-brasero/</guid>
+      <description> thoughts waiter was for sure high, but that added to the experience menu highlights pão de queijo fried chicken </description>
+    </item>
+    <item>
+      <title>alla vita</title>
+      <link>https://courtneykelly.github.io/posts/trips/chicago/2025-04-30-alla-vita/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/posts/trips/chicago/2025-04-30-alla-vita/</guid>
+      <description> thoughts delicious menu highlights chicken parm ricotta dumplings </description>
+    </item>
+  </channel>
+</rss>
