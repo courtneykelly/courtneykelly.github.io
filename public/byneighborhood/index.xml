@@ -6,13 +6,20 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>east village</title>
       <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>west village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>https://courtneykelly.github.io/byneighborhood/midtown/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/midtown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>west village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
       <description></description>
     </item>
     <item>
@@ -58,17 +58,17 @@
       <description></description>
     </item>
     <item>
+      <title>union square</title>
+      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>tribeca</title>
       <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>union square</title>
-      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
       <description></description>
     </item>
     <item>
