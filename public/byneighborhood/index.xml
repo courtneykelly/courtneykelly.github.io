@@ -6,8 +6,22 @@
     <description>Recent content in by neighborhood (nyc only) on courtside nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://courtneykelly.github.io/byneighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>union square</title>
+      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>south brooklyn</title>
+      <link>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</guid>
+      <description></description>
+    </item>
     <item>
       <title>redhook</title>
       <link>https://courtneykelly.github.io/byneighborhood/redhook/</link>
@@ -16,17 +30,38 @@
       <description></description>
     </item>
     <item>
+      <title>west village</title>
+      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>east village</title>
       <link>https://courtneykelly.github.io/byneighborhood/east-village/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/east-village/</guid>
       <description></description>
     </item>
     <item>
-      <title>west village</title>
-      <link>https://courtneykelly.github.io/byneighborhood/west-village/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/west-village/</guid>
+      <title>lower east side</title>
+      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>williamsburg</title>
+      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tribeca</title>
+      <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
       <description></description>
     </item>
     <item>
@@ -44,45 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>lower east side</title>
-      <link>https://courtneykelly.github.io/byneighborhood/lower-east-side/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/lower-east-side/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>greenpoint</title>
       <link>https://courtneykelly.github.io/byneighborhood/greenpoint/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://courtneykelly.github.io/byneighborhood/greenpoint/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>williamsburg</title>
-      <link>https://courtneykelly.github.io/byneighborhood/williamsburg/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/williamsburg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>union square</title>
-      <link>https://courtneykelly.github.io/byneighborhood/union-square/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/union-square/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>tribeca</title>
-      <link>https://courtneykelly.github.io/byneighborhood/tribeca/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/tribeca/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>south brooklyn</title>
-      <link>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</link>
-      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://courtneykelly.github.io/byneighborhood/south-brooklyn/</guid>
       <description></description>
     </item>
     <item>

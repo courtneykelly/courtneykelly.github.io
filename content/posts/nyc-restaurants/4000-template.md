@@ -16,7 +16,9 @@ draft: true
 
 
 #### thoughts
-* 
+
+*
 
 #### menu highlights
-* 
+
+*
